@@ -1,8 +1,8 @@
 # TPQ Library
 
-A Java library for evaluating Temporal Path Queries over graphs using temporal windows.
+This library provides the core building blocks for loading graph relations, applying temporal operators, and evaluating query plans over data represented as node pairs with lists of windows. It was used to put in practice the theory in the thesis:
 
-This library provides the core building blocks for loading graph relations, applying temporal operators, and evaluating query plans over data represented as node pairs with lists of windows.
+> Petar Grigorov. *Querying Graphs with Temporal Validity and Uncertainty*. Unpublished Bachelor's thesis, Free University of Bozen-Bolzano, October 2026.
 
 ## Overview
 

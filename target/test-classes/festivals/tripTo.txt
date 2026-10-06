@@ -1,3 +1,0 @@
-Bolzano:Merano:-inf:+inf:-inf:+inf:40:70
-Merano:Bressanone:-inf:+inf:-inf:+inf:40:60
-Bolzano:Bressanone:-inf:+inf:-inf:+inf:60:90

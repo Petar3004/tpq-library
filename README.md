@@ -1,8 +1,8 @@
 # TPQ Library
 
-A Java library for evaluating temporal queries over graph-style relations using interval-based windows and relational operators.
+A Java library for evaluating Temporal Path Queries over graphs using temporal windows.
 
-This project provides the core building blocks for loading graph relations, applying temporal operators, and evaluating query plans over data represented as node pairs with time intervals.
+This library provides the core building blocks for loading graph relations, applying temporal operators, and evaluating query plans over data represented as node pairs with lists of windows.
 
 ## Overview
 
@@ -12,7 +12,7 @@ The library includes:
 - temporal interval and window utilities
 - relational operators such as `Read`, `Select`, `Exists`, `Converse`, `Stretch`, `TemporalJoin`, and `Union`
 - query evaluation strategies for different normalization and coalescing modes
-- JUnit-based tests covering representative query scenarios
+- JUnit-based tests for query evaluation
 
 The code is organized around a small Java API centered on `Graph`, `ResultMap`, `Query`, and the operator hierarchy under `Operators`.
 
@@ -81,12 +81,24 @@ import Utils.Interval;
 Graph conf = new Graph();
 conf.fetchTxtRelations("src/test/resources/conferences_1");
 
-var attends = new Read("attends", conf);
+Operator attends = new Read("attends", conf);
 
-var result = Query.eval(
+ResultMap result = Query.eval(
     new TemporalJoin(
-        new VStretch(new Converse(new Select(attends, new Atom(Atom.Node.N2, "ISWC"))), new Interval(3, 4)),
-        new Exists(new Select(attends, new Atom(Atom.Node.N2, "positive")))
+        new VStretch(
+            new Converse(
+                new Select(
+                    attends,
+                    new Atom(Atom.Node.N2, "ISWC")
+                )
+            ),
+        new Interval(3, 4)),
+        new Exists(
+            new Select(
+                attends,
+                new Atom(Atom.Node.N2, "positive")
+            )
+        )
     ),
     Query.QueryStrategy.MINIMAL,
     false,
@@ -96,13 +108,13 @@ var result = Query.eval(
 
 ## Query model
 
-The library models temporal relations as collections of node-pair windows. Each relation stores entries keyed by a node pair and associated time intervals. Query evaluation is performed by composing operators that manipulate these structures while preserving temporal semantics.
+The library models temporal relations as collections of temporal windows. Each result map stores entries keyed by a node pair and associated windows. Query evaluation is performed by recursively evaluating operators that manipulate these structures.
 
-The project also supports strategies for:
+The project also supports different strategies for when normalization and coalescing are applied. Some include:
 
-- final normalization
-- final coalescing
-- maximal query optimization
+- final normalization/coalescing
+- pre-join normalization/coalescing
+- no normalization/coalescing
 
 ## Tests
 
@@ -115,17 +127,3 @@ Example test files include:
 - `GraphReadTest.java`
 - `NormalizationTest.java`
 - `CoalescingTest.java`
-
-## License
-
-This project does not currently declare a license in `pom.xml` or the repository root. If this repository is intended for public distribution, consider adding an appropriate open-source license such as MIT or Apache 2.0.
-
-## Notes
-
-This README is intentionally concise and focused on the current project structure and usage patterns. As the library evolves, you may want to add:
-
-- a more detailed API reference
-- usage examples for specific operators
-- benchmark or performance notes
-- contribution guidelines
-

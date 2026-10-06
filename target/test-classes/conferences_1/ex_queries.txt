@@ -1,0 +1,19 @@
+// attends
+Relation r1 = db.eval(new Read("attends"));
+// attends/(=ISWC)
+Relation r2 = db.eval(new Select(new Read("attends"), new UnaryCondition(2, "ISWC")));
+// (=ISWC)/attends-
+Relation r3 = db.eval(new Invert(new Select(new Read("attends"), new UnaryCondition(2, "ISWC"))));
+// (=ISWC)/attends-/T[3,4]
+Relation r4 = db.eval(new TJoin(new Invert(new Select(new Read("attends"), new UnaryCondition(2, "ISWC"), new T(3, 4)))));
+// (=ISWC)/attends-/T[3,4]/attends
+Relation r5 = db.eval(new NaturalJoin(new TJoin(new Invert(new Select(new Read("attends"), new UnaryCondition(2, "ISWC"), new T(3, 4)))), new Read("attends")));
+// (=ISWC)/attends-/T[3,4]/attends/attends-
+Relation q1 = new NaturalJoin(new NaturalJoin(new TJoin(new Invert(new Select(new Read("attends"), new UnaryCondition(2, "ISWC"), new T(3, 4)))), new Read("attends")), new Invert(new Read("attends"));
+Relation r6 = db.eval(q1);
+Relation r7 = db.eval(new Exists(...))
+
+
+
+
+

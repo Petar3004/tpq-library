@@ -1,0 +1,2001 @@
+FORT WORTH:BRENTWOOD:-inf:+inf:-inf:+inf:0:4
+MANNING:SEATTLE:-inf:+inf:-inf:+inf:1:4
+INDIANAPOLIS:CENTREVILLE:-inf:+inf:-inf:+inf:2:2
+TACOMA:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+MANNING:ORLANDO:-inf:+inf:-inf:+inf:1:3
+MIAMI:CARROLL:-inf:+inf:-inf:+inf:3:6
+RENO:THOMASTON:-inf:+inf:-inf:+inf:2:4
+BUTLER:NEW YORK:-inf:+inf:-inf:+inf:2:2
+CROWN POINT:WAHIAWA:-inf:+inf:-inf:+inf:2:2
+GUNNISON:LONG BEACH:-inf:+inf:-inf:+inf:1:3
+FALLS CITY:ARCO:-inf:+inf:-inf:+inf:1:2
+WINTER HAVEN:MONETT:-inf:+inf:-inf:+inf:1:4
+ELKINS PARK:CHARLOTTE:-inf:+inf:-inf:+inf:0:4
+SCOTTSDALE:GREAT BEND:-inf:+inf:-inf:+inf:1:1
+BIRMINGHAM:PITTSFIELD:-inf:+inf:-inf:+inf:0:1
+BRENTWOOD:GREENFIELD:-inf:+inf:-inf:+inf:1:5
+EVANSVILLE:KNOXVILLE:-inf:+inf:-inf:+inf:0:2
+PITTSBURGH:NOBLESVILLE:-inf:+inf:-inf:+inf:1:2
+LA GRANDE:WARREN:-inf:+inf:-inf:+inf:3:6
+CALLAWAY:CUPERTINO:-inf:+inf:-inf:+inf:2:5
+LAS VEGAS:FORT WORTH:-inf:+inf:-inf:+inf:2:5
+ALEDO:SAN DIEGO:-inf:+inf:-inf:+inf:0:2
+BALTIMORE:BURKEVILLE:-inf:+inf:-inf:+inf:2:4
+SHAKER HTS:PHILADELPHIA:-inf:+inf:-inf:+inf:1:4
+GREAT BEND:BIRMINGHAM:-inf:+inf:-inf:+inf:2:4
+MONTPELIER:BRENTWOOD:-inf:+inf:-inf:+inf:2:3
+SAN DIEGO:DENVER:-inf:+inf:-inf:+inf:2:4
+OVERLAND PARK:HOUSTON:-inf:+inf:-inf:+inf:0:0
+CASCADE:BROOKLYN:-inf:+inf:-inf:+inf:1:1
+SAN PEDRO:CUBA:-inf:+inf:-inf:+inf:2:3
+DURANGO:FERRIDAY:-inf:+inf:-inf:+inf:2:6
+LA PALMA:LOUISVILLE:-inf:+inf:-inf:+inf:0:1
+LOUISVILLE:STAFFORD:-inf:+inf:-inf:+inf:3:7
+FRESNO:CATAWBA:-inf:+inf:-inf:+inf:1:2
+BEDFORD:CLEVELAND:-inf:+inf:-inf:+inf:1:4
+SANTA CLARA:BENNINGTON:-inf:+inf:-inf:+inf:3:7
+TAHOKA:DETROIT:-inf:+inf:-inf:+inf:0:1
+HONOLULU:MIAMI:-inf:+inf:-inf:+inf:1:1
+OAK BROOK:ROCHELLE:-inf:+inf:-inf:+inf:3:4
+PENSACOLA:DETROIT:-inf:+inf:-inf:+inf:2:6
+MECHANICSBURG:EL CAMPO:-inf:+inf:-inf:+inf:0:3
+MORRISVILLE:BALTIMORE:-inf:+inf:-inf:+inf:0:4
+TUCKER:ATLANTA:-inf:+inf:-inf:+inf:2:2
+WORTH:FORT DODGE:-inf:+inf:-inf:+inf:2:6
+LOUISVILLE:FOLKSTON:-inf:+inf:-inf:+inf:0:3
+FORT WORTH:ATLANTA:-inf:+inf:-inf:+inf:2:5
+CARMEL:HOUMA:-inf:+inf:-inf:+inf:2:5
+DETROIT:INDIANAPOLIS:-inf:+inf:-inf:+inf:2:4
+GREEN RIVER:LOUISVILLE:-inf:+inf:-inf:+inf:3:3
+LEWISVILLE:MOUNTAIN HOME:-inf:+inf:-inf:+inf:2:5
+YORK:WINSTON SALEM:-inf:+inf:-inf:+inf:2:2
+PHOENIX:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+KONAWA:SAN FRANCISCO:-inf:+inf:-inf:+inf:3:5
+TRAVERSE CITY:GRACEVILLE:-inf:+inf:-inf:+inf:3:3
+NEW YORK:CAMBRIDGE:-inf:+inf:-inf:+inf:1:5
+GREENSBORO:ATLANTA:-inf:+inf:-inf:+inf:1:2
+PHILADELPHIA:BIG SANDY:-inf:+inf:-inf:+inf:0:3
+CINCINNATI:CHESTNUT HILL:-inf:+inf:-inf:+inf:0:2
+PEORIA:WAIANAE:-inf:+inf:-inf:+inf:3:5
+CLINTON:CHICAGO:-inf:+inf:-inf:+inf:3:5
+RUSHVILLE:EASTON:-inf:+inf:-inf:+inf:0:3
+PLANO:MIAMI:-inf:+inf:-inf:+inf:3:7
+BOISE:SPRING:-inf:+inf:-inf:+inf:1:5
+PASADENA:SPRINGFIELD:-inf:+inf:-inf:+inf:0:1
+YORK:KAHUKU:-inf:+inf:-inf:+inf:3:6
+SCHENECTADY:JACKSONVILLE:-inf:+inf:-inf:+inf:2:2
+LENOIR:HAGERSTOWN:-inf:+inf:-inf:+inf:1:1
+CHICAGO:COLUMBUS:-inf:+inf:-inf:+inf:0:0
+LOCKNEY:EUCLID:-inf:+inf:-inf:+inf:1:4
+HIGH SPRINGS:ELBERTON:-inf:+inf:-inf:+inf:3:4
+GREENVILLE:MEDICINE LODGE:-inf:+inf:-inf:+inf:2:3
+NEWARK:PHILADELPHIA:-inf:+inf:-inf:+inf:1:5
+EUCLID:CAMPBELLSVILLE:-inf:+inf:-inf:+inf:1:1
+HIALEAH:DALLAS:-inf:+inf:-inf:+inf:1:3
+INDIANAPOLIS:CAMDEN:-inf:+inf:-inf:+inf:1:1
+PEORIA:MILLER:-inf:+inf:-inf:+inf:0:4
+BREAUX BRIDGE:HIGH POINT:-inf:+inf:-inf:+inf:1:2
+GREEN BAY:JEFFERSON:-inf:+inf:-inf:+inf:1:2
+PORTAGE:COLORADO SPRINGS:-inf:+inf:-inf:+inf:1:3
+SPRINGFIELD:MAITLAND:-inf:+inf:-inf:+inf:3:5
+CHARLOTTE:WHITE PLAINS:-inf:+inf:-inf:+inf:3:4
+BROOKLYN:GILLETTE:-inf:+inf:-inf:+inf:3:5
+FRANKLIN:HARDIN:-inf:+inf:-inf:+inf:2:3
+SEATTLE:WELLINGTON:-inf:+inf:-inf:+inf:1:2
+HUTCHINSON:SAINT LOUIS:-inf:+inf:-inf:+inf:3:7
+GREEN BAY:DALLAS:-inf:+inf:-inf:+inf:0:3
+TUPELO:SUGAR LAND:-inf:+inf:-inf:+inf:0:3
+EL CAMPO:DETROIT:-inf:+inf:-inf:+inf:0:1
+MECHANICSBURG:RAHWAY:-inf:+inf:-inf:+inf:3:6
+RAPID CITY:TERRE HAUTE:-inf:+inf:-inf:+inf:2:3
+BURKESVILLE:HARTFORD:-inf:+inf:-inf:+inf:3:4
+CAMBRIDGE:AITKIN:-inf:+inf:-inf:+inf:0:3
+BROOKSHIRE:MODESTO:-inf:+inf:-inf:+inf:1:2
+CENTRAL CITY:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+FARMERVILLE:CLIFTON:-inf:+inf:-inf:+inf:1:3
+ALAMO:ALEXANDRIA:-inf:+inf:-inf:+inf:0:4
+BRISTOW:GENEVA:-inf:+inf:-inf:+inf:0:1
+FAYETTEVILLE:MARYVILLE:-inf:+inf:-inf:+inf:2:6
+PERRY:CHICAGO:-inf:+inf:-inf:+inf:2:4
+BOSTON:SEGUIN:-inf:+inf:-inf:+inf:1:3
+MIAMI GARDENS:BROOKHAVEN:-inf:+inf:-inf:+inf:3:4
+CHICAGO:MARYVILLE:-inf:+inf:-inf:+inf:0:0
+QUINCY:ST LOUIS:-inf:+inf:-inf:+inf:3:5
+BURLINGAME:CHICAGO:-inf:+inf:-inf:+inf:2:5
+NEW ORLEANS:LITTLE RIVER:-inf:+inf:-inf:+inf:2:2
+AMSTERDAM:HARKER HEIGHTS:-inf:+inf:-inf:+inf:0:1
+CHARLOTTE:ORD:-inf:+inf:-inf:+inf:3:6
+VALDOSTA:BROCKTON:-inf:+inf:-inf:+inf:1:3
+KALAMAZOO:FORT SMITH:-inf:+inf:-inf:+inf:3:7
+PLYMOUTH:HONOLULU:-inf:+inf:-inf:+inf:3:3
+CINCINNATI:NEWPORT BEACH:-inf:+inf:-inf:+inf:1:5
+FRANKLIN:BARBOURVILLE:-inf:+inf:-inf:+inf:1:2
+SAN ANTONIO:WEST PALM BEACH:-inf:+inf:-inf:+inf:2:5
+BURLINGTON:COUDERSPORT:-inf:+inf:-inf:+inf:2:2
+LAFAYETTE:ROANOKE:-inf:+inf:-inf:+inf:3:5
+ORANGEBURG:LAURINBURG:-inf:+inf:-inf:+inf:0:1
+PAEONIAN SPRINGS:PHILADELPHIA:-inf:+inf:-inf:+inf:3:3
+MIAMI:MARLETTE:-inf:+inf:-inf:+inf:0:2
+ELKTON:BEL AIR:-inf:+inf:-inf:+inf:3:7
+SHERIDAN:PORT CHARLOTTE:-inf:+inf:-inf:+inf:2:3
+ALBUQUERQUE:PHILADELPHIA:-inf:+inf:-inf:+inf:1:1
+SACRAMENTO:FISHERS:-inf:+inf:-inf:+inf:1:2
+FARGO:DALLAS:-inf:+inf:-inf:+inf:2:6
+KINDER:SAN MATEO:-inf:+inf:-inf:+inf:3:4
+STIGLER:CLARION:-inf:+inf:-inf:+inf:1:2
+RULEVILLE:POUGHKEEPSIE:-inf:+inf:-inf:+inf:3:5
+LA PORTE:APPLETON:-inf:+inf:-inf:+inf:0:3
+PHOENIX:SAN JUAN:-inf:+inf:-inf:+inf:1:5
+BOSTON:WHEELING:-inf:+inf:-inf:+inf:1:1
+BRENTWOOD:NEW HAVEN:-inf:+inf:-inf:+inf:1:4
+TAUNTON:LOVELL:-inf:+inf:-inf:+inf:0:2
+NEW YORK:NEWPORT NEWS:-inf:+inf:-inf:+inf:2:6
+ARTESIA:RANGELY:-inf:+inf:-inf:+inf:1:2
+DAYTON:CROWN POINT:-inf:+inf:-inf:+inf:2:2
+CASS CITY:SALEM:-inf:+inf:-inf:+inf:1:5
+SANTEE:MORRISVILLE:-inf:+inf:-inf:+inf:1:4
+BOSTON:ST AUGUSTINE:-inf:+inf:-inf:+inf:3:7
+SAGINAW:SYRACUSE:-inf:+inf:-inf:+inf:0:4
+MIAMI:DANVILLE:-inf:+inf:-inf:+inf:1:4
+PETOSKEY:ELLENSBURG:-inf:+inf:-inf:+inf:0:4
+EAST STROUDSBURG:SPRINGFIELD:-inf:+inf:-inf:+inf:3:6
+WOODSVILLE:ORANGE PARK:-inf:+inf:-inf:+inf:2:4
+ZACHARY:WASHINGTON:-inf:+inf:-inf:+inf:2:2
+SAINT STEPHEN:STE GENEVIEVE:-inf:+inf:-inf:+inf:0:2
+FORT WAYNE:DURHAM:-inf:+inf:-inf:+inf:1:3
+CHARLOTTE:BALTIMORE:-inf:+inf:-inf:+inf:0:4
+SUMMERVILLE:WILMINGTON:-inf:+inf:-inf:+inf:0:3
+JACKSON:LOUISVILLE:-inf:+inf:-inf:+inf:3:5
+HUDSON:CADOTT:-inf:+inf:-inf:+inf:2:4
+WINCHESTER:COLUMBUS:-inf:+inf:-inf:+inf:2:3
+ATLANTA:BROOKVILLE:-inf:+inf:-inf:+inf:1:3
+ALBUQUERQUE:YADKINVILLE:-inf:+inf:-inf:+inf:2:2
+BURNET:CASTANER:-inf:+inf:-inf:+inf:3:5
+DETROIT:CHARLOTTE:-inf:+inf:-inf:+inf:3:7
+FT WORTH:BATON ROUGE:-inf:+inf:-inf:+inf:0:4
+BOCA RATON:KAPAA:-inf:+inf:-inf:+inf:1:1
+SAN DIEGO:COVINGTON:-inf:+inf:-inf:+inf:1:3
+SAN MATEO:IJAMSVILLE:-inf:+inf:-inf:+inf:3:6
+ATLANTA:PHOENIX:-inf:+inf:-inf:+inf:2:6
+CHICAGO:HIALEAH:-inf:+inf:-inf:+inf:3:3
+CAPE GIRARDEAU:FRANKFORT:-inf:+inf:-inf:+inf:3:3
+KALAMAZOO:MIAMI:-inf:+inf:-inf:+inf:0:1
+JACKSONVILLE:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+CINCINNATI:CINCINNATI:-inf:+inf:-inf:+inf:0:3
+BRIDGETON:TAYLORVILLE:-inf:+inf:-inf:+inf:1:4
+DANVILLE:SHAWNEE:-inf:+inf:-inf:+inf:3:4
+LAKE VILLAGE:SAINT CROIX FALLS:-inf:+inf:-inf:+inf:2:4
+BOISE:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+CHICAGO:CHICAGO:-inf:+inf:-inf:+inf:1:4
+SEATTLE:INDIANAPOLIS:-inf:+inf:-inf:+inf:3:6
+CLEVELAND:ANAMOSA:-inf:+inf:-inf:+inf:3:3
+STUART:AURORA:-inf:+inf:-inf:+inf:3:6
+RAHWAY:GALION:-inf:+inf:-inf:+inf:0:3
+DALLAS:GAYLORD:-inf:+inf:-inf:+inf:3:3
+BRENTWOOD:PHOENIX:-inf:+inf:-inf:+inf:0:2
+CLARION:NELIGH:-inf:+inf:-inf:+inf:2:4
+IDAHO FALLS:FRANKLIN:-inf:+inf:-inf:+inf:1:5
+PITTSFIELD:CARROLLTON:-inf:+inf:-inf:+inf:2:4
+SULLIVAN:FAIRVIEW:-inf:+inf:-inf:+inf:0:3
+WILMETTE:MCALLEN:-inf:+inf:-inf:+inf:2:3
+FORT LIBERTY:CLEVELAND:-inf:+inf:-inf:+inf:3:6
+MIAMI:HUNTINGTON:-inf:+inf:-inf:+inf:2:4
+FT WORTH:EVANSVILLE:-inf:+inf:-inf:+inf:3:4
+HAVRE:MECHANICSBURG:-inf:+inf:-inf:+inf:2:2
+WILLISTON:CASS CITY:-inf:+inf:-inf:+inf:0:1
+MINNEAPOLIS:WASHINGTON:-inf:+inf:-inf:+inf:1:4
+LOUISVILLE:ORANGE PARK:-inf:+inf:-inf:+inf:0:3
+CHICAGO:BEAUFORT:-inf:+inf:-inf:+inf:1:5
+TEMPE:GREENWOOD VILLAGE:-inf:+inf:-inf:+inf:0:4
+HUMBOLDT:SAINT LOUIS:-inf:+inf:-inf:+inf:2:6
+JOPLIN:HENDERSONVILLE:-inf:+inf:-inf:+inf:1:3
+PARKERSBURG:CINCINNATI:-inf:+inf:-inf:+inf:1:5
+HOUSTON:RICHMOND:-inf:+inf:-inf:+inf:2:2
+PIGEON:OKLAHOMA CITY:-inf:+inf:-inf:+inf:1:5
+NEW YORK:YORK:-inf:+inf:-inf:+inf:0:3
+KING CITY:CHICAGO:-inf:+inf:-inf:+inf:2:6
+SPRINGFIELD:WINTERSET:-inf:+inf:-inf:+inf:1:5
+NEOSHO:TULSA:-inf:+inf:-inf:+inf:1:1
+DULUTH:LAS VEGAS:-inf:+inf:-inf:+inf:2:5
+DONALDSONVILLE:ELDORADO:-inf:+inf:-inf:+inf:0:1
+MEYERSDALE:MOUNT KISCO:-inf:+inf:-inf:+inf:3:3
+CROWN POINT:PEMBROKE PINES:-inf:+inf:-inf:+inf:0:2
+GALION:BELLAIRE:-inf:+inf:-inf:+inf:0:2
+BOISE:CORRY:-inf:+inf:-inf:+inf:0:2
+INDIANAPOLIS:SANTA FE:-inf:+inf:-inf:+inf:2:5
+CENTER LINE:NEW YORK:-inf:+inf:-inf:+inf:3:6
+RICHMOND:WASHINGTON:-inf:+inf:-inf:+inf:3:3
+FORT YATES:BOSTON:-inf:+inf:-inf:+inf:2:5
+MIAMI:STARKE:-inf:+inf:-inf:+inf:1:4
+MORRIS:COCHRAN:-inf:+inf:-inf:+inf:0:2
+HOUSTON:DEARBORN:-inf:+inf:-inf:+inf:3:7
+LITTLETON:SAN MATEO:-inf:+inf:-inf:+inf:2:6
+MIAMI:COEUR D ALENE:-inf:+inf:-inf:+inf:0:0
+BROOKLYN:BALTIMORE:-inf:+inf:-inf:+inf:1:4
+WEST PALM BEACH:SEATTLE:-inf:+inf:-inf:+inf:3:3
+MCALLEN:OKLAHOMA CITY:-inf:+inf:-inf:+inf:3:4
+SACRAMENTO:ALPHARETTA:-inf:+inf:-inf:+inf:3:4
+RICHMOND:PHILADELPHIA:-inf:+inf:-inf:+inf:2:2
+GUTHRIE:AURORA:-inf:+inf:-inf:+inf:2:6
+MANHATTAN:HOWELL:-inf:+inf:-inf:+inf:2:2
+KENANSVILLE:RUSHVILLE:-inf:+inf:-inf:+inf:3:6
+BEECH GROVE:LONDON:-inf:+inf:-inf:+inf:1:2
+MESQUITE:TAYLORVILLE:-inf:+inf:-inf:+inf:3:3
+WASHINGTON:MARION:-inf:+inf:-inf:+inf:2:4
+WILD ROSE:CORYDON:-inf:+inf:-inf:+inf:1:3
+DELHI:LEDERACH:-inf:+inf:-inf:+inf:0:2
+GREENACRES:JACKSON:-inf:+inf:-inf:+inf:3:4
+MARTIN:TECUMSEH:-inf:+inf:-inf:+inf:0:3
+BRONX:MODESTO:-inf:+inf:-inf:+inf:1:1
+GRAHAM:DENVER:-inf:+inf:-inf:+inf:1:5
+BAINBRIDGE:MOULTRIE:-inf:+inf:-inf:+inf:2:5
+KINSTON:BALTIMORE:-inf:+inf:-inf:+inf:0:2
+SILVER SPRING:PETERSBURG:-inf:+inf:-inf:+inf:2:3
+WASHINGTON:LAKEVIEW:-inf:+inf:-inf:+inf:0:1
+SODA SPRINGS:DALLAS:-inf:+inf:-inf:+inf:3:5
+FORT BELVOIR:GRAND BLANC:-inf:+inf:-inf:+inf:0:0
+NEWBURGH:LAS VEGAS:-inf:+inf:-inf:+inf:2:5
+FORT WAYNE:PHILADELPHIA:-inf:+inf:-inf:+inf:3:4
+HIALEAH:ADA:-inf:+inf:-inf:+inf:0:2
+SAVANNAH:PEORIA:-inf:+inf:-inf:+inf:3:7
+JAMESTOWN:ELMHURST:-inf:+inf:-inf:+inf:1:2
+TEMPERANCE:CONSHOHOCKEN:-inf:+inf:-inf:+inf:0:2
+YORK:MIAMI:-inf:+inf:-inf:+inf:0:3
+TEMPERANCE:JACKSONVILLE:-inf:+inf:-inf:+inf:2:5
+MINEOLA:LONG VALLEY:-inf:+inf:-inf:+inf:2:2
+SEATTLE:SHELBY:-inf:+inf:-inf:+inf:1:1
+JOHNSON:NEW LENOX:-inf:+inf:-inf:+inf:2:2
+MIAMI:POTOSI:-inf:+inf:-inf:+inf:0:4
+LOUISVILLE:RANSOM:-inf:+inf:-inf:+inf:0:3
+HIALEAH:CROWLEY:-inf:+inf:-inf:+inf:3:6
+MORRISON:WAYNESBORO:-inf:+inf:-inf:+inf:1:4
+WINTER PARK:ATLANTA:-inf:+inf:-inf:+inf:1:3
+FRANKLIN:LOS ANGELES:-inf:+inf:-inf:+inf:1:5
+YONKERS:FENTON:-inf:+inf:-inf:+inf:1:1
+CHAPEL HILL:HONOLULU:-inf:+inf:-inf:+inf:1:4
+AURORA:PHILADELPHIA:-inf:+inf:-inf:+inf:0:3
+LUDOWICI:MARSHFIELD:-inf:+inf:-inf:+inf:0:0
+SARATOGA SPRINGS:DEMOREST:-inf:+inf:-inf:+inf:3:3
+STOCKTON:OSKALOOSA:-inf:+inf:-inf:+inf:1:2
+DOWNEY:STERLING:-inf:+inf:-inf:+inf:1:3
+WEIRTON:HILLSBORO:-inf:+inf:-inf:+inf:2:5
+DORAVILLE:CROWN POINT:-inf:+inf:-inf:+inf:3:3
+COLUMBUS:HOLLYWOOD:-inf:+inf:-inf:+inf:3:4
+PLYMOUTH:MECHANICSBURG:-inf:+inf:-inf:+inf:1:1
+SAN GERMAN:APPLETON:-inf:+inf:-inf:+inf:1:5
+NOBLESVILLE:FLORENCE:-inf:+inf:-inf:+inf:1:4
+ELDON:CHICAGO:-inf:+inf:-inf:+inf:0:2
+MOGADORE:BRENTWOOD:-inf:+inf:-inf:+inf:0:4
+COLUMBUS:GENESEO:-inf:+inf:-inf:+inf:0:3
+CINCINNATI:UPPER SANDUSKY:-inf:+inf:-inf:+inf:2:3
+WEST PLAINS:HERSHEY:-inf:+inf:-inf:+inf:1:1
+STAPLES:WARREN:-inf:+inf:-inf:+inf:3:6
+EDISON:DALLAS:-inf:+inf:-inf:+inf:2:5
+GAITHERSBURG:BROOKLYN:-inf:+inf:-inf:+inf:3:6
+MIDDLEBURY:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+KALISPELL:GEORGETOWN:-inf:+inf:-inf:+inf:3:7
+CHESTERTOWN:HOLLAND:-inf:+inf:-inf:+inf:0:0
+DETROIT:ANGOLA:-inf:+inf:-inf:+inf:1:4
+PHOENIX:BRONX:-inf:+inf:-inf:+inf:2:4
+SHERMAN:HINES:-inf:+inf:-inf:+inf:0:1
+CONWAY:BILOXI:-inf:+inf:-inf:+inf:0:1
+KNOX CITY:CREVE COEUR:-inf:+inf:-inf:+inf:0:2
+MALTA:NEW IBERIA:-inf:+inf:-inf:+inf:3:4
+BRENTWOOD:HERSHEY:-inf:+inf:-inf:+inf:3:6
+THE WOODLANDS:DOWAGIAC:-inf:+inf:-inf:+inf:0:0
+BRADFORD:OAK PARK:-inf:+inf:-inf:+inf:2:5
+WEST BRIDGEWATER:MANATI:-inf:+inf:-inf:+inf:1:4
+UNCASVILLE:PHOENIX:-inf:+inf:-inf:+inf:0:1
+GRAHAM:MIAMI:-inf:+inf:-inf:+inf:0:2
+GREENSBORO:FITCHBURG:-inf:+inf:-inf:+inf:1:3
+SAINT HELENA:WATERLOO:-inf:+inf:-inf:+inf:0:2
+MARBLE HILL:SEATTLE:-inf:+inf:-inf:+inf:3:6
+HUNTSVILLE:TERRE HAUTE:-inf:+inf:-inf:+inf:3:4
+GALLUP:WESTMINSTER:-inf:+inf:-inf:+inf:1:1
+CHARLOTTE:LITTLE ROCK:-inf:+inf:-inf:+inf:0:4
+LANSDALE:LAFAYETTE:-inf:+inf:-inf:+inf:1:2
+SAINT JOSEPH:SAN ANTONIO:-inf:+inf:-inf:+inf:3:7
+PASADENA:MINERAL WELLS:-inf:+inf:-inf:+inf:3:7
+VERO BEACH:JONESBORO:-inf:+inf:-inf:+inf:2:2
+BOSTON:CHARLESTON:-inf:+inf:-inf:+inf:0:3
+PANORAMA CITY:CONCORDIA:-inf:+inf:-inf:+inf:3:3
+DALLAS:MOUNT VERNON:-inf:+inf:-inf:+inf:0:1
+MOULTRIE:BIRMINGHAM:-inf:+inf:-inf:+inf:2:2
+ORLANDO:FAISON:-inf:+inf:-inf:+inf:3:7
+CALEXICO:CORAL GABLES:-inf:+inf:-inf:+inf:3:7
+WOODLAND HILLS:CLACKAMAS:-inf:+inf:-inf:+inf:0:4
+HOXIE:JEFFERSON CITY:-inf:+inf:-inf:+inf:1:2
+HICKORY:DEKALB:-inf:+inf:-inf:+inf:2:2
+SAN DIEGO:PLAINFIELD:-inf:+inf:-inf:+inf:1:1
+JASPER:MISSOULA:-inf:+inf:-inf:+inf:3:6
+SAN ANTONIO:ATLANTA:-inf:+inf:-inf:+inf:3:7
+ATLANTA:CHICAGO:-inf:+inf:-inf:+inf:1:1
+GOUVERNEUR:DAYTON:-inf:+inf:-inf:+inf:2:5
+VALDOSTA:MARIETTA:-inf:+inf:-inf:+inf:1:5
+HOOPESTON:ALLIANCE:-inf:+inf:-inf:+inf:2:5
+WOBURN:DALLAS:-inf:+inf:-inf:+inf:0:1
+ATLANTA:DUNCAN:-inf:+inf:-inf:+inf:0:1
+WHITE PLAINS:HUDSON:-inf:+inf:-inf:+inf:2:3
+MCALLEN:SANTA FE:-inf:+inf:-inf:+inf:0:4
+BROOKLINE:SIKESTON:-inf:+inf:-inf:+inf:3:5
+ALLENTOWN:ALPENA:-inf:+inf:-inf:+inf:0:2
+WEST PALM BEACH:CHICAGO:-inf:+inf:-inf:+inf:1:2
+CLEVELAND:NIAGARA FALLS:-inf:+inf:-inf:+inf:2:4
+SAN FRANCISCO:ROCHESTER:-inf:+inf:-inf:+inf:1:5
+GREAT BEND:NEW YORK:-inf:+inf:-inf:+inf:1:4
+WESTBURY:FORT SILL:-inf:+inf:-inf:+inf:2:4
+CHARLOTTE:MILWAUKEE:-inf:+inf:-inf:+inf:3:3
+SANTA ANA:APPLETON CITY:-inf:+inf:-inf:+inf:0:3
+BAY CITY:WESTON:-inf:+inf:-inf:+inf:2:3
+GREENVILLE:VAN WERT:-inf:+inf:-inf:+inf:3:4
+AUSTIN:WEBSTER:-inf:+inf:-inf:+inf:2:2
+ATLANTA:CHICAGO:-inf:+inf:-inf:+inf:2:6
+HUTCHINSON:LANSING:-inf:+inf:-inf:+inf:2:4
+STAFFORD:SCHERTZ:-inf:+inf:-inf:+inf:1:1
+MIAMI GARDENS:WESTMINSTER:-inf:+inf:-inf:+inf:1:1
+ATLANTA:NASHVILLE:-inf:+inf:-inf:+inf:1:3
+EUREKA:MIAMI:-inf:+inf:-inf:+inf:0:4
+PHOENIX:SAINT PAUL:-inf:+inf:-inf:+inf:0:3
+FOWLER:BELLEFONTAINE:-inf:+inf:-inf:+inf:1:3
+LOUISVILLE:FRIONA:-inf:+inf:-inf:+inf:2:6
+LOMBARD:WADESBORO:-inf:+inf:-inf:+inf:3:6
+OSBORNE:OLATHE:-inf:+inf:-inf:+inf:1:3
+DETROIT:MIAMI GARDENS:-inf:+inf:-inf:+inf:1:5
+BRONX:CAMILLA:-inf:+inf:-inf:+inf:2:2
+SHERIDAN:COLLINS:-inf:+inf:-inf:+inf:1:3
+ATLANTA:OMAHA:-inf:+inf:-inf:+inf:3:4
+GARDEN CITY:NEW YORK:-inf:+inf:-inf:+inf:2:4
+CROSBY:SPRUCE PINE:-inf:+inf:-inf:+inf:0:2
+ASHLAND:BLYTHEWOOD:-inf:+inf:-inf:+inf:3:5
+BLOOMINGTON:KITTANNING:-inf:+inf:-inf:+inf:0:4
+APO:PEMBROKE:-inf:+inf:-inf:+inf:0:4
+BECKLEY:FORT WORTH:-inf:+inf:-inf:+inf:0:4
+FALL RIVER MILLS:EVANSVILLE:-inf:+inf:-inf:+inf:1:2
+DEMOREST:KEOKUK:-inf:+inf:-inf:+inf:2:3
+CAPE GIRARDEAU:ALEXANDRIA BAY:-inf:+inf:-inf:+inf:0:4
+LONG BEACH:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:5
+LAWTON:MEADVILLE:-inf:+inf:-inf:+inf:1:4
+WEISER:BARSTOW:-inf:+inf:-inf:+inf:3:7
+KEMMERER:MOUNT VERNON:-inf:+inf:-inf:+inf:2:6
+ATLANTA:CHARLOTTE:-inf:+inf:-inf:+inf:2:5
+FORT JACKSON:TYRONE:-inf:+inf:-inf:+inf:1:3
+MINEOLA:LAS VEGAS:-inf:+inf:-inf:+inf:3:4
+NEWPORT:TUCSON:-inf:+inf:-inf:+inf:3:7
+ELLICOTT CITY:WINSTON SALEM:-inf:+inf:-inf:+inf:2:3
+NEW YORK:CHICAGO:-inf:+inf:-inf:+inf:3:3
+SOUTHFIELD:MIAMI:-inf:+inf:-inf:+inf:0:1
+VALLEY CITY:TUPELO:-inf:+inf:-inf:+inf:0:1
+NASHVILLE:BAXLEY:-inf:+inf:-inf:+inf:1:4
+LOUISVILLE:LONG BRANCH:-inf:+inf:-inf:+inf:1:4
+SCHENECTADY:CHESTERFIELD:-inf:+inf:-inf:+inf:0:0
+ORO VALLEY:FAYETTEVILLE:-inf:+inf:-inf:+inf:2:4
+WEISER:BIG RAPIDS:-inf:+inf:-inf:+inf:3:7
+OLEAN:YORK:-inf:+inf:-inf:+inf:1:5
+LAKE PROVIDENCE:BRENTWOOD:-inf:+inf:-inf:+inf:0:2
+JENNINGS:LAS VEGAS:-inf:+inf:-inf:+inf:2:3
+SIMI VALLEY:BONITA SPRINGS:-inf:+inf:-inf:+inf:0:4
+GUNTERSVILLE:NASHVILLE:-inf:+inf:-inf:+inf:2:4
+CLINTON:LEESBURG:-inf:+inf:-inf:+inf:2:3
+CONIFER:PORTLAND:-inf:+inf:-inf:+inf:0:0
+ELK CITY:VISTA:-inf:+inf:-inf:+inf:1:4
+WINSTON-SALEM:LOUISVILLE:-inf:+inf:-inf:+inf:0:2
+SEYMOUR:YONKERS:-inf:+inf:-inf:+inf:0:0
+WASHINGTON:DETROIT:-inf:+inf:-inf:+inf:1:3
+KAHUKU:ROOSEVELT:-inf:+inf:-inf:+inf:2:4
+ROCHESTER:KEMMERER:-inf:+inf:-inf:+inf:1:2
+LAKE CITY:YANKTON:-inf:+inf:-inf:+inf:3:3
+ADDISON:WESTBROOK:-inf:+inf:-inf:+inf:2:6
+SCHNECKSVILLE:PROVIDENCE:-inf:+inf:-inf:+inf:1:4
+ROGERS:HAWKINSVILLE:-inf:+inf:-inf:+inf:3:5
+MORRISVILLE:CEDAR CREST:-inf:+inf:-inf:+inf:0:1
+LACKLAND A F B:WESTHAMPTON BEACH:-inf:+inf:-inf:+inf:0:3
+LOMBARD:SNOQUALMIE:-inf:+inf:-inf:+inf:2:6
+RIVER FOREST:STOUGHTON:-inf:+inf:-inf:+inf:0:3
+NEW YORK:SILVER SPRING:-inf:+inf:-inf:+inf:3:5
+PHOENIX:CAMERON:-inf:+inf:-inf:+inf:3:6
+JEFFERSON:VALENCIA:-inf:+inf:-inf:+inf:2:3
+TINTON FALLS:MIAMI:-inf:+inf:-inf:+inf:1:3
+STOCKTON:PAWNEE:-inf:+inf:-inf:+inf:3:6
+DU BOIS:GRAND RAPIDS:-inf:+inf:-inf:+inf:3:3
+RUSSELL SPRINGS:HUEYTOWN:-inf:+inf:-inf:+inf:2:3
+SLC:FORT WORTH:-inf:+inf:-inf:+inf:2:5
+DALLAS:PHOENIX:-inf:+inf:-inf:+inf:1:3
+FARMINGTON HILLS:SPOKANE:-inf:+inf:-inf:+inf:2:3
+PASADENA:PONTIAC:-inf:+inf:-inf:+inf:1:3
+CORDELE:LAURINBURG:-inf:+inf:-inf:+inf:2:3
+BOONEVILLE:MINNEAPOLIS:-inf:+inf:-inf:+inf:0:0
+GLENWOOD SPRINGS:BOGALUSA:-inf:+inf:-inf:+inf:0:3
+YORK:TYLER:-inf:+inf:-inf:+inf:3:5
+WHEELING:RUGBY:-inf:+inf:-inf:+inf:1:1
+QUEEN CREEK:MIRAMAR:-inf:+inf:-inf:+inf:0:1
+FOUNTAIN VALLEY:BOYNTON BEACH:-inf:+inf:-inf:+inf:2:4
+OSAGE:CLEMMONS:-inf:+inf:-inf:+inf:2:6
+PITTSFIELD:HONOLULU:-inf:+inf:-inf:+inf:1:1
+DOUGLASVILLE:SOUTHPORT:-inf:+inf:-inf:+inf:1:1
+SAN ANTONIO:SEYMOUR:-inf:+inf:-inf:+inf:1:3
+THERMOPOLIS:DALLAS:-inf:+inf:-inf:+inf:2:4
+VIBORG:WACONIA:-inf:+inf:-inf:+inf:3:7
+BALTIMORE:GENEVA:-inf:+inf:-inf:+inf:0:0
+HOPKINSVILLE:HIGH SPRINGS:-inf:+inf:-inf:+inf:3:6
+LLANO:ATLANTA:-inf:+inf:-inf:+inf:1:2
+DELRAY BEACH:FORKS:-inf:+inf:-inf:+inf:0:1
+CUT BANK:CHARLOTTE:-inf:+inf:-inf:+inf:3:4
+ROCHESTER:TROY:-inf:+inf:-inf:+inf:0:3
+NORWALK:LITTLE RIVER:-inf:+inf:-inf:+inf:0:1
+SPRINGFIELD:LIVONIA:-inf:+inf:-inf:+inf:3:3
+TINTON FALLS:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:1
+AURORA:PEAPACK:-inf:+inf:-inf:+inf:3:5
+BELLAIRE:INDIANAPOLIS:-inf:+inf:-inf:+inf:3:5
+YORK:SUMMIT:-inf:+inf:-inf:+inf:0:4
+ELLWOOD CITY:DALLAS:-inf:+inf:-inf:+inf:1:1
+GRUNDY:PAWTUCKET:-inf:+inf:-inf:+inf:3:4
+HEBRON:MOUNT VERNON:-inf:+inf:-inf:+inf:0:0
+RICHMOND:WATERLOO:-inf:+inf:-inf:+inf:3:6
+PEMBROKE PINES:FLEMINGSBURG:-inf:+inf:-inf:+inf:0:2
+ANCHORAGE:PRINCE FREDERICK:-inf:+inf:-inf:+inf:0:4
+MINEOLA:POCAHONTAS:-inf:+inf:-inf:+inf:0:3
+HEMET:WATERBURY:-inf:+inf:-inf:+inf:2:3
+DALLAS:HAWKINSVILLE:-inf:+inf:-inf:+inf:2:3
+TRENTON:HAMMOND:-inf:+inf:-inf:+inf:3:4
+NEWPORT:TAPPAN:-inf:+inf:-inf:+inf:0:3
+MESQUITE:RAYVILLE:-inf:+inf:-inf:+inf:1:1
+MOUNT OLIVE:DORAL:-inf:+inf:-inf:+inf:2:2
+PHILADELPHIA:NEWARK:-inf:+inf:-inf:+inf:2:3
+DALLAS:LA MESA:-inf:+inf:-inf:+inf:3:4
+COLUMBUS:BELLAIRE:-inf:+inf:-inf:+inf:3:4
+BREWTON:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+ANSON:CAROL STREAM:-inf:+inf:-inf:+inf:3:5
+TACOMA:BRENTWOOD:-inf:+inf:-inf:+inf:2:3
+MIAMI:BERWICK:-inf:+inf:-inf:+inf:0:3
+KALISPELL:SOUTHPORT:-inf:+inf:-inf:+inf:3:3
+FLINT:GLENWOOD SPGS:-inf:+inf:-inf:+inf:0:3
+BURKESVILLE:MONROEVILLE:-inf:+inf:-inf:+inf:1:5
+LOS ANGELES:DECATUR:-inf:+inf:-inf:+inf:1:4
+FORT SILL:BUFFALO:-inf:+inf:-inf:+inf:1:1
+BALTIMORE:MIDDLETOWN:-inf:+inf:-inf:+inf:1:1
+INDIANAPOLIS:JEANNETTE:-inf:+inf:-inf:+inf:0:3
+BROOKLYN:OCOEE:-inf:+inf:-inf:+inf:1:3
+STURGEON BAY:CENTRAL CITY:-inf:+inf:-inf:+inf:1:5
+RICHMOND:IRVING:-inf:+inf:-inf:+inf:0:3
+ANGOLA:SAN JUAN:-inf:+inf:-inf:+inf:2:5
+VALHALLA:KNOXVILLE:-inf:+inf:-inf:+inf:0:2
+PHILADELPHIA:MARSHALL:-inf:+inf:-inf:+inf:3:3
+NAMPA:MIAMI:-inf:+inf:-inf:+inf:0:3
+BRENTWOOD:GALLUP:-inf:+inf:-inf:+inf:2:6
+BOCA RATON:SAVANNAH:-inf:+inf:-inf:+inf:0:2
+SARASOTA:YONKERS:-inf:+inf:-inf:+inf:1:4
+BIRMINGHAM:MECHANICSBURG:-inf:+inf:-inf:+inf:3:7
+MIAMI:WEIRTON:-inf:+inf:-inf:+inf:3:7
+ROLLA:DALLAS:-inf:+inf:-inf:+inf:2:6
+LAWRENCE:LAWRENCEVILLE:-inf:+inf:-inf:+inf:2:4
+BALTIMORE:MC KENZIE:-inf:+inf:-inf:+inf:2:2
+PEORIA:CHANDLER:-inf:+inf:-inf:+inf:0:1
+RICHLAND:PATCHOGUE:-inf:+inf:-inf:+inf:0:3
+LUBBOCK:RENO:-inf:+inf:-inf:+inf:3:5
+ASHLAND:FAIRFAX:-inf:+inf:-inf:+inf:1:4
+BALTIMORE:ATLANTA:-inf:+inf:-inf:+inf:2:6
+PORTLAND:PORTLAND:-inf:+inf:-inf:+inf:0:4
+HERNANDO:CLARKSDALE:-inf:+inf:-inf:+inf:0:4
+HAWKINSVILLE:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+BANGOR:MOOSIC:-inf:+inf:-inf:+inf:1:4
+LAS VEGAS:DOWNERS GROVE:-inf:+inf:-inf:+inf:0:1
+KONAWA:BRISTOL:-inf:+inf:-inf:+inf:3:7
+ASHEVILLE:GRAND RAPIDS:-inf:+inf:-inf:+inf:2:2
+DALLAS:PRINCETON:-inf:+inf:-inf:+inf:3:6
+RINGGOLD:PHILADELPHIA:-inf:+inf:-inf:+inf:2:2
+HOUSTON:DALLAS:-inf:+inf:-inf:+inf:2:2
+KANAB:COLUMBUS:-inf:+inf:-inf:+inf:2:4
+GRAHAM:SAULT SAINTE MARIE:-inf:+inf:-inf:+inf:1:5
+HOLLYWOOD:BURKESVILLE:-inf:+inf:-inf:+inf:2:5
+SCRANTON:SUN CITY:-inf:+inf:-inf:+inf:3:3
+ALBUQUERQUE:COLORADO CITY:-inf:+inf:-inf:+inf:0:2
+OROVILLE:TROY:-inf:+inf:-inf:+inf:3:6
+IOWA CITY:SEBASTIAN:-inf:+inf:-inf:+inf:3:4
+CHICAGO:LANCASTER:-inf:+inf:-inf:+inf:3:5
+WILLISTON:CHICAGO:-inf:+inf:-inf:+inf:3:4
+ATLANTA:AUBURN:-inf:+inf:-inf:+inf:1:4
+HAYS:CLIFTON:-inf:+inf:-inf:+inf:3:6
+LAUREL:HATTIESBURG:-inf:+inf:-inf:+inf:3:4
+STATEN ISLAND:PHOENIX:-inf:+inf:-inf:+inf:0:1
+CUMMING:BALTIMORE:-inf:+inf:-inf:+inf:3:5
+HINSDALE:CAMBRIDGE:-inf:+inf:-inf:+inf:1:4
+PHILADELPHIA:LONG ISLAND CITY:-inf:+inf:-inf:+inf:1:1
+CORVALLIS:BOSTON:-inf:+inf:-inf:+inf:2:6
+DALLAS:BROOKLYN:-inf:+inf:-inf:+inf:1:5
+WESTFIELD:BELFAST:-inf:+inf:-inf:+inf:2:4
+BRENTWOOD:ABILENE:-inf:+inf:-inf:+inf:1:2
+RIVERHEAD:LOS ANGELES:-inf:+inf:-inf:+inf:3:5
+DALLAS:ARCADIA:-inf:+inf:-inf:+inf:1:3
+BLOUNTSTOWN:ELSBERRY:-inf:+inf:-inf:+inf:2:5
+TRAVERSE CITY:ORLANDO:-inf:+inf:-inf:+inf:1:5
+HERINGTON:FLUSHING:-inf:+inf:-inf:+inf:2:4
+NEW SMYRNA:HOUSTON:-inf:+inf:-inf:+inf:2:2
+SHREVEPORT:HOLLYWOOD:-inf:+inf:-inf:+inf:3:4
+COLQUITT:SHREVEPORT:-inf:+inf:-inf:+inf:1:3
+GENEVA:WEST POINT:-inf:+inf:-inf:+inf:3:5
+SAINT LOUIS:SALINE:-inf:+inf:-inf:+inf:1:2
+BALTIMORE:NEW CASTLE:-inf:+inf:-inf:+inf:1:1
+KENSINGTON:WAHOO:-inf:+inf:-inf:+inf:2:5
+PORT RICHEY:TROY:-inf:+inf:-inf:+inf:2:3
+KAILUA:LINCOLN:-inf:+inf:-inf:+inf:0:3
+ATLANTA:ANDOVER:-inf:+inf:-inf:+inf:3:5
+ENCINO:PORT CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+BOLIVAR:BURBANK:-inf:+inf:-inf:+inf:3:5
+ATLANTA:BRIDGEPORT:-inf:+inf:-inf:+inf:2:4
+HUNTSVILLE:LEWES:-inf:+inf:-inf:+inf:1:5
+NEW YORK:MIAMI:-inf:+inf:-inf:+inf:1:3
+ROSWELL:CAHOKIA HEIGHTS:-inf:+inf:-inf:+inf:1:2
+CEDAR FALLS:TEMPERANCE:-inf:+inf:-inf:+inf:3:6
+ASHLAND:SHENANDOAH:-inf:+inf:-inf:+inf:2:4
+EUREKA:FLUSHING:-inf:+inf:-inf:+inf:2:5
+OAKDALE:WINNIE:-inf:+inf:-inf:+inf:3:4
+WEST MEMPHIS:STANLEY:-inf:+inf:-inf:+inf:2:4
+CANTON:BOSTON:-inf:+inf:-inf:+inf:0:0
+RIVER FOREST:NEWARK:-inf:+inf:-inf:+inf:1:5
+HOPKINSVILLE:HOLLYWOOD:-inf:+inf:-inf:+inf:2:2
+VALLEY COTTAGE:DALLAS:-inf:+inf:-inf:+inf:2:5
+MERRIAM:WEST PALM BEACH:-inf:+inf:-inf:+inf:0:2
+ANTIOCH:PALM DESERT:-inf:+inf:-inf:+inf:3:7
+YONKERS:SOUTHFIELD:-inf:+inf:-inf:+inf:2:2
+CLEVELAND:DALLAS:-inf:+inf:-inf:+inf:0:3
+BALTIMORE:FOLSOM:-inf:+inf:-inf:+inf:3:4
+RICHMOND:LOS ANGELES:-inf:+inf:-inf:+inf:1:4
+LAUREL:FAYETTEVILLE:-inf:+inf:-inf:+inf:2:6
+GLENDALE:DAVENPORT:-inf:+inf:-inf:+inf:0:3
+MUNSTER:SOMERSET:-inf:+inf:-inf:+inf:2:4
+HERMANN:SHELTON:-inf:+inf:-inf:+inf:0:2
+CHESAPEAKE:ARLINGTON:-inf:+inf:-inf:+inf:1:3
+INDIANA:GLENS FALLS:-inf:+inf:-inf:+inf:3:7
+COLUMBUS:NORMAL:-inf:+inf:-inf:+inf:1:1
+CORVALLIS:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:3
+RIO RANCHO:PRENTISS:-inf:+inf:-inf:+inf:0:0
+LONGPORT:DOWNERS GROVE:-inf:+inf:-inf:+inf:1:3
+PHOENIX:TUCKER:-inf:+inf:-inf:+inf:3:7
+SANTA CLARA:SALISBURY:-inf:+inf:-inf:+inf:2:3
+WASHINGTON:ALEXANDRIA BAY:-inf:+inf:-inf:+inf:2:3
+MANCHESTER:PEORIA:-inf:+inf:-inf:+inf:2:6
+EAST POINT:VERO BEACH:-inf:+inf:-inf:+inf:0:4
+PICKENS:MIAMI:-inf:+inf:-inf:+inf:3:4
+BALTIMORE:EUREKA:-inf:+inf:-inf:+inf:1:1
+BRISTOW:HUNTSVILLE:-inf:+inf:-inf:+inf:0:2
+DORAL:BECKLEY:-inf:+inf:-inf:+inf:0:0
+MIAMI:RALEIGH:-inf:+inf:-inf:+inf:1:1
+ALPENA:BETHLEHEM:-inf:+inf:-inf:+inf:0:0
+PELHAM:PALO ALTO:-inf:+inf:-inf:+inf:3:6
+BLOOMINGTON:KALAMAZOO:-inf:+inf:-inf:+inf:1:1
+MARINA DEL REY:HOUSTON:-inf:+inf:-inf:+inf:0:4
+EASTLAND:BAD AXE:-inf:+inf:-inf:+inf:0:4
+SHAWNEE:RALEIGH:-inf:+inf:-inf:+inf:2:3
+EVANSVILLE:POMONA:-inf:+inf:-inf:+inf:1:3
+SAINT LOUIS:WEST PLAINS:-inf:+inf:-inf:+inf:1:2
+BEATRICE:SHOW LOW:-inf:+inf:-inf:+inf:2:4
+PANAMA CITY:DALLAS:-inf:+inf:-inf:+inf:0:4
+MIAMI:KOKOMO:-inf:+inf:-inf:+inf:3:5
+WINTERSET:ELDORADO:-inf:+inf:-inf:+inf:2:6
+FAISON:OKLAHOMA CITY:-inf:+inf:-inf:+inf:0:1
+CHARLOTTE:IRVINE:-inf:+inf:-inf:+inf:2:6
+SAN DIEGO:MURPHY:-inf:+inf:-inf:+inf:0:3
+MONTROSE:EVANSVILLE:-inf:+inf:-inf:+inf:2:3
+MORRISTOWN:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+ATLANTA:FRANKFORT:-inf:+inf:-inf:+inf:3:7
+DINUBA:BIRMINGHAM:-inf:+inf:-inf:+inf:1:4
+CUMBERLAND:LAKEWOOD RANCH:-inf:+inf:-inf:+inf:0:0
+HICKORY:LUMBERTON:-inf:+inf:-inf:+inf:2:2
+LANSING:NORTH CONWAY:-inf:+inf:-inf:+inf:1:1
+BALTIMORE:COLUSA:-inf:+inf:-inf:+inf:2:3
+RANCHO CORDOVA:FAIRFAX:-inf:+inf:-inf:+inf:0:2
+MIDLAND:EATONTON:-inf:+inf:-inf:+inf:3:5
+DU BOIS:MIDLAND:-inf:+inf:-inf:+inf:2:6
+FRANKLIN:POTTSVILLE:-inf:+inf:-inf:+inf:0:4
+ASHEVILLE:MIAMI:-inf:+inf:-inf:+inf:3:5
+COOPERSTOWN:HAZEL PARK:-inf:+inf:-inf:+inf:2:6
+MANTECA:SUGAR LAND:-inf:+inf:-inf:+inf:2:4
+MANCHESTER:COLUMBUS:-inf:+inf:-inf:+inf:2:2
+HERNANDO:MOUNT VERNON:-inf:+inf:-inf:+inf:0:1
+NEW PORT RICHEY:CORDELE:-inf:+inf:-inf:+inf:0:1
+FORT DODGE:KALAMAZOO:-inf:+inf:-inf:+inf:2:6
+BRENTWOOD:HARTFORD:-inf:+inf:-inf:+inf:0:0
+ANACONDA:RED CLOUD:-inf:+inf:-inf:+inf:2:5
+LOS ANGELES:NEWTON:-inf:+inf:-inf:+inf:3:6
+CHARLOTTE:CASSELBERRY:-inf:+inf:-inf:+inf:2:4
+WASHINGTON:ROSEAU:-inf:+inf:-inf:+inf:2:4
+SEATTLE:KAMUELA:-inf:+inf:-inf:+inf:0:3
+ELIZABETH CITY:PIKEVILLE:-inf:+inf:-inf:+inf:1:1
+CORYDON:SCOTTSDALE:-inf:+inf:-inf:+inf:1:3
+MASON CITY:MORGANTOWN:-inf:+inf:-inf:+inf:1:4
+MONONGAHELA:GARDEN CITY:-inf:+inf:-inf:+inf:2:4
+LANSING:HACKENSACK:-inf:+inf:-inf:+inf:2:3
+CLINTON:DULUTH:-inf:+inf:-inf:+inf:3:6
+SAN DIEGO:REXBURG:-inf:+inf:-inf:+inf:3:7
+BALTIMORE:NOVI:-inf:+inf:-inf:+inf:3:5
+MEMPHIS:MARYLAND HEIGHTS:-inf:+inf:-inf:+inf:2:5
+SPRINGFIELD:BESSEMER:-inf:+inf:-inf:+inf:2:2
+NEPHI:CHARLEVOIX:-inf:+inf:-inf:+inf:2:3
+ATLANTA:HARRISBURG:-inf:+inf:-inf:+inf:3:5
+OROVILLE:NEW YORK:-inf:+inf:-inf:+inf:1:1
+FORT STOCKTON:ALPHARETTA:-inf:+inf:-inf:+inf:0:4
+PEMBROKE PINES:LANSE:-inf:+inf:-inf:+inf:3:5
+BETHLEHEM:SAINT LOUIS:-inf:+inf:-inf:+inf:3:6
+SAN MATEO:CARLSBAD:-inf:+inf:-inf:+inf:1:2
+WEST PALM BEACH:HOLLYWOOD:-inf:+inf:-inf:+inf:2:2
+STOCKTON:OMAHA:-inf:+inf:-inf:+inf:1:5
+MIAMI:BOISE:-inf:+inf:-inf:+inf:1:4
+MADISON HEIGHTS:CHARITON:-inf:+inf:-inf:+inf:2:2
+ORANGE:BROOMFIELD:-inf:+inf:-inf:+inf:0:4
+DALLAS:BROWNFIELD:-inf:+inf:-inf:+inf:0:3
+DENVER:SAN ANTONIO:-inf:+inf:-inf:+inf:3:7
+DANVILLE:PATERSON:-inf:+inf:-inf:+inf:1:4
+STAFFORD:KING CITY:-inf:+inf:-inf:+inf:1:4
+ZION:NELIGH:-inf:+inf:-inf:+inf:1:2
+EATONTON:RIO GRANDE CITY:-inf:+inf:-inf:+inf:0:0
+HENDERSON:SISSETON:-inf:+inf:-inf:+inf:3:7
+ROCHESTER:MECHANICSBURG:-inf:+inf:-inf:+inf:2:3
+MELROSE PARK:MANATI:-inf:+inf:-inf:+inf:1:3
+CHARLESTON:SONORA:-inf:+inf:-inf:+inf:0:2
+ROANOKE:CLEARWATER:-inf:+inf:-inf:+inf:0:3
+BROOKLYN:EL RENO:-inf:+inf:-inf:+inf:3:6
+SAVANNAH:STURBRIDGE:-inf:+inf:-inf:+inf:1:5
+LOS ANGELES:CHICO:-inf:+inf:-inf:+inf:2:3
+DALLAS:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+GRAND RAPIDS:LEWIS CENTER:-inf:+inf:-inf:+inf:0:0
+OLATHE:SAINT LOUIS:-inf:+inf:-inf:+inf:1:5
+HERINGTON:FREMONT:-inf:+inf:-inf:+inf:2:2
+JEFFERSON HILLS:NORTHPORT:-inf:+inf:-inf:+inf:3:7
+SOUTH BOSTON:SCRANTON:-inf:+inf:-inf:+inf:1:2
+WINDSOR MILL:DES MOINES:-inf:+inf:-inf:+inf:1:2
+INDIANAPOLIS:CANTON:-inf:+inf:-inf:+inf:1:4
+COUDERSPORT:MORRISTOWN:-inf:+inf:-inf:+inf:2:2
+NEW HAVEN:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+FRANKLIN:ATLANTA:-inf:+inf:-inf:+inf:0:2
+WICHITA:SONORA:-inf:+inf:-inf:+inf:0:2
+ROCHESTER:ALCOA:-inf:+inf:-inf:+inf:2:5
+NEVADA:BERLIN:-inf:+inf:-inf:+inf:3:5
+ROCKFORD:WEBSTER CITY:-inf:+inf:-inf:+inf:3:7
+PROVIDENCE:JACKSON:-inf:+inf:-inf:+inf:1:2
+NEW YORK:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:4
+SANTA ANA:INDEPENDENCE:-inf:+inf:-inf:+inf:1:3
+SCRANTON:LANSING:-inf:+inf:-inf:+inf:2:4
+BALTIMORE:BAY ST LOUIS:-inf:+inf:-inf:+inf:0:0
+HOLLAND:PASADENA:-inf:+inf:-inf:+inf:1:1
+CHICAGO:MANCHESTER:-inf:+inf:-inf:+inf:1:2
+HEMPHILL:CAMDEN:-inf:+inf:-inf:+inf:2:5
+GREEN BAY:FORT WORTH:-inf:+inf:-inf:+inf:1:3
+WEST PALM BEACH:AMARILLO:-inf:+inf:-inf:+inf:1:2
+MADISON:WINSTON SALEM:-inf:+inf:-inf:+inf:3:4
+BINGHAMTON:WINCHESTER:-inf:+inf:-inf:+inf:2:5
+BROOKLYN:COLTON:-inf:+inf:-inf:+inf:1:5
+MOUNT CARMEL:CHARLESTON:-inf:+inf:-inf:+inf:2:3
+ORANGE CITY:TRUJILLO ALTO:-inf:+inf:-inf:+inf:3:6
+BRIDGETON:WHITE PLAINS:-inf:+inf:-inf:+inf:1:1
+WILMINGTON:TACOMA:-inf:+inf:-inf:+inf:0:3
+ATLANTA:BEAUFORT:-inf:+inf:-inf:+inf:2:6
+BIG TIMBER:HONESDALE:-inf:+inf:-inf:+inf:2:4
+MARIETTA:BRIDGEPORT:-inf:+inf:-inf:+inf:2:3
+DULUTH:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+MONTEREY:SWAINSBORO:-inf:+inf:-inf:+inf:0:2
+JOLIET:JACKSONVILLE:-inf:+inf:-inf:+inf:0:0
+MIAMI:COLUSA:-inf:+inf:-inf:+inf:2:4
+ASHEVILLE:HERMANN:-inf:+inf:-inf:+inf:1:5
+WINDBER:OKLAHOMA CITY:-inf:+inf:-inf:+inf:3:6
+BALTIMORE:PEORIA:-inf:+inf:-inf:+inf:2:6
+DENVER:STUART:-inf:+inf:-inf:+inf:1:1
+LOS ANGELES:SANTO:-inf:+inf:-inf:+inf:0:2
+MILWAUKEE:LINDEN:-inf:+inf:-inf:+inf:2:3
+SULLIVAN:FAISON:-inf:+inf:-inf:+inf:3:5
+KNOXVILLE:HOFFMAN ESTATES:-inf:+inf:-inf:+inf:3:3
+TAMPA:LEAVENWORTH:-inf:+inf:-inf:+inf:0:3
+STAMFORD:MONTGOMERY:-inf:+inf:-inf:+inf:0:3
+EASLEY:MERRIAM:-inf:+inf:-inf:+inf:3:3
+GREENSBURG:WINCHESTER:-inf:+inf:-inf:+inf:3:6
+DALLAS:VINCENNES:-inf:+inf:-inf:+inf:1:3
+GREENWICH:CARTHAGE:-inf:+inf:-inf:+inf:3:6
+GLENWOOD SPRINGS:WOLFEBORO:-inf:+inf:-inf:+inf:1:5
+COCHRAN:LEMMON:-inf:+inf:-inf:+inf:3:6
+PAWNEE CITY:ALEXANDRIA BAY:-inf:+inf:-inf:+inf:0:3
+DIMMITT:CHARLOTTESVILLE:-inf:+inf:-inf:+inf:0:1
+BETHLEHEM:EDGEWOOD:-inf:+inf:-inf:+inf:1:1
+PHOENIX:LAS VEGAS:-inf:+inf:-inf:+inf:0:2
+FLAT ROCK:GREEN BAY:-inf:+inf:-inf:+inf:0:2
+VESTAL:DENVER:-inf:+inf:-inf:+inf:1:3
+HERSHEY:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:1
+MIAMI:SOMERDALE:-inf:+inf:-inf:+inf:1:3
+BRIARWOOD:ELLWOOD CITY:-inf:+inf:-inf:+inf:1:1
+BONNERS FERRY:WEST PALM BEACH:-inf:+inf:-inf:+inf:3:7
+SMITHFIELD:BOYNTON BEACH:-inf:+inf:-inf:+inf:0:1
+ALBUQUERQUE:HAYWARD:-inf:+inf:-inf:+inf:2:6
+SKOKIE:BRIDGETON:-inf:+inf:-inf:+inf:0:0
+BOLIVAR:CRESCENT:-inf:+inf:-inf:+inf:2:6
+FORT SILL:SAN DIEGO:-inf:+inf:-inf:+inf:0:4
+SAGINAW:OGDEN:-inf:+inf:-inf:+inf:3:5
+CASSELBERRY:HARLINGEN:-inf:+inf:-inf:+inf:0:0
+HIALEAH:BLYTHEVILLE:-inf:+inf:-inf:+inf:0:4
+MONROE:PEARSALL:-inf:+inf:-inf:+inf:1:5
+ALBIA:LANSING:-inf:+inf:-inf:+inf:3:6
+DURHAM:WINNIE:-inf:+inf:-inf:+inf:2:5
+CALLAWAY:FLEMINGTON:-inf:+inf:-inf:+inf:0:4
+WARM SPRINGS:MARTIN:-inf:+inf:-inf:+inf:3:5
+FORT WORTH:DEL RIO:-inf:+inf:-inf:+inf:0:1
+LAKE CHARLES:MANDEVILLE:-inf:+inf:-inf:+inf:0:1
+SPRINGFIELD:MISSOULA:-inf:+inf:-inf:+inf:3:6
+WASHINGTON:YPSILANTI:-inf:+inf:-inf:+inf:3:6
+HOT SPRINGS:CHELAN:-inf:+inf:-inf:+inf:1:4
+BRISTOL:PHILADELPHIA:-inf:+inf:-inf:+inf:1:4
+KALAMAZOO:CARNEGIE:-inf:+inf:-inf:+inf:2:6
+LOS ANGELES:GLENDORA:-inf:+inf:-inf:+inf:3:4
+ST JOHNSBURY:BROOKLYN:-inf:+inf:-inf:+inf:3:3
+WINCHESTER:DALLAS:-inf:+inf:-inf:+inf:3:4
+MATTAWAN:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:4
+ARLINGTON:MIAMI:-inf:+inf:-inf:+inf:2:6
+DECATUR:DOWAGIAC:-inf:+inf:-inf:+inf:3:7
+NORTH MIAMI BEACH:RENTON:-inf:+inf:-inf:+inf:3:5
+CASS CITY:BELOIT:-inf:+inf:-inf:+inf:3:7
+ALEXANDER CITY:NEW YORK:-inf:+inf:-inf:+inf:2:6
+ORLANDO:NEW IBERIA:-inf:+inf:-inf:+inf:3:3
+HENDERSON:MONROE:-inf:+inf:-inf:+inf:0:3
+BRENTWOOD:LUBBOCK:-inf:+inf:-inf:+inf:1:3
+PARSONS:BELTON:-inf:+inf:-inf:+inf:1:4
+PENSACOLA:ABINGTON:-inf:+inf:-inf:+inf:0:4
+STATEN ISLAND:KANSAS CITY:-inf:+inf:-inf:+inf:3:6
+BATTLE MOUNTAIN:BURKESVILLE:-inf:+inf:-inf:+inf:1:3
+MARIETTA:SAN JUAN:-inf:+inf:-inf:+inf:2:6
+CASS CITY:JEFFERSON CITY:-inf:+inf:-inf:+inf:1:5
+DETROIT:BENKELMAN:-inf:+inf:-inf:+inf:0:3
+SHIPROCK:DYER:-inf:+inf:-inf:+inf:0:2
+MIAMI:PITTSBURG:-inf:+inf:-inf:+inf:0:0
+DURHAM:BOISE:-inf:+inf:-inf:+inf:3:5
+GREENFIELD:PASADENA:-inf:+inf:-inf:+inf:2:2
+DALLAS:PHILADELPHIA:-inf:+inf:-inf:+inf:2:3
+EL PASO:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:0:1
+CINCINNATI:MOUNT AIRY:-inf:+inf:-inf:+inf:3:7
+NICEVILLE:NEWPORT BEACH:-inf:+inf:-inf:+inf:0:4
+PENDER:AUGUSTA:-inf:+inf:-inf:+inf:0:1
+MAXWELL:HOISINGTON:-inf:+inf:-inf:+inf:0:3
+COZAD:CHARLESTON:-inf:+inf:-inf:+inf:3:7
+NEWPORT:MIAMI:-inf:+inf:-inf:+inf:2:5
+ELIZABETHTOWN:AURORA:-inf:+inf:-inf:+inf:1:1
+MARSHFIELD:NATCHITOCHES:-inf:+inf:-inf:+inf:1:3
+NASHVILLE:LAUREL:-inf:+inf:-inf:+inf:2:2
+EDGEWOOD:BURKESVILLE:-inf:+inf:-inf:+inf:2:6
+MARLTON:BURKESVILLE:-inf:+inf:-inf:+inf:1:3
+GARDEN CITY:AURORA:-inf:+inf:-inf:+inf:2:2
+CARBONDALE:INDIANAPOLIS:-inf:+inf:-inf:+inf:3:3
+PUYALLUP:DALLAS:-inf:+inf:-inf:+inf:0:2
+PHILADELPHIA:FREDERICKTOWN:-inf:+inf:-inf:+inf:1:5
+MULLICA HILL:DALLAS:-inf:+inf:-inf:+inf:2:2
+LOGANSPORT:SURPRISE:-inf:+inf:-inf:+inf:2:6
+SAN RAMON:YONKERS:-inf:+inf:-inf:+inf:1:3
+FALL RIVER MILLS:HARRISON:-inf:+inf:-inf:+inf:1:4
+WESTBROOK:RIDGECREST:-inf:+inf:-inf:+inf:3:4
+SAN FRANCISCO:PROVIDENCE:-inf:+inf:-inf:+inf:1:1
+LAFAYETTE:YORK:-inf:+inf:-inf:+inf:3:6
+MESA:AKRON:-inf:+inf:-inf:+inf:2:4
+WINSTON SALEM:TUPELO:-inf:+inf:-inf:+inf:1:5
+MINEOLA:BENNINGTON:-inf:+inf:-inf:+inf:3:7
+CORTLAND:CHELSEA:-inf:+inf:-inf:+inf:1:3
+MELBOURNE:SILVER SPRING:-inf:+inf:-inf:+inf:3:7
+UNIVERSITY HEIGHTS:EDEN PRAIRIE:-inf:+inf:-inf:+inf:0:0
+ANACONDA:COEUR D ALENE:-inf:+inf:-inf:+inf:1:5
+PASSAIC:BOLINGBROOK:-inf:+inf:-inf:+inf:2:3
+GREENEVILLE:NEWARK:-inf:+inf:-inf:+inf:0:2
+DEERFIELD:BOCA RATON:-inf:+inf:-inf:+inf:0:3
+ASHLAND:BLUE SPRINGS:-inf:+inf:-inf:+inf:2:2
+FAIRBANKS:OSKALOOSA:-inf:+inf:-inf:+inf:1:5
+RED OAK:NORCROSS:-inf:+inf:-inf:+inf:0:0
+BALTIMORE:BEVERLY HILLS:-inf:+inf:-inf:+inf:2:3
+BALTIMORE:LAVERNE:-inf:+inf:-inf:+inf:1:5
+DEXTER:RENTON:-inf:+inf:-inf:+inf:3:3
+ASHEVILLE:CHATTANOOGA:-inf:+inf:-inf:+inf:0:1
+NEW YORK:CINCINNATI:-inf:+inf:-inf:+inf:2:6
+TEMPERANCE:NEW YORK:-inf:+inf:-inf:+inf:0:3
+NASHVILLE:HIALEAH:-inf:+inf:-inf:+inf:2:3
+BELFAST:RICHMOND:-inf:+inf:-inf:+inf:2:5
+RICHMOND:MONTGOMERY:-inf:+inf:-inf:+inf:2:6
+BIRMINGHAM:BOISE:-inf:+inf:-inf:+inf:1:3
+BYRAM:BRENTWOOD:-inf:+inf:-inf:+inf:0:3
+AMSTERDAM:MESQUITE:-inf:+inf:-inf:+inf:1:2
+BOWLING GREEN:HARRISON:-inf:+inf:-inf:+inf:2:6
+MIDLAND:SCHAUMBURG:-inf:+inf:-inf:+inf:3:7
+SULPHUR:SAN DIEGO:-inf:+inf:-inf:+inf:1:3
+PORTLAND:CLEARWATER:-inf:+inf:-inf:+inf:0:3
+NORTH ANDOVER:ELMA:-inf:+inf:-inf:+inf:2:2
+PASADENA:E STROUDSBURG:-inf:+inf:-inf:+inf:1:5
+HOUSTON:KANSAS CITY:-inf:+inf:-inf:+inf:0:0
+WHITING:GLEN BURNIE:-inf:+inf:-inf:+inf:2:2
+RIVERDALE:EL PASO:-inf:+inf:-inf:+inf:0:4
+PORT JEFFERSON:COLUSA:-inf:+inf:-inf:+inf:1:3
+RESTON:HAYS:-inf:+inf:-inf:+inf:2:5
+GRAND RAPIDS:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:3
+HEBRON:LA FOLLETTE:-inf:+inf:-inf:+inf:3:5
+WILLOW GROVE:RICHMOND:-inf:+inf:-inf:+inf:0:2
+GLENWOOD SPRINGS:LOS ANGELES:-inf:+inf:-inf:+inf:3:7
+DECATUR:SANTA FE:-inf:+inf:-inf:+inf:3:6
+TYLER:HAMBURG:-inf:+inf:-inf:+inf:1:3
+DETROIT:GREEN BAY:-inf:+inf:-inf:+inf:3:7
+PHOENIX:GLENN DALE:-inf:+inf:-inf:+inf:2:4
+BAKER CITY:MC GEHEE:-inf:+inf:-inf:+inf:1:3
+MENOMONEE FALLS:READING:-inf:+inf:-inf:+inf:1:3
+MIAMI:TAMPA:-inf:+inf:-inf:+inf:3:6
+CHICAGO:WESTMINSTER:-inf:+inf:-inf:+inf:2:3
+INDIANAPOLIS:IRAAN:-inf:+inf:-inf:+inf:3:7
+SAN FRANCISCO:FORT WAYNE:-inf:+inf:-inf:+inf:0:0
+IRAAN:MODESTO:-inf:+inf:-inf:+inf:0:3
+DOVER:NATCHEZ:-inf:+inf:-inf:+inf:1:3
+CAMERON:TRENTON:-inf:+inf:-inf:+inf:0:3
+PHOENIX:NASHVILLE:-inf:+inf:-inf:+inf:0:0
+SCHENECTADY:ARMOUR:-inf:+inf:-inf:+inf:0:3
+LINCOLN CITY:BETHLEHEM:-inf:+inf:-inf:+inf:0:2
+PASADENA:ATLANTIC:-inf:+inf:-inf:+inf:0:2
+CHELSEA:DAYTON:-inf:+inf:-inf:+inf:2:4
+DALLAS:FRANKLIN:-inf:+inf:-inf:+inf:1:4
+LAKE CITY:GARY:-inf:+inf:-inf:+inf:1:4
+GLENWOOD SPRINGS:MIAMI SHORES:-inf:+inf:-inf:+inf:0:4
+TULSA:PORTLAND:-inf:+inf:-inf:+inf:1:2
+DARDANELLE:KAHUKU:-inf:+inf:-inf:+inf:2:4
+CHEBOYGAN:HOLLYWOOD:-inf:+inf:-inf:+inf:2:5
+SCHENECTADY:HOOPESTON:-inf:+inf:-inf:+inf:1:5
+NEWPORT:BIRMINGHAM:-inf:+inf:-inf:+inf:1:1
+SAN ANGELO:SANTA FE:-inf:+inf:-inf:+inf:3:5
+SPENCER:DONALSONVILLE:-inf:+inf:-inf:+inf:0:3
+SNYDER:BALTIMORE:-inf:+inf:-inf:+inf:2:2
+LAKE CHARLES:JASPER:-inf:+inf:-inf:+inf:1:4
+SCHNECKSVILLE:SAINT PAUL:-inf:+inf:-inf:+inf:1:1
+HOUSTON:BIRMINGHAM:-inf:+inf:-inf:+inf:3:6
+YARDLEY:WYOMISSING:-inf:+inf:-inf:+inf:1:1
+FREDERICKSBURG:SCHENECTADY:-inf:+inf:-inf:+inf:3:6
+SAGINAW:GREENVILLE:-inf:+inf:-inf:+inf:3:4
+HERSHEY:MINEOLA:-inf:+inf:-inf:+inf:0:1
+WATERLOO:BALTIMORE:-inf:+inf:-inf:+inf:3:3
+SHERMAN OAKS:HOLLAND:-inf:+inf:-inf:+inf:3:4
+HIRAM:KINGTREE:-inf:+inf:-inf:+inf:1:5
+HOFFMAN ESTATES:OZARK:-inf:+inf:-inf:+inf:0:1
+ELMIRA:SEATTLE:-inf:+inf:-inf:+inf:3:4
+WASHINGTON:FORT POLK:-inf:+inf:-inf:+inf:2:2
+CHARLOTTE:SOUTHFIELD:-inf:+inf:-inf:+inf:1:5
+HONOLULU:WARRENSBURG:-inf:+inf:-inf:+inf:2:5
+MARION:MONROE:-inf:+inf:-inf:+inf:2:6
+NASHVILLE:BRENTWOOD:-inf:+inf:-inf:+inf:3:7
+HOUSTON:LAWTON:-inf:+inf:-inf:+inf:0:2
+SHREVEPORT:FOREST HILLS:-inf:+inf:-inf:+inf:3:7
+OPELOUSAS:MOUNT AIRY:-inf:+inf:-inf:+inf:1:2
+KANSAS CITY:PARKERSBURG:-inf:+inf:-inf:+inf:1:3
+WEST PLAINS:WAPWALLOPEN:-inf:+inf:-inf:+inf:1:5
+BRECKENRIDGE:LAS CRUCES:-inf:+inf:-inf:+inf:0:3
+BELLFLOWER:GRUNDY CENTER:-inf:+inf:-inf:+inf:1:3
+FAIRFIELD:BRENTWOOD:-inf:+inf:-inf:+inf:3:4
+KINSTON:KERRVILLE:-inf:+inf:-inf:+inf:2:3
+GAINESVILLE:HIALEAH:-inf:+inf:-inf:+inf:3:5
+FAIRHOPE:SAN FRANCISCO:-inf:+inf:-inf:+inf:3:5
+BIRMINGHAM:HOT SPRINGS:-inf:+inf:-inf:+inf:2:5
+CEDAR RAPIDS:RICHMOND:-inf:+inf:-inf:+inf:3:5
+MIAMI:ATLANTA:-inf:+inf:-inf:+inf:2:3
+BIRMINGHAM:CLEVELAND:-inf:+inf:-inf:+inf:3:6
+CUSHING:WEST MEMPHIS:-inf:+inf:-inf:+inf:2:3
+YUMA:MOROVIS:-inf:+inf:-inf:+inf:0:3
+ELIZABETH:SAN BERNARDINO:-inf:+inf:-inf:+inf:0:2
+CHELAN:FORT MYERS:-inf:+inf:-inf:+inf:3:5
+EAST HARTFORD:CLEVELAND:-inf:+inf:-inf:+inf:1:2
+PEMBROKE PINES:MILWAUKEE:-inf:+inf:-inf:+inf:1:4
+LOUISVILLE:GOSHEN:-inf:+inf:-inf:+inf:1:3
+PINE BLUFF:DYER:-inf:+inf:-inf:+inf:2:5
+MIDLAND:FORT BENNING:-inf:+inf:-inf:+inf:0:2
+CALICO ROCK:WHITE PLAINS:-inf:+inf:-inf:+inf:2:5
+GRAFTON:HIGHLANDS:-inf:+inf:-inf:+inf:0:4
+NASHVILLE:JASPER:-inf:+inf:-inf:+inf:2:6
+RAPID CITY:CHICAGO:-inf:+inf:-inf:+inf:0:3
+PECOS:BELZONI:-inf:+inf:-inf:+inf:0:2
+JACKSONVILLE:SYRACUSE:-inf:+inf:-inf:+inf:3:3
+FORT LAUDERDALE:MULESHOE:-inf:+inf:-inf:+inf:2:2
+TAMPA:SAVANNAH:-inf:+inf:-inf:+inf:0:2
+TYLER:GOTHENBURG:-inf:+inf:-inf:+inf:1:4
+ROCKFORD:SANDUSKY:-inf:+inf:-inf:+inf:0:1
+DALLAS:SALIDA:-inf:+inf:-inf:+inf:0:0
+MEMPHIS:ATLANTA:-inf:+inf:-inf:+inf:0:4
+SAGINAW:KANSAS CITY:-inf:+inf:-inf:+inf:3:3
+BAYAMON:PARIS:-inf:+inf:-inf:+inf:0:2
+ERIE:BOSTON:-inf:+inf:-inf:+inf:3:6
+BIGFORK:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+FORT CAMPBELL:JACKSONVILLE:-inf:+inf:-inf:+inf:3:3
+COLTON:BOISE:-inf:+inf:-inf:+inf:0:3
+SCOTTSBLUFF:CONRAD:-inf:+inf:-inf:+inf:1:4
+PLANO:DEL RIO:-inf:+inf:-inf:+inf:3:3
+PLANO:HAVANA:-inf:+inf:-inf:+inf:3:3
+DU BOIS:OMAHA:-inf:+inf:-inf:+inf:3:7
+LAS VEGAS:RENTON:-inf:+inf:-inf:+inf:0:3
+FORT LAUDERDALE:COLUMBUS:-inf:+inf:-inf:+inf:0:1
+FARMINGTON HILLS:USAF ACADEMY:-inf:+inf:-inf:+inf:0:1
+FRANKLINTON:PASADENA:-inf:+inf:-inf:+inf:2:6
+NEW YORK:ALBANY:-inf:+inf:-inf:+inf:0:0
+COLUSA:PHILADELPHIA:-inf:+inf:-inf:+inf:3:7
+EL CAMPO:HOLLYWOOD:-inf:+inf:-inf:+inf:2:5
+ARCHDALE:WOONSOCKET:-inf:+inf:-inf:+inf:3:5
+SHERMAN OAKS:FLORENCE:-inf:+inf:-inf:+inf:2:6
+VALLEY CITY:MIDDLEBURY:-inf:+inf:-inf:+inf:1:4
+MORGANTON:GULFPORT:-inf:+inf:-inf:+inf:1:2
+HIALEAH:FLEMINGSBURG:-inf:+inf:-inf:+inf:2:5
+MECHANICSVILLE:ERLANGER:-inf:+inf:-inf:+inf:2:6
+CARROLLTON:BEVERLY HILLS:-inf:+inf:-inf:+inf:0:0
+DALLAS:JACKSONVILLE:-inf:+inf:-inf:+inf:3:6
+JASPER:CHARLOTTE:-inf:+inf:-inf:+inf:2:3
+CONROE:MOUNTAIN VIEW:-inf:+inf:-inf:+inf:0:3
+GREEN BAY:RICHMOND:-inf:+inf:-inf:+inf:0:2
+KALAMAZOO:BELOIT:-inf:+inf:-inf:+inf:3:6
+BALTIMORE:AUBURN:-inf:+inf:-inf:+inf:3:7
+EXCELSIOR SPRINGS:HEMET:-inf:+inf:-inf:+inf:0:4
+KANSAS CITY:ORLANDO:-inf:+inf:-inf:+inf:2:6
+DENVER:WAILUKU:-inf:+inf:-inf:+inf:1:2
+PEORIA:STATEN ISLAND:-inf:+inf:-inf:+inf:1:5
+COOS BAY:SAULT SAINTE MARIE:-inf:+inf:-inf:+inf:0:4
+CARTHAGE:HARLAN:-inf:+inf:-inf:+inf:0:0
+CHARLOTTE:CHICO:-inf:+inf:-inf:+inf:2:2
+KANSAS CITY:SOUTH BOSTON:-inf:+inf:-inf:+inf:2:3
+BRENTWOOD:BAINBRIDGE:-inf:+inf:-inf:+inf:1:3
+CHARLOTTE:MOREHEAD:-inf:+inf:-inf:+inf:2:2
+LOS ANGELES:MORRISTOWN:-inf:+inf:-inf:+inf:2:6
+FAISON:CHARLOTTE:-inf:+inf:-inf:+inf:0:4
+JACKSON HEIGHTS:CEDAR FALLS:-inf:+inf:-inf:+inf:0:4
+SYLVANIA:PORTLAND:-inf:+inf:-inf:+inf:1:3
+NORFOLK:MURFREESBORO:-inf:+inf:-inf:+inf:0:4
+MORRISVILLE:TOMAH:-inf:+inf:-inf:+inf:1:5
+LEXINGTON:BURKEVILLE:-inf:+inf:-inf:+inf:1:5
+BEDFORD:HAVANA:-inf:+inf:-inf:+inf:2:2
+DALLAS:JACKSONVILLE:-inf:+inf:-inf:+inf:3:3
+PAMPA:FORT MYERS:-inf:+inf:-inf:+inf:3:7
+MORTON GROVE:PLAINFIELD:-inf:+inf:-inf:+inf:3:5
+DETROIT:ROCHESTER:-inf:+inf:-inf:+inf:2:6
+CHICO:LORIS:-inf:+inf:-inf:+inf:3:5
+JOHNSON CITY:HIALEAH:-inf:+inf:-inf:+inf:3:3
+ATLANTA:YONKERS:-inf:+inf:-inf:+inf:1:1
+SPRINGFIELD:HAZEN:-inf:+inf:-inf:+inf:2:3
+BRENTWOOD:CORPUS CHRISTI:-inf:+inf:-inf:+inf:0:0
+LOS ANGELES:ANDREWS:-inf:+inf:-inf:+inf:0:4
+CLEARFIELD:AURORA:-inf:+inf:-inf:+inf:1:5
+ARLINGTON:GREEN BAY:-inf:+inf:-inf:+inf:1:2
+GREAT FALLS:GIBSONIA:-inf:+inf:-inf:+inf:2:5
+TEMPERANCE:SANDSTONE:-inf:+inf:-inf:+inf:1:2
+HEMPHILL:CAPE GIRARDEAU:-inf:+inf:-inf:+inf:3:5
+GRAFTON:FPO:-inf:+inf:-inf:+inf:1:4
+KANAB:DEQUINCY:-inf:+inf:-inf:+inf:0:2
+CHARLOTTE:OLNEY:-inf:+inf:-inf:+inf:0:3
+FORT KENT:HIGH SPRINGS:-inf:+inf:-inf:+inf:0:2
+SAN JOSE:POMPANO BEACH:-inf:+inf:-inf:+inf:3:5
+BELOIT:CHARLOTTE:-inf:+inf:-inf:+inf:0:3
+SOUTHFIELD:CRAIG:-inf:+inf:-inf:+inf:3:4
+DALLAS:FAISON:-inf:+inf:-inf:+inf:1:2
+CHICAGO:CHICAGO:-inf:+inf:-inf:+inf:2:5
+BIRMINGHAM:ATLANTA:-inf:+inf:-inf:+inf:1:1
+LOS ANGELES:LINCOLN:-inf:+inf:-inf:+inf:1:3
+HOUSTON:WEST HOLLYWOOD:-inf:+inf:-inf:+inf:2:6
+PATCHOGUE:JOHNSON CITY:-inf:+inf:-inf:+inf:1:4
+SPRINGFIELD:FORT LAUDERDALE:-inf:+inf:-inf:+inf:3:3
+GRAHAM:MIAMI:-inf:+inf:-inf:+inf:2:6
+PHILADELPHIA:CLINTON:-inf:+inf:-inf:+inf:0:0
+THIEF RIVER FALLS:MOUNT KISCO:-inf:+inf:-inf:+inf:0:4
+BELLEVUE:SHERMAN:-inf:+inf:-inf:+inf:1:4
+ATLANTA:CINCINNATI:-inf:+inf:-inf:+inf:3:6
+LOS ANGELES:MOUNT KISCO:-inf:+inf:-inf:+inf:3:7
+COLUMBIANA:SENECA:-inf:+inf:-inf:+inf:0:1
+HOLLAND:KANSAS CITY:-inf:+inf:-inf:+inf:0:2
+ROCHESTER:BASTROP:-inf:+inf:-inf:+inf:0:4
+CHICAGO:REXBURG:-inf:+inf:-inf:+inf:2:2
+CANDO:WEST MONROE:-inf:+inf:-inf:+inf:2:3
+PROVIDENCE:WICHITA FALLS:-inf:+inf:-inf:+inf:2:2
+MILWAUKEE:BURLINGTON:-inf:+inf:-inf:+inf:0:1
+PHILADELPHIA:OKLAHOMA CITY:-inf:+inf:-inf:+inf:0:1
+THOMASVILLE:PICKFORD:-inf:+inf:-inf:+inf:1:1
+TOTOWA:SAINT LOUIS:-inf:+inf:-inf:+inf:3:6
+COLUMBIA:LAKE CITY:-inf:+inf:-inf:+inf:0:1
+CALLAWAY:MEDICAL LAKE:-inf:+inf:-inf:+inf:2:6
+BIRMINGHAM:DETROIT:-inf:+inf:-inf:+inf:0:3
+WARREN:STATEN ISLAND:-inf:+inf:-inf:+inf:0:4
+LEESBURG:LAKEWOOD:-inf:+inf:-inf:+inf:1:5
+COLEMAN:MIDDLEBURY:-inf:+inf:-inf:+inf:1:2
+SONORA:DECATUR:-inf:+inf:-inf:+inf:3:6
+LOGANSPORT:SAINT ALBANS:-inf:+inf:-inf:+inf:2:4
+FORT BRAGG:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:6
+GLENDALE:HOLBROOK:-inf:+inf:-inf:+inf:0:1
+MEADVILLE:JACKSONVILLE:-inf:+inf:-inf:+inf:1:5
+IDAHO FALLS:ATLANTA:-inf:+inf:-inf:+inf:1:1
+FRANKLIN:DEQUINCY:-inf:+inf:-inf:+inf:2:3
+CHICAGO:MARSHALL:-inf:+inf:-inf:+inf:2:2
+KING OF PRUSSIA:NORTH PLATTE:-inf:+inf:-inf:+inf:3:6
+HAZLEHURST:BOULDER:-inf:+inf:-inf:+inf:2:4
+CHESTERFIELD:KANKAKEE:-inf:+inf:-inf:+inf:3:5
+ELDON:DUNCAN:-inf:+inf:-inf:+inf:3:7
+SAN ANTONIO:PLATTSBURG:-inf:+inf:-inf:+inf:1:5
+NORTH PROVIDENCE:OMAHA:-inf:+inf:-inf:+inf:3:5
+WHITFIELD:CHICAGO:-inf:+inf:-inf:+inf:1:1
+LAKE VILLA:DANBURY:-inf:+inf:-inf:+inf:1:2
+EMPORIA:HOUSTON:-inf:+inf:-inf:+inf:2:2
+ORANGE:CORVALLIS:-inf:+inf:-inf:+inf:0:3
+SUMMERSVILLE:MACON:-inf:+inf:-inf:+inf:1:2
+LINCOLN:PONCE:-inf:+inf:-inf:+inf:0:1
+GULFPORT:PENNSAUKEN:-inf:+inf:-inf:+inf:1:5
+WHITESBURG:NEENAH:-inf:+inf:-inf:+inf:0:2
+BALTIMORE:PECOS:-inf:+inf:-inf:+inf:3:3
+HUNTINGTON:STATEN ISLAND:-inf:+inf:-inf:+inf:1:5
+TUPELO:SHREVEPORT:-inf:+inf:-inf:+inf:2:5
+BURKESVILLE:CORAL GABLES:-inf:+inf:-inf:+inf:0:1
+EUFAULA:SAN BERNARDINO:-inf:+inf:-inf:+inf:2:2
+NEWARK:BROOKLYN:-inf:+inf:-inf:+inf:2:6
+ST PAUL:COUDERSPORT:-inf:+inf:-inf:+inf:2:4
+CHICAGO:MIDLAND:-inf:+inf:-inf:+inf:2:6
+SAINT CLOUD:FORT IRWIN:-inf:+inf:-inf:+inf:0:4
+MECHANICSBURG:MARSHALL:-inf:+inf:-inf:+inf:2:5
+TULSA:ATLANTA:-inf:+inf:-inf:+inf:2:5
+ALBUQUERQUE:ATLANTA:-inf:+inf:-inf:+inf:0:4
+PADUCAH:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+ENCINITAS:DOTHAN:-inf:+inf:-inf:+inf:0:0
+BOSTON:SAVANNAH:-inf:+inf:-inf:+inf:0:2
+ALTAMONTE SPRINGS:CHEROKEE:-inf:+inf:-inf:+inf:3:7
+LOUISVILLE:MIAMI:-inf:+inf:-inf:+inf:1:3
+NORTH MANCHESTER:CHESAPEAKE:-inf:+inf:-inf:+inf:2:4
+ST AUGUSTINE:DU BOIS:-inf:+inf:-inf:+inf:2:2
+CLEVELAND:BRYAN:-inf:+inf:-inf:+inf:3:3
+QUINCY:WELLSVILLE:-inf:+inf:-inf:+inf:2:4
+FRANKLIN:MIAMI:-inf:+inf:-inf:+inf:2:5
+ROCHESTER:GLASSBORO:-inf:+inf:-inf:+inf:3:3
+ORANGEBURG:BRENTWOOD:-inf:+inf:-inf:+inf:2:5
+CELINA:BATON ROUGE:-inf:+inf:-inf:+inf:3:4
+DU BOIS:LEONARDTOWN:-inf:+inf:-inf:+inf:1:2
+CHICAGO:SAN ANTONIO:-inf:+inf:-inf:+inf:1:1
+ELGIN:LOS ANGELES:-inf:+inf:-inf:+inf:2:3
+SEGUIN:NEW MARTINSVILLE:-inf:+inf:-inf:+inf:3:4
+BAKERSFIELD:HUDSON:-inf:+inf:-inf:+inf:0:4
+BETHLEHEM:SAINT PETERS:-inf:+inf:-inf:+inf:2:5
+BATH:JUNCTION:-inf:+inf:-inf:+inf:2:3
+FORT YATES:MINNEAPOLIS:-inf:+inf:-inf:+inf:0:2
+SHAKER HTS:LEWES:-inf:+inf:-inf:+inf:0:3
+PITTSBURGH:MATTESON:-inf:+inf:-inf:+inf:1:2
+ALHAMBRA:CHICAGO:-inf:+inf:-inf:+inf:1:4
+MINEOLA:YONKERS:-inf:+inf:-inf:+inf:1:4
+MIAMI LAKES:ROCHESTER:-inf:+inf:-inf:+inf:3:6
+LIVONIA:MOBILE:-inf:+inf:-inf:+inf:0:3
+CHEROKEE:ATLANTA:-inf:+inf:-inf:+inf:1:2
+INDIANAPOLIS:LOMA LINDA:-inf:+inf:-inf:+inf:3:5
+FORT BENNING:SAN FRANCISCO:-inf:+inf:-inf:+inf:2:6
+PETOSKEY:MARIETTA:-inf:+inf:-inf:+inf:3:3
+MILWAUKEE:TEMPERANCE:-inf:+inf:-inf:+inf:3:3
+DREXEL HILL:IRVINE:-inf:+inf:-inf:+inf:1:3
+CHARLOTTE:TEMPERANCE:-inf:+inf:-inf:+inf:0:4
+CLARKSBURG:NEW HAVEN:-inf:+inf:-inf:+inf:1:3
+SIMI VALLEY:BELFAST:-inf:+inf:-inf:+inf:1:4
+COLUMBIA:EAST MEADOW:-inf:+inf:-inf:+inf:3:7
+PANAMA CITY:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+DOVER:DUNCAN:-inf:+inf:-inf:+inf:3:4
+DETROIT:SAN ANTONIO:-inf:+inf:-inf:+inf:2:6
+CENTRAL CITY:ALBEMARLE:-inf:+inf:-inf:+inf:2:6
+FORT BENNING:TARRYTOWN:-inf:+inf:-inf:+inf:1:4
+BAYTOWN:PASCO:-inf:+inf:-inf:+inf:3:6
+MESQUITE:BALTIMORE:-inf:+inf:-inf:+inf:0:2
+DALLAS:DOYLESTOWN:-inf:+inf:-inf:+inf:1:1
+WALLA WALLA:LANHAM:-inf:+inf:-inf:+inf:2:6
+EAST SYRACUSE:IDAHO FALLS:-inf:+inf:-inf:+inf:2:2
+BLOOMINGTON:BATON ROUGE:-inf:+inf:-inf:+inf:1:2
+NICEVILLE:DETROIT:-inf:+inf:-inf:+inf:3:7
+FT CARSON:HADDON HEIGHTS:-inf:+inf:-inf:+inf:2:3
+PEMBROKE PINES:RYE:-inf:+inf:-inf:+inf:0:1
+PASADENA:METAIRIE:-inf:+inf:-inf:+inf:2:2
+LIVONIA:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+PHILADELPHIA:TIOGA:-inf:+inf:-inf:+inf:2:4
+SAN MARINO:FAISON:-inf:+inf:-inf:+inf:2:4
+NEWARK:TAMPA:-inf:+inf:-inf:+inf:3:3
+CHEROKEE:LOS ANGELES:-inf:+inf:-inf:+inf:2:3
+BASIN:DADE CITY:-inf:+inf:-inf:+inf:2:4
+IMPERIAL:DALLAS:-inf:+inf:-inf:+inf:3:5
+DECATUR:MONTICELLO:-inf:+inf:-inf:+inf:2:6
+LEXINGTON:BOONE:-inf:+inf:-inf:+inf:2:3
+ORLANDO:FLINT:-inf:+inf:-inf:+inf:3:7
+PIGEON:HANSCOM AFB:-inf:+inf:-inf:+inf:0:2
+WEST CHESTER:SENECA:-inf:+inf:-inf:+inf:2:2
+KALAMAZOO:INDIANAPOLIS:-inf:+inf:-inf:+inf:3:3
+NEW ALBANY:CHARLEVOIX:-inf:+inf:-inf:+inf:2:5
+ROSEAU:NEW ORLEANS:-inf:+inf:-inf:+inf:2:6
+TORRANCE:GREENVILLE:-inf:+inf:-inf:+inf:2:5
+WASHINGTON:TOLEDO:-inf:+inf:-inf:+inf:0:2
+WINSTON SALEM:SPRINGFIELD:-inf:+inf:-inf:+inf:1:2
+MIAMI:KERMIT:-inf:+inf:-inf:+inf:1:4
+LOMA LINDA:BALTIMORE:-inf:+inf:-inf:+inf:0:2
+WEST PLAINS:APPLETON:-inf:+inf:-inf:+inf:3:5
+ENOLA:FORT MCCOY:-inf:+inf:-inf:+inf:2:5
+SCHNECKSVILLE:NASHVILLE:-inf:+inf:-inf:+inf:3:5
+CHARLOTTE:WEST PALM BEACH:-inf:+inf:-inf:+inf:2:3
+MEADVILLE:PHOENIXVILLE:-inf:+inf:-inf:+inf:1:3
+NEW YORK:LOUISVILLE:-inf:+inf:-inf:+inf:1:2
+BOSTON:MONTICELLO:-inf:+inf:-inf:+inf:0:2
+FREDERICK:SUSQUEHANNA:-inf:+inf:-inf:+inf:0:1
+BOSTON:MESQUITE:-inf:+inf:-inf:+inf:1:4
+MC KEES ROCKS:SUFFOLK:-inf:+inf:-inf:+inf:1:4
+RED CLOUD:SYLVA:-inf:+inf:-inf:+inf:0:2
+FORT WORTH:GARNER:-inf:+inf:-inf:+inf:2:3
+COTTONWOOD:EUCLID:-inf:+inf:-inf:+inf:2:3
+SPRINGFIELD:BRENTWOOD:-inf:+inf:-inf:+inf:1:5
+BURKESVILLE:MILWAUKEE:-inf:+inf:-inf:+inf:0:3
+KENANSVILLE:CHALMETTE:-inf:+inf:-inf:+inf:1:3
+PEORIA:KANSAS CITY:-inf:+inf:-inf:+inf:2:6
+NEW ORLEANS:RUSTON:-inf:+inf:-inf:+inf:2:3
+ASHLAND:CHICAGO:-inf:+inf:-inf:+inf:1:1
+GARDEN CITY:WAIANAE:-inf:+inf:-inf:+inf:2:3
+DELTA:BRENTWOOD:-inf:+inf:-inf:+inf:2:6
+WHEELING:MIAMI:-inf:+inf:-inf:+inf:2:6
+BOLINGBROOK:CHANDLER:-inf:+inf:-inf:+inf:0:2
+MOUNTAINSIDE:THE WOODLANDS:-inf:+inf:-inf:+inf:2:6
+CENTER LINE:SAN CLEMENTE:-inf:+inf:-inf:+inf:2:6
+LANDER:MARTIN:-inf:+inf:-inf:+inf:0:2
+MARTINEZ:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+HIALEAH:EAST MEADOW:-inf:+inf:-inf:+inf:3:7
+DETROIT:SAN FRANSISCO:-inf:+inf:-inf:+inf:1:4
+GARDEN CITY:OCONOMOWOC:-inf:+inf:-inf:+inf:3:4
+GALENA:FAISON:-inf:+inf:-inf:+inf:3:6
+BOZEMAN:NORTHFIELD:-inf:+inf:-inf:+inf:2:3
+COUDERSPORT:FT CARSON:-inf:+inf:-inf:+inf:1:3
+CLEARLAKE:DENVER:-inf:+inf:-inf:+inf:0:0
+TEMPERANCE:LODI:-inf:+inf:-inf:+inf:1:5
+CODY:MECHANICSBURG:-inf:+inf:-inf:+inf:1:1
+NEW YORK:MESQUITE:-inf:+inf:-inf:+inf:1:4
+SURPRISE:RIVIERA BEACH:-inf:+inf:-inf:+inf:3:6
+JUNCTION:ROME:-inf:+inf:-inf:+inf:1:1
+HACKENSACK:WEST PALM BEACH:-inf:+inf:-inf:+inf:0:4
+BATH:FLORENCE:-inf:+inf:-inf:+inf:3:5
+NORTH MIAMI BEACH:POWDERLY:-inf:+inf:-inf:+inf:3:7
+TAMPA:YORK:-inf:+inf:-inf:+inf:1:5
+NEWPORT:CHARLOTTE:-inf:+inf:-inf:+inf:3:6
+CHICAGO:LAS VEGAS:-inf:+inf:-inf:+inf:1:5
+HOUSTON:TORRANCE:-inf:+inf:-inf:+inf:0:3
+OLLA:MIDLAND:-inf:+inf:-inf:+inf:3:4
+TEMPERANCE:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+OKLAHOMA CITY:RALEIGH:-inf:+inf:-inf:+inf:1:4
+DALLAS:GARNETT:-inf:+inf:-inf:+inf:1:5
+CONYERS:DALLAS:-inf:+inf:-inf:+inf:0:4
+ANACORTES:JEFFERSONVILLE:-inf:+inf:-inf:+inf:3:5
+MIAMI:HOUSTON:-inf:+inf:-inf:+inf:3:7
+JEFFERSON CITY:WINFIELD:-inf:+inf:-inf:+inf:3:5
+OAKLAND:EASTON:-inf:+inf:-inf:+inf:1:1
+MIAMI:CARROLL:-inf:+inf:-inf:+inf:2:3
+BUTLER:WINSTON-SALEM:-inf:+inf:-inf:+inf:1:2
+MIAMI:THEODORE:-inf:+inf:-inf:+inf:0:0
+HIALEAH:MIAMI:-inf:+inf:-inf:+inf:1:4
+BERKELEY SPRINGS:JESSUP:-inf:+inf:-inf:+inf:2:3
+GLENWOOD SPRINGS:MIAMISBURG:-inf:+inf:-inf:+inf:2:2
+SLIDELL:TEMPLE:-inf:+inf:-inf:+inf:0:3
+MONTICELLO:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+LONGVIEW:CAMP LEJEUNE:-inf:+inf:-inf:+inf:3:5
+WEBSTER SPRINGS:CHICAGO:-inf:+inf:-inf:+inf:2:6
+MONROE:CHARLOTTE:-inf:+inf:-inf:+inf:3:6
+NEW YORK:SAN DIEGO:-inf:+inf:-inf:+inf:1:5
+BALTIMORE:LEWISVILLE:-inf:+inf:-inf:+inf:2:3
+CINCINNATI:WARREN:-inf:+inf:-inf:+inf:1:5
+CHESTERFIELD:DURHAM:-inf:+inf:-inf:+inf:0:3
+LITTLE ROCK:NEW CUMBERLAND:-inf:+inf:-inf:+inf:3:4
+FORT KENT:WALLA WALLA:-inf:+inf:-inf:+inf:1:5
+HOFFMAN ESTATES:RICHMOND HEIGHTS:-inf:+inf:-inf:+inf:0:3
+GRAND RAPIDS:ST AUGUSTINE:-inf:+inf:-inf:+inf:1:3
+MCMINNVILLE:CLEARWATER:-inf:+inf:-inf:+inf:3:4
+BETHLEHEM:BOISE:-inf:+inf:-inf:+inf:0:2
+SHERIDAN:ENOLA:-inf:+inf:-inf:+inf:0:3
+LOS ANGELES:CROSBY:-inf:+inf:-inf:+inf:2:2
+GUNNISON:SPRINGFIELD:-inf:+inf:-inf:+inf:1:5
+ELK GROVE VILLAGE:HIALEAH:-inf:+inf:-inf:+inf:3:5
+CONNELLSVILLE:DECORAH:-inf:+inf:-inf:+inf:0:0
+MCHENRY:SAULT SAINTE MARIE:-inf:+inf:-inf:+inf:1:1
+FORT DODGE:MOUNT VERNON:-inf:+inf:-inf:+inf:3:7
+ANDERSON:BELMOND:-inf:+inf:-inf:+inf:1:4
+GREENVILLE:DURANGO:-inf:+inf:-inf:+inf:2:2
+LANCASTER:NEWPORT:-inf:+inf:-inf:+inf:0:2
+ALTAMONTE SPRINGS:MECHANICSBURG:-inf:+inf:-inf:+inf:3:6
+LOS ANGELES:FORT KENT:-inf:+inf:-inf:+inf:3:6
+SPRINGFIELD:DICKSON:-inf:+inf:-inf:+inf:1:5
+COLUMBIA:ELKIN:-inf:+inf:-inf:+inf:0:1
+RALEIGH:NORTH CHARLESTON:-inf:+inf:-inf:+inf:2:6
+SAN DIEGO:AUBURN:-inf:+inf:-inf:+inf:0:2
+NORRIDGE:SACRAMENTO:-inf:+inf:-inf:+inf:1:1
+GUTHRIE:ATLANTA:-inf:+inf:-inf:+inf:3:3
+HAGERSTOWN:GUNNISON:-inf:+inf:-inf:+inf:2:6
+PORT JEFFERSON:TUKWILA:-inf:+inf:-inf:+inf:2:6
+CAROL STREAM:DEL RIO:-inf:+inf:-inf:+inf:2:6
+BRENTWOOD:LAS VEGAS:-inf:+inf:-inf:+inf:2:5
+NEW YORK:KETTERING:-inf:+inf:-inf:+inf:0:0
+HARTFORD:EAST POINT:-inf:+inf:-inf:+inf:1:1
+LAS VEGAS:LUCEDALE:-inf:+inf:-inf:+inf:2:4
+CLEVELAND:VALLEY STREAM:-inf:+inf:-inf:+inf:1:4
+ROXBORO:JACKSON:-inf:+inf:-inf:+inf:0:3
+ASHEVILLE:CLINTON TOWNSHIP:-inf:+inf:-inf:+inf:0:2
+CLEVELAND:CORAL GABLES:-inf:+inf:-inf:+inf:3:6
+SAVANNAH:SALMON:-inf:+inf:-inf:+inf:3:6
+BROOKVILLE:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+CHARLOTTE:ROANOKE:-inf:+inf:-inf:+inf:3:4
+CLOVIS:ATLANTA:-inf:+inf:-inf:+inf:0:1
+BLOWING ROCK:BOWDLE:-inf:+inf:-inf:+inf:3:4
+JACKSON:SPRING HILL:-inf:+inf:-inf:+inf:3:6
+MIAMI:DANVILLE:-inf:+inf:-inf:+inf:0:1
+DOWNEY:CEDAR PARK:-inf:+inf:-inf:+inf:2:3
+PHOENIX:REED CITY:-inf:+inf:-inf:+inf:2:4
+WOODBURY:NEWARK:-inf:+inf:-inf:+inf:3:4
+ANGOLA:BUFFALO GROVE:-inf:+inf:-inf:+inf:1:1
+NASHVILLE:HIGH SPRINGS:-inf:+inf:-inf:+inf:2:3
+PHOENIX:LAS VEGAS:-inf:+inf:-inf:+inf:3:6
+WACO:WASHINGTON:-inf:+inf:-inf:+inf:1:2
+MONTROSE:BRENTWOOD:-inf:+inf:-inf:+inf:2:4
+JERSEY CITY:MIAMI:-inf:+inf:-inf:+inf:0:2
+PHILA:TACOMA:-inf:+inf:-inf:+inf:1:1
+DORAL:FAISON:-inf:+inf:-inf:+inf:0:3
+LA GRANDE:SAN GERMAN:-inf:+inf:-inf:+inf:0:3
+PRAIRIE DU CHIEN:FALL RIVER:-inf:+inf:-inf:+inf:0:2
+WORCESTER:PHOENIX:-inf:+inf:-inf:+inf:0:2
+NASHVILLE:TAPPAN:-inf:+inf:-inf:+inf:2:5
+AMES:SUPERIOR:-inf:+inf:-inf:+inf:2:4
+EUNICE:BONHAM:-inf:+inf:-inf:+inf:2:6
+FORT WORTH:NEW YORK:-inf:+inf:-inf:+inf:0:2
+PORTSMOUTH:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:3
+MINERAL WELLS:GROSSE POINTE FARMS:-inf:+inf:-inf:+inf:1:3
+MIAMI:N TONAWANDA:-inf:+inf:-inf:+inf:2:3
+MECHANICSBURG:SANTA FE:-inf:+inf:-inf:+inf:0:1
+GULFPORT:SAINT ALBANS:-inf:+inf:-inf:+inf:1:2
+DURANT:JEFFERSON CITY:-inf:+inf:-inf:+inf:2:5
+SIOUX FALLS:BALTIMORE:-inf:+inf:-inf:+inf:2:4
+HUDSON:DALLAS:-inf:+inf:-inf:+inf:1:2
+THORNTON:CLARKSDALE:-inf:+inf:-inf:+inf:0:2
+GENEVA:YORK:-inf:+inf:-inf:+inf:2:5
+VIRGINIA BEACH:HIGHLANDS:-inf:+inf:-inf:+inf:2:2
+MINOT:SODA SPRINGS:-inf:+inf:-inf:+inf:2:4
+PHOENIX:BELZONI:-inf:+inf:-inf:+inf:0:2
+HASTINGS:NEW ORLEANS:-inf:+inf:-inf:+inf:3:4
+VISTA:MCALLEN:-inf:+inf:-inf:+inf:2:6
+PLAINFIELD:TARZANA:-inf:+inf:-inf:+inf:0:0
+PERRY:LOS ANGELES:-inf:+inf:-inf:+inf:2:3
+LINDSAY:SOUTH BEND:-inf:+inf:-inf:+inf:3:4
+PLAINS:FORT KNOX:-inf:+inf:-inf:+inf:0:1
+ELIZABETHTOWN:DANVILLE:-inf:+inf:-inf:+inf:2:5
+CORAL GABLES:BASTROP:-inf:+inf:-inf:+inf:0:0
+GLENWOOD SPRINGS:CASA GRANDE:-inf:+inf:-inf:+inf:3:4
+PETERSBURG:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+JASPER:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:2
+AMES:DAYTON:-inf:+inf:-inf:+inf:0:0
+GARDEN GROVE:HARRODSBURG:-inf:+inf:-inf:+inf:0:3
+CHARLOTTE:LYONS:-inf:+inf:-inf:+inf:2:3
+LENOIR:BRONX:-inf:+inf:-inf:+inf:3:4
+AMERICAN FALLS:WARREN:-inf:+inf:-inf:+inf:2:3
+MARINA DEL REY:ORADELL:-inf:+inf:-inf:+inf:2:2
+EASLEY:CEDAR RAPIDS:-inf:+inf:-inf:+inf:3:7
+EDEN:HARRISBURG:-inf:+inf:-inf:+inf:1:3
+WEST PALM BEACH:BUENA PARK:-inf:+inf:-inf:+inf:3:6
+HONESDALE:BIRMINGHAM:-inf:+inf:-inf:+inf:2:5
+MIAMI:GRAND BLANC:-inf:+inf:-inf:+inf:2:5
+WARM SPRINGS:DENVER:-inf:+inf:-inf:+inf:3:6
+ORANGE:HUNTINGTON:-inf:+inf:-inf:+inf:2:6
+TRAVERSE CITY:KINGSTON:-inf:+inf:-inf:+inf:2:3
+WATERTOWN:HIALEAH:-inf:+inf:-inf:+inf:1:1
+BEAUFORT:DANVILLE:-inf:+inf:-inf:+inf:2:6
+RITZVILLE:PRIMGHAR:-inf:+inf:-inf:+inf:0:0
+ABINGTON:CHARLOTTE:-inf:+inf:-inf:+inf:3:5
+TELL CITY:LOS ANGELES:-inf:+inf:-inf:+inf:3:4
+LA CROSSE:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:2
+WEST ISLIP:MOUNT VERNON:-inf:+inf:-inf:+inf:1:4
+WAYNESBORO:SAN JUAN:-inf:+inf:-inf:+inf:1:5
+MARGARETVILLE:EL CENTRO:-inf:+inf:-inf:+inf:3:4
+SPRINGFIELD:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+SOUTH MIAMI:BLACK RIVER FALLS:-inf:+inf:-inf:+inf:1:2
+YONKERS:ADDISON:-inf:+inf:-inf:+inf:0:4
+PHILADELPHIA:HOUSTON:-inf:+inf:-inf:+inf:3:4
+PERRY HALL:WHEELING:-inf:+inf:-inf:+inf:2:6
+ALAMOSA:AURORA:-inf:+inf:-inf:+inf:1:5
+SOUTHFIELD:ALPHARETTA:-inf:+inf:-inf:+inf:2:4
+CHAMBERSBURG:CHICAGO:-inf:+inf:-inf:+inf:3:4
+LAS VEGAS:VINCENNES:-inf:+inf:-inf:+inf:1:2
+DETROIT:WHITEHALL:-inf:+inf:-inf:+inf:3:5
+BEMIDJI:ASHEVILLE:-inf:+inf:-inf:+inf:2:3
+SNOQUALMIE:NEW ORLEANS:-inf:+inf:-inf:+inf:3:3
+PHILADELPHIA:HACIENDA HEIGHTS:-inf:+inf:-inf:+inf:2:4
+LOS ANGELES:WAHPETON:-inf:+inf:-inf:+inf:1:1
+PEARSALL:DIXON:-inf:+inf:-inf:+inf:3:6
+FARMINGTON:AURORA:-inf:+inf:-inf:+inf:2:2
+NEW BRUNSWICK:LEBANON:-inf:+inf:-inf:+inf:0:3
+HONOLULU:ROWLAND HEIGHTS:-inf:+inf:-inf:+inf:2:6
+SOUTHFIELD:LOS ANGELES:-inf:+inf:-inf:+inf:1:1
+SPRINGFIELD:BECKLEY:-inf:+inf:-inf:+inf:3:6
+FAYETTE:ELECTRA:-inf:+inf:-inf:+inf:2:3
+DENVER:CARROLLTON:-inf:+inf:-inf:+inf:0:4
+JUNCTION CITY:CENTRE:-inf:+inf:-inf:+inf:0:4
+LINCOLN:DOVER:-inf:+inf:-inf:+inf:3:5
+SHREVEPORT:GAITHERSBURG:-inf:+inf:-inf:+inf:0:1
+CHARLOTTE:NASHVILLE:-inf:+inf:-inf:+inf:1:3
+WASHINGTON:MIDLAND:-inf:+inf:-inf:+inf:1:1
+BENTON:GRAND RAPIDS:-inf:+inf:-inf:+inf:2:5
+CHICAGO:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+FORT SMITH:JASPER:-inf:+inf:-inf:+inf:1:1
+WINSTON SALEM:DORAL:-inf:+inf:-inf:+inf:0:0
+PHILADELPHIA:LAKE WORTH:-inf:+inf:-inf:+inf:3:3
+PHILADELPHIA:CHICAGO:-inf:+inf:-inf:+inf:1:2
+SIDNEY:PLAINS:-inf:+inf:-inf:+inf:1:2
+ROME:PHOENIX:-inf:+inf:-inf:+inf:2:4
+WATERLOO:PORTLAND:-inf:+inf:-inf:+inf:2:6
+BAXLEY:PARADISE:-inf:+inf:-inf:+inf:1:4
+CARROLLTON:MILWAUKEE:-inf:+inf:-inf:+inf:2:3
+SHARON:WAVERLY:-inf:+inf:-inf:+inf:3:6
+CARROLLTON:CALIENTE:-inf:+inf:-inf:+inf:0:3
+CENTRAL FALLS:CORYDON:-inf:+inf:-inf:+inf:2:5
+MONTICELLO:ATLANTA:-inf:+inf:-inf:+inf:0:3
+LEMONT:DANSVILLE:-inf:+inf:-inf:+inf:0:2
+MECHANICSBURG:CHICAGO:-inf:+inf:-inf:+inf:3:3
+JAMAICA PLAIN:MEMPHIS:-inf:+inf:-inf:+inf:2:6
+ROCKLEDGE:PRINCETON:-inf:+inf:-inf:+inf:1:2
+REXBURG:RENSSELAER:-inf:+inf:-inf:+inf:1:5
+WYANDOTTE:LOUISVILLE:-inf:+inf:-inf:+inf:1:3
+QUAKERTOWN:WHITFIELD:-inf:+inf:-inf:+inf:1:5
+LAFAYETTE:POUGHKEEPSIE:-inf:+inf:-inf:+inf:0:1
+PLANO:LAS VEGAS:-inf:+inf:-inf:+inf:1:5
+CONSHOHOCKEN:DETROIT LAKES:-inf:+inf:-inf:+inf:0:1
+SPRUCE PINE:ZACHARY:-inf:+inf:-inf:+inf:1:1
+MAGNOLIA:LANCASTER:-inf:+inf:-inf:+inf:3:3
+HIGH SPRINGS:STATEN ISLAND:-inf:+inf:-inf:+inf:2:2
+PRENTISS:MORRISVILLE:-inf:+inf:-inf:+inf:0:4
+NEW ORLEANS:GRETNA:-inf:+inf:-inf:+inf:3:7
+OGDEN:SCRANTON:-inf:+inf:-inf:+inf:1:4
+WACONIA:BROWNSTOWN TWP:-inf:+inf:-inf:+inf:1:3
+MANNING:MONROE:-inf:+inf:-inf:+inf:3:4
+BAY CITY:SKIPPACK:-inf:+inf:-inf:+inf:3:4
+CARLE PLACE:CHADRON:-inf:+inf:-inf:+inf:3:3
+NASHVILLE:MIAMI:-inf:+inf:-inf:+inf:0:1
+BRENTWOOD:BELLAIRE:-inf:+inf:-inf:+inf:3:5
+BEAUFORT:TAWAS CITY:-inf:+inf:-inf:+inf:3:5
+SOLDOTNA:KEARNEY:-inf:+inf:-inf:+inf:1:5
+NASHVILLE:MIAMI:-inf:+inf:-inf:+inf:3:6
+WESTERLY:ARLINGTON:-inf:+inf:-inf:+inf:1:1
+BURLINGTON:GREEN BAY:-inf:+inf:-inf:+inf:1:1
+HOLDENVILLE:SYLVA:-inf:+inf:-inf:+inf:1:4
+BROWNING:ENGLEWOOD:-inf:+inf:-inf:+inf:2:2
+LITTLE ROCK:DALLAS:-inf:+inf:-inf:+inf:2:3
+CHARLOTTE:LAFAYETTE:-inf:+inf:-inf:+inf:0:0
+CLEVELAND:MURRAY:-inf:+inf:-inf:+inf:2:4
+CHARLOTTE:HOUSTON:-inf:+inf:-inf:+inf:1:2
+WINTERS:ENOLA:-inf:+inf:-inf:+inf:3:7
+SEATTLE:TIVERTON:-inf:+inf:-inf:+inf:0:1
+NASHVILLE:MIAMI:-inf:+inf:-inf:+inf:1:4
+RUGBY:PHOENIX:-inf:+inf:-inf:+inf:2:6
+INDIANAPOLIS:BRENTWOOD:-inf:+inf:-inf:+inf:0:4
+LOS ANGELES:BENTON:-inf:+inf:-inf:+inf:0:4
+SPRINGFIELD:DETROIT:-inf:+inf:-inf:+inf:3:3
+DALLAS:CHICAGO:-inf:+inf:-inf:+inf:3:3
+FORT SMITH:PALMER:-inf:+inf:-inf:+inf:2:3
+NELIGH:HAMILTON:-inf:+inf:-inf:+inf:0:3
+TACOMA:SYLVA:-inf:+inf:-inf:+inf:2:3
+HICKORY:DU BOIS:-inf:+inf:-inf:+inf:2:4
+FORT WORTH:BOYNTON BEACH:-inf:+inf:-inf:+inf:2:5
+MUNISING:BRENTWOOD:-inf:+inf:-inf:+inf:2:5
+HOLLYWOOD:DENVER:-inf:+inf:-inf:+inf:2:2
+WARRENSBURG:ABILENE:-inf:+inf:-inf:+inf:3:4
+ATLANTA:DU BOIS:-inf:+inf:-inf:+inf:2:5
+HARRISBURG:ROOSEVELT:-inf:+inf:-inf:+inf:2:5
+DETROIT:PIGEON:-inf:+inf:-inf:+inf:0:0
+EL CAMPO:DORAL:-inf:+inf:-inf:+inf:1:1
+BROOKLYN:DUNN:-inf:+inf:-inf:+inf:1:1
+GREEN BAY:PERKASIE:-inf:+inf:-inf:+inf:2:5
+KNOXVILLE:BALTIMORE:-inf:+inf:-inf:+inf:3:5
+HAYWARD:BOISE:-inf:+inf:-inf:+inf:2:3
+LEWISVILLE:GOUVERNEUR:-inf:+inf:-inf:+inf:3:5
+LAS VEGAS:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+EDEN PRAIRIE:SULLIVAN:-inf:+inf:-inf:+inf:2:4
+HONESDALE:CHICAGO:-inf:+inf:-inf:+inf:0:4
+CHARLOTTE:MIDDLETOWN:-inf:+inf:-inf:+inf:3:4
+KNOX:LINTHICUM:-inf:+inf:-inf:+inf:3:4
+AUGUSTA:GREENACRES:-inf:+inf:-inf:+inf:2:6
+FORT LAUDERDALE:EVANSVILLE:-inf:+inf:-inf:+inf:3:6
+CRYSTAL RIVER:VAN HORN:-inf:+inf:-inf:+inf:3:3
+ANN ARBOR:DELTA:-inf:+inf:-inf:+inf:1:3
+MIAMI LAKES:JACKSON:-inf:+inf:-inf:+inf:2:4
+TOMS RIVER:ROSEAU:-inf:+inf:-inf:+inf:2:5
+HAWTHORNE:EL DORADO SPRINGS:-inf:+inf:-inf:+inf:2:4
+CAPE GIRARDEAU:FORT MADISON:-inf:+inf:-inf:+inf:3:7
+ORANGE:BOSTON:-inf:+inf:-inf:+inf:2:6
+LOS ANGELES:CLEVELAND:-inf:+inf:-inf:+inf:0:0
+CHICAGO:VALLEY CITY:-inf:+inf:-inf:+inf:1:1
+MIAMI:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:4
+BRAWLEY:OREGON:-inf:+inf:-inf:+inf:3:5
+BINGHAMTON:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+EAGLEVILLE:EAST STROUDSBURG:-inf:+inf:-inf:+inf:0:3
+PHILADELPHIA:WEST ISLIP:-inf:+inf:-inf:+inf:3:5
+LAWTON:LONGMEADOW:-inf:+inf:-inf:+inf:1:3
+COSTA MESA:PINEVILLE:-inf:+inf:-inf:+inf:1:5
+WOODS CROSS:PORT ST LUCIE:-inf:+inf:-inf:+inf:2:2
+JACKSONVILLE:CENTREVILLE:-inf:+inf:-inf:+inf:1:3
+CHATTANOOGA:RICHMOND:-inf:+inf:-inf:+inf:1:3
+CHICAGO:CHARLOTTESVILLE:-inf:+inf:-inf:+inf:1:4
+DANVILLE:CLEVELAND:-inf:+inf:-inf:+inf:2:4
+PHOENIX:PEORIA:-inf:+inf:-inf:+inf:1:4
+FORT LAUDERDALE:WHEELING:-inf:+inf:-inf:+inf:3:7
+YONKERS:OREM:-inf:+inf:-inf:+inf:3:3
+MARLETTE:RAPID CITY:-inf:+inf:-inf:+inf:0:1
+SAN JUAN:SCOTTSDALE:-inf:+inf:-inf:+inf:0:3
+FORT LAUDERDALE:ARDMORE:-inf:+inf:-inf:+inf:0:0
+CAROLINA:GALESBURG:-inf:+inf:-inf:+inf:3:6
+OAKLAND:SOUTHPORT:-inf:+inf:-inf:+inf:1:4
+CHARLOTTE:YONKERS:-inf:+inf:-inf:+inf:2:2
+CONCORD:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:2:6
+GAYLORD:YORK:-inf:+inf:-inf:+inf:2:2
+BRENTWOOD:CORDELL:-inf:+inf:-inf:+inf:0:1
+LANHAM:CHICAGO:-inf:+inf:-inf:+inf:2:2
+GEDDES:VERNON HILLS:-inf:+inf:-inf:+inf:0:2
+WILMINGTON:HARRISONVILLE:-inf:+inf:-inf:+inf:3:3
+SAN ANGELO:PENSACOLA:-inf:+inf:-inf:+inf:2:6
+CARTHAGE:TYLERTOWN:-inf:+inf:-inf:+inf:1:2
+MCLEAN:DALLAS:-inf:+inf:-inf:+inf:2:6
+LAKELAND:DORAL:-inf:+inf:-inf:+inf:3:4
+FORT LAUDERDALE:NORTON:-inf:+inf:-inf:+inf:0:0
+PLANTATION:VIRGINIA GARDENS:-inf:+inf:-inf:+inf:1:5
+TYRONE:MIAMI:-inf:+inf:-inf:+inf:2:2
+EXCELSIOR SPRINGS:GRUNDY CENTER:-inf:+inf:-inf:+inf:2:3
+ATLANTA:OGDEN:-inf:+inf:-inf:+inf:3:5
+PHILADELPHIA:SAINT JOSEPH:-inf:+inf:-inf:+inf:3:7
+DECATUR:FORT CAMPBELL:-inf:+inf:-inf:+inf:3:5
+HONOLULU:NEW YORK:-inf:+inf:-inf:+inf:0:1
+NEW BRITAIN:WASHINGTON:-inf:+inf:-inf:+inf:0:3
+FRANKLIN:SHREVEPORT:-inf:+inf:-inf:+inf:0:2
+SNELLVILLE:JOPLIN:-inf:+inf:-inf:+inf:1:5
+GRAVETTE:HOT SPRINGS:-inf:+inf:-inf:+inf:2:4
+CLOQUET:FAULKTON:-inf:+inf:-inf:+inf:3:4
+JENKINTOWN:COOPERSTOWN:-inf:+inf:-inf:+inf:3:3
+CHICAGO:CONCORD:-inf:+inf:-inf:+inf:0:2
+RED OAK:VINTON:-inf:+inf:-inf:+inf:3:4
+PRINCE FREDERICK:HILLSIDE:-inf:+inf:-inf:+inf:1:4
+LANGHORNE:NEW YORK:-inf:+inf:-inf:+inf:3:3
+JOHNSON CITY:DETROIT:-inf:+inf:-inf:+inf:3:6
+BAKERSFIELD:SHENANDOAH:-inf:+inf:-inf:+inf:3:4
+GIBSON CITY:COLUMBIA:-inf:+inf:-inf:+inf:0:3
+MANATI:ALBANY:-inf:+inf:-inf:+inf:0:3
+CHARLOTTE:MORRISTOWN:-inf:+inf:-inf:+inf:0:3
+EDEN PRAIRIE:LIMA:-inf:+inf:-inf:+inf:1:3
+MARION:ALPHARETTA:-inf:+inf:-inf:+inf:3:5
+BROOKLYN:CLINTON TOWNSHIP:-inf:+inf:-inf:+inf:0:3
+CHARLESTON:BOISE:-inf:+inf:-inf:+inf:0:2
+PENSACOLA:SANTA FE:-inf:+inf:-inf:+inf:0:4
+WHITTIER:SCRANTON:-inf:+inf:-inf:+inf:0:3
+OSCEOLA:FRIONA:-inf:+inf:-inf:+inf:1:3
+CHICAGO:DAVENPORT:-inf:+inf:-inf:+inf:3:5
+ANCHORAGE:DULUTH:-inf:+inf:-inf:+inf:2:5
+CLEVELAND:SAVANNAH:-inf:+inf:-inf:+inf:0:2
+DETROIT:WESTERVILLE:-inf:+inf:-inf:+inf:1:3
+CHELAN:FREDERICKSBURG:-inf:+inf:-inf:+inf:3:3
+GREAT FALLS:AURORA:-inf:+inf:-inf:+inf:2:3
+KANSAS CITY:LONG BRANCH:-inf:+inf:-inf:+inf:0:3
+SAN FRANCISCO:DALLAS:-inf:+inf:-inf:+inf:3:6
+GAYLORD:DALTON:-inf:+inf:-inf:+inf:3:5
+FORT GORDON:OZONE PARK:-inf:+inf:-inf:+inf:3:4
+DES MOINES:NASHVILLE:-inf:+inf:-inf:+inf:1:3
+AUSTIN:GULFPORT:-inf:+inf:-inf:+inf:0:4
+SOUTHFIELD:DES MOINES:-inf:+inf:-inf:+inf:1:3
+STATEN ISLAND:KINGSTON:-inf:+inf:-inf:+inf:1:5
+MIAMI:KANSAS CITY:-inf:+inf:-inf:+inf:2:3
+EDISON:PULLMAN:-inf:+inf:-inf:+inf:0:0
+POMONA:FORT WORTH:-inf:+inf:-inf:+inf:0:0
+MENOMONEE FALLS:EL CAMPO:-inf:+inf:-inf:+inf:3:5
+LITTLE FALLS:PICKENS:-inf:+inf:-inf:+inf:0:0
+BOSTON:PORTLAND:-inf:+inf:-inf:+inf:1:4
+PEORIA:CORVALLIS:-inf:+inf:-inf:+inf:0:0
+SAINT LOUIS:SANTA ANA:-inf:+inf:-inf:+inf:3:7
+NASHVILLE:WHITTIER:-inf:+inf:-inf:+inf:1:4
+OCONTO FALLS:LAFAYETTE:-inf:+inf:-inf:+inf:3:5
+HERSHEY:SANTA ANA:-inf:+inf:-inf:+inf:0:0
+JOSHUA TREE:BURKESVILLE:-inf:+inf:-inf:+inf:0:3
+MANSFIELD:WINSTON SALEM:-inf:+inf:-inf:+inf:0:2
+CHARLOTTE:KANSAS CITY:-inf:+inf:-inf:+inf:3:7
+RICHMOND:JULESBURG:-inf:+inf:-inf:+inf:3:5
+NORTHBROOK:MARIANNA:-inf:+inf:-inf:+inf:0:3
+BUTLER:DALLAS:-inf:+inf:-inf:+inf:2:2
+MOOSIC:NEW LONDON:-inf:+inf:-inf:+inf:3:6
+PHILADELPHIA:WEST PALM BEACH:-inf:+inf:-inf:+inf:0:0
+HUNTINGBURG:MIAMI:-inf:+inf:-inf:+inf:1:1
+MANHATTAN:WASHINGTON:-inf:+inf:-inf:+inf:3:6
+JUNCTION CITY:BRONX:-inf:+inf:-inf:+inf:2:2
+NEWPORT NEWS:MIDLAND:-inf:+inf:-inf:+inf:1:4
+SAINT LOUIS:DURHAM:-inf:+inf:-inf:+inf:1:5
+MANTECA:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+INDIANAPOLIS:PACOIMA:-inf:+inf:-inf:+inf:3:4
+PEORIA:CLAYTON:-inf:+inf:-inf:+inf:1:4
+ALHAMBRA:GREENWOOD:-inf:+inf:-inf:+inf:3:4
+SHREVEPORT:MENA:-inf:+inf:-inf:+inf:3:5
+LEADVILLE:MIDDLETOWN:-inf:+inf:-inf:+inf:3:3
+WEST BRANCH:VINCENNES:-inf:+inf:-inf:+inf:0:0
+LANCASTER:CHEROKEE:-inf:+inf:-inf:+inf:2:4
+FORT MYERS:BURKESVILLE:-inf:+inf:-inf:+inf:2:5
+QUINCY:NACOGDOCHES:-inf:+inf:-inf:+inf:2:3
+BURKESVILLE:LOS ANGELES:-inf:+inf:-inf:+inf:0:3
+WELLINGTON:ANSON:-inf:+inf:-inf:+inf:2:5
+HOUSTON:ORLANDO:-inf:+inf:-inf:+inf:3:5
+NESS CITY:ROCHESTER:-inf:+inf:-inf:+inf:3:7
+ELGIN:SAVANNAH:-inf:+inf:-inf:+inf:2:2
+DOWNEY:SEBASTIAN:-inf:+inf:-inf:+inf:0:4
+HOUSTON:LOS ANGELES:-inf:+inf:-inf:+inf:1:1
+INDIANAPOLIS:HOT SPRINGS:-inf:+inf:-inf:+inf:3:5
+CHILDRESS:PASSAIC:-inf:+inf:-inf:+inf:0:3
+MIDDLETOWN:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:0
+AURORA:CHICAGO:-inf:+inf:-inf:+inf:2:3
+ORANGE:PLANT CITY:-inf:+inf:-inf:+inf:3:7
+RIVERDALE:VINTON:-inf:+inf:-inf:+inf:0:4
+CHARLOTTE:MELROSE PARK:-inf:+inf:-inf:+inf:1:1
+AUBURN:SWEENY:-inf:+inf:-inf:+inf:1:1
+CHICAGO:COSHOCTON:-inf:+inf:-inf:+inf:0:1
+FALL RIVER MILLS:BRIDGEPORT:-inf:+inf:-inf:+inf:3:4
+CHICAGO:CHICAGO:-inf:+inf:-inf:+inf:2:6
+MUNSTER:BATTLE MOUNTAIN:-inf:+inf:-inf:+inf:3:5
+DETROIT:SAN JUAN:-inf:+inf:-inf:+inf:3:7
+INDIANAPOLIS:WINSTON SALEM:-inf:+inf:-inf:+inf:1:4
+GRAND RAPIDS:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:1
+SHREVEPORT:LOUISVILLE:-inf:+inf:-inf:+inf:0:4
+RIVERSIDE:NOCONA:-inf:+inf:-inf:+inf:1:4
+CHARLOTTE:PHILADELPHIA:-inf:+inf:-inf:+inf:0:3
+GREEN BAY:PHILADELPHIA:-inf:+inf:-inf:+inf:0:3
+HOUSTON:ANN ARBOR:-inf:+inf:-inf:+inf:2:5
+HOUSTON:HIALEAH:-inf:+inf:-inf:+inf:2:3
+BROOKLYN:MARIETTA:-inf:+inf:-inf:+inf:2:6
+EDINBURG:SAN FRANCISCO:-inf:+inf:-inf:+inf:3:7
+SOUTHFIELD:SPEARMAN:-inf:+inf:-inf:+inf:1:3
+LOMA LINDA:CREVE COEUR:-inf:+inf:-inf:+inf:2:5
+BEAVERCREEK:BERLIN:-inf:+inf:-inf:+inf:2:3
+MIAMI:NORWICH:-inf:+inf:-inf:+inf:0:3
+SAN JOSE:MARLTON:-inf:+inf:-inf:+inf:3:5
+ATLANTA:MODESTO:-inf:+inf:-inf:+inf:0:1
+RIVER FOREST:BRONX:-inf:+inf:-inf:+inf:0:0
+PITTSBURGH:MORRISVILLE:-inf:+inf:-inf:+inf:1:2
+BRENTWOOD:EASTON:-inf:+inf:-inf:+inf:2:5
+CONCORD:LEAWOOD:-inf:+inf:-inf:+inf:2:2
+COUDERSPORT:CHICAGO:-inf:+inf:-inf:+inf:2:4
+DURHAM:BISBEE:-inf:+inf:-inf:+inf:1:2
+EVANSVILLE:ODESSA:-inf:+inf:-inf:+inf:3:4
+OSCEOLA:ALHAMBRA:-inf:+inf:-inf:+inf:3:6
+CHARLOTTE:FRIENDSWOOD:-inf:+inf:-inf:+inf:1:3
+NEWBERRY:EDISON:-inf:+inf:-inf:+inf:0:4
+MULBERRY:CHICO:-inf:+inf:-inf:+inf:0:1
+PETERSBURG:TULSA:-inf:+inf:-inf:+inf:1:5
+MEADE:LAKE HAVASU CITY:-inf:+inf:-inf:+inf:1:1
+MARION:TEMPERANCE:-inf:+inf:-inf:+inf:3:6
+FREEHOLD:CHARLOTTE:-inf:+inf:-inf:+inf:3:7
+MOORHEAD:WEIRTON:-inf:+inf:-inf:+inf:0:3
+NEW ORLEANS:HOLLYWOOD:-inf:+inf:-inf:+inf:2:2
+RUGBY:CAGUAS:-inf:+inf:-inf:+inf:1:2
+GONZALES:SHREVEPORT:-inf:+inf:-inf:+inf:0:2
+YONKERS:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+SIOUX CITY:PINCKNEYVILLE:-inf:+inf:-inf:+inf:1:5
+TAMPA:FOSTORIA:-inf:+inf:-inf:+inf:0:2
+KANSAS CITY:WICHITA:-inf:+inf:-inf:+inf:1:1
+HOMESTEAD:KINGSVILLE:-inf:+inf:-inf:+inf:2:5
+BROOKLYN:WINSTON SALEM:-inf:+inf:-inf:+inf:0:3
+NORTH CHESTERFIELD:BALTIMORE:-inf:+inf:-inf:+inf:2:6
+SHERIDAN:LITTLE FALLS:-inf:+inf:-inf:+inf:2:3
+SAN JUAN CAPISTRANO:MOSCOW:-inf:+inf:-inf:+inf:0:1
+LOS ANGELES:ATLANTA:-inf:+inf:-inf:+inf:2:4
+CHICAGO:POCONO LAKE:-inf:+inf:-inf:+inf:0:2
+TAVERNIER:HOUSTON:-inf:+inf:-inf:+inf:2:2
+EDGEWOOD:TUPELO:-inf:+inf:-inf:+inf:1:5
+RALEIGH:FALL RIVER MILLS:-inf:+inf:-inf:+inf:1:1
+DETROIT:MEMPHIS:-inf:+inf:-inf:+inf:3:7
+MINNEAPOLIS:OMAHA:-inf:+inf:-inf:+inf:1:4
+RAHWAY:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:4
+WESTERLY:LEWISBURG:-inf:+inf:-inf:+inf:1:3
+HOMESTEAD:SAN DIEGO:-inf:+inf:-inf:+inf:3:5
+FREDERICK:NATCHEZ:-inf:+inf:-inf:+inf:0:0
+BRENTWOOD:SAINT AUGUSTINE:-inf:+inf:-inf:+inf:0:2
+SAN GERMAN:SANTA CLARA:-inf:+inf:-inf:+inf:2:3
+CLARKSON:HUDSON:-inf:+inf:-inf:+inf:2:6
+WARREN:HOLLYWOOD:-inf:+inf:-inf:+inf:1:3
+STURGEON BAY:SAN FRANCISCO:-inf:+inf:-inf:+inf:3:6
+GREENSBURG:THOMASVILLE:-inf:+inf:-inf:+inf:0:2
+PORT ALLEGANY:LOS ANGELES:-inf:+inf:-inf:+inf:2:2
+PARADISE:BETHPAGE:-inf:+inf:-inf:+inf:1:3
+THIEF RIVER FALLS:UPPER CHICHESTER:-inf:+inf:-inf:+inf:0:0
+HUMACAO:LAS VEGAS:-inf:+inf:-inf:+inf:2:5
+BAXLEY:CINCINNATI:-inf:+inf:-inf:+inf:1:5
+ALBANY:MANCHESTER:-inf:+inf:-inf:+inf:0:3
+PHILADELPHIA:HOPKINSVILLE:-inf:+inf:-inf:+inf:1:4
+DOVER:IOLA:-inf:+inf:-inf:+inf:0:1
+PORT JEFFERSON:MORGANTOWN:-inf:+inf:-inf:+inf:2:3
+STATESVILLE:MILWAUKEE:-inf:+inf:-inf:+inf:1:2
+MIAMI:YANKTON:-inf:+inf:-inf:+inf:2:4
+YONKERS:WICHITA FALLS:-inf:+inf:-inf:+inf:0:3
+SYRACUSE:SOUTH HILL:-inf:+inf:-inf:+inf:3:7
+RAPID CITY:MARYVILLE:-inf:+inf:-inf:+inf:1:3
+HERSHEY:ALEXANDER CITY:-inf:+inf:-inf:+inf:1:5
+FRANKLIN:BRYSON CITY:-inf:+inf:-inf:+inf:0:4
+GRAHAM:ROCKFORD:-inf:+inf:-inf:+inf:2:2
+METHUEN:FAIRFIELD:-inf:+inf:-inf:+inf:0:3
+MIAMI:REXBURG:-inf:+inf:-inf:+inf:1:2
+HIALEAH:CARSON CITY:-inf:+inf:-inf:+inf:1:5
+SHERIDAN:CONNERSVILLE:-inf:+inf:-inf:+inf:0:1
+NESS CITY:PROVIDENCE:-inf:+inf:-inf:+inf:3:6
+GARDEN GROVE:PITTSBURGH:-inf:+inf:-inf:+inf:3:4
+MIAMI:SANTA MARIA:-inf:+inf:-inf:+inf:0:3
+WEST GROVE:JACKSON:-inf:+inf:-inf:+inf:3:5
+VALDOSTA:BIRMINGHAM:-inf:+inf:-inf:+inf:2:4
+LONG BEACH:SUGAR LAND:-inf:+inf:-inf:+inf:3:4
+LAFAYETTE:BOSTON:-inf:+inf:-inf:+inf:0:4
+LOS ANGELES:MIAMI:-inf:+inf:-inf:+inf:2:2
+FLEMINGSBURG:SALT LAKE CITY:-inf:+inf:-inf:+inf:0:4
+ALBANY:SAINT CLAIRSVILLE:-inf:+inf:-inf:+inf:2:3
+SPRINGFIELD:MADISON:-inf:+inf:-inf:+inf:3:5
+NEW YORK:BALTIMORE:-inf:+inf:-inf:+inf:0:3
+MIAMI:RIO GRANDE CITY:-inf:+inf:-inf:+inf:1:1
+ELKTON:CINCINNATI:-inf:+inf:-inf:+inf:3:6
+GREENSBORO:BROOKLYN:-inf:+inf:-inf:+inf:0:4
+NEW HAVEN:CHARLOTTE:-inf:+inf:-inf:+inf:1:5
+INDIANAPOLIS:ASHLAND:-inf:+inf:-inf:+inf:0:0
+GRAHAM:WINCHESTER:-inf:+inf:-inf:+inf:1:2
+MANDAN:ALAMOGORDO:-inf:+inf:-inf:+inf:0:2
+LUBBOCK:DIMMITT:-inf:+inf:-inf:+inf:2:3
+DALLAS:ENGLEWOOD:-inf:+inf:-inf:+inf:2:4
+PHILADELPHIA:FRANKLIN:-inf:+inf:-inf:+inf:0:2
+ANACONDA:SAINT LOUIS:-inf:+inf:-inf:+inf:1:2
+HERNDON:LOXAHATCHEE:-inf:+inf:-inf:+inf:0:3
+BOSSIER CITY:MIAMI:-inf:+inf:-inf:+inf:0:0
+LOUISIANA:MIAMI LAKES:-inf:+inf:-inf:+inf:0:2
+BROAD TOP:CRAIG:-inf:+inf:-inf:+inf:1:5
+POMPANO BEACH:NELLIS AFB:-inf:+inf:-inf:+inf:0:2
+GRENADA:MIAMI:-inf:+inf:-inf:+inf:2:3
+WASHINGTON:SEATTLE:-inf:+inf:-inf:+inf:2:6
+WEIMAR:BOULDER CITY:-inf:+inf:-inf:+inf:2:5
+FPO:OAK PARK:-inf:+inf:-inf:+inf:0:3
+COLLINS:STUART:-inf:+inf:-inf:+inf:1:4
+MIAMI:GLENS FALLS:-inf:+inf:-inf:+inf:1:1
+MAGNOLIA:SAINT LOUIS:-inf:+inf:-inf:+inf:0:0
+ASHLAND:MEMPHIS:-inf:+inf:-inf:+inf:0:3
+PUTNAM:BALTIMORE:-inf:+inf:-inf:+inf:3:3
+BROKEN BOW:CIMARRON:-inf:+inf:-inf:+inf:2:3
+KONAWA:SAULT SAINTE MARIE:-inf:+inf:-inf:+inf:3:6
+MERIDIAN:SIKESTON:-inf:+inf:-inf:+inf:3:5
+SAINT PAUL:BUTLER:-inf:+inf:-inf:+inf:0:2
+DORAL:PICKFORD:-inf:+inf:-inf:+inf:3:6
+NEWPORT:SAINT LOUIS:-inf:+inf:-inf:+inf:0:0
+ATLANTA:SACRAMENTO:-inf:+inf:-inf:+inf:2:5
+ROCHESTER:ALBANY:-inf:+inf:-inf:+inf:0:1
+PLANO:BALTIMORE:-inf:+inf:-inf:+inf:2:2
+BRONX:JENA:-inf:+inf:-inf:+inf:0:2
+PATCHOGUE:KAPLAN:-inf:+inf:-inf:+inf:1:5
+HOVEN:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+GUNTERSVILLE:TULSA:-inf:+inf:-inf:+inf:2:2
+DUMAS:APPLETON:-inf:+inf:-inf:+inf:3:7
+KEYSER:SAN ANTONIO:-inf:+inf:-inf:+inf:3:4
+ROANOKE:ALBANY:-inf:+inf:-inf:+inf:3:4
+DALLAS:PORT ARTHUR:-inf:+inf:-inf:+inf:0:4
+RANCHO CUCAMONGA:DETROIT:-inf:+inf:-inf:+inf:2:3
+SALEM:PETERSBURG:-inf:+inf:-inf:+inf:1:5
+GRAND RAPIDS:CLARKSDALE:-inf:+inf:-inf:+inf:3:6
+YELLVILLE:JACKSON:-inf:+inf:-inf:+inf:0:0
+ORD:MOUNT VERNON:-inf:+inf:-inf:+inf:3:4
+ADDISON:SCRANTON:-inf:+inf:-inf:+inf:1:2
+PHILADELPHIA:NATCHITOCHES:-inf:+inf:-inf:+inf:3:3
+NEW YORK:SULPHUR:-inf:+inf:-inf:+inf:1:4
+LANSING:ATLANTA:-inf:+inf:-inf:+inf:2:4
+ALLENTOWN:HARLEYSVILLE:-inf:+inf:-inf:+inf:2:3
+ORLANDO:NEW CASTLE:-inf:+inf:-inf:+inf:0:3
+BELOIT:LOS ANGELES:-inf:+inf:-inf:+inf:2:4
+CROWN POINT:FORT BRAGG:-inf:+inf:-inf:+inf:0:1
+OAKDALE:ONEIDA:-inf:+inf:-inf:+inf:3:4
+DALLAS:MIDLAND:-inf:+inf:-inf:+inf:2:3
+INDIANAPOLIS:GREENFIELD:-inf:+inf:-inf:+inf:1:1
+MIDLAND:SHENANDOAH:-inf:+inf:-inf:+inf:3:6
+LEAVENWORTH:PALMERTON:-inf:+inf:-inf:+inf:2:2
+SAN FRANCISCO:AMSTERDAM:-inf:+inf:-inf:+inf:0:2
+HAMILTON:COUDERSPORT:-inf:+inf:-inf:+inf:1:4
+HILLSBORO:CHICAGO:-inf:+inf:-inf:+inf:3:7
+FORT BRAGG:HAINES:-inf:+inf:-inf:+inf:1:1
+THOUSAND OAKS:WASHINGTON:-inf:+inf:-inf:+inf:3:7
+SAN DIEGO:KANSAS CITY:-inf:+inf:-inf:+inf:1:5
+EAST MEADOW:WATER VALLEY:-inf:+inf:-inf:+inf:0:0
+STE GENEVIEVE:WEST ISLIP:-inf:+inf:-inf:+inf:3:5
+BROOKLYN:HUGO:-inf:+inf:-inf:+inf:1:2
+LEES SUMMIT:DETROIT:-inf:+inf:-inf:+inf:2:6
+MINNEAPOLIS:MEMPHIS:-inf:+inf:-inf:+inf:1:5
+SOUTH BOSTON:RICHMOND:-inf:+inf:-inf:+inf:2:4
+CROSSVILLE:AUGUSTA:-inf:+inf:-inf:+inf:0:3
+RANDOLPH:ALPENA:-inf:+inf:-inf:+inf:2:4
+SOUTH MIAMI:GRASS VALLEY:-inf:+inf:-inf:+inf:1:2
+NEW ROADS:LONG BEACH:-inf:+inf:-inf:+inf:1:5
+EAST HARTFORD:KITTANNING:-inf:+inf:-inf:+inf:2:6
+GRAND RAPIDS:NEWPORT NEWS:-inf:+inf:-inf:+inf:1:1
+BRENTWOOD:JASPER:-inf:+inf:-inf:+inf:3:5
+TISHOMINGO:SAINT LOUIS:-inf:+inf:-inf:+inf:0:4
+LANCASTER:KREMMLING:-inf:+inf:-inf:+inf:1:3
+HAYS:NEW ORLEANS:-inf:+inf:-inf:+inf:1:1
+MARSHALL:WILMINGTON:-inf:+inf:-inf:+inf:2:2
+SHREVEPORT:VALDOSTA:-inf:+inf:-inf:+inf:3:5
+LUBBOCK:BATESVILLE:-inf:+inf:-inf:+inf:0:4
+BLUE BELL:STOCKTON:-inf:+inf:-inf:+inf:2:3
+MIAMI:MINERAL WELLS:-inf:+inf:-inf:+inf:1:4
+CLERMONT:BIRMINGHAM:-inf:+inf:-inf:+inf:3:6
+CHARLESTON:DALLAS:-inf:+inf:-inf:+inf:3:3
+SAN GERMAN:MC KENZIE:-inf:+inf:-inf:+inf:0:3
+HOPE:DENVER:-inf:+inf:-inf:+inf:0:0
+WINCHESTER:BOSTON:-inf:+inf:-inf:+inf:0:1
+CINCINNATI:FORT KENT:-inf:+inf:-inf:+inf:2:6
+YOUNGSTOWN:CENTER LINE:-inf:+inf:-inf:+inf:1:4
+HONOLULU:TULSA:-inf:+inf:-inf:+inf:0:2
+EL SEGUNDO:ALPHARETTA:-inf:+inf:-inf:+inf:0:1
+BROOKLYN:MIDLAND:-inf:+inf:-inf:+inf:3:4
+NEW HAVEN:TOLEDO:-inf:+inf:-inf:+inf:0:1
+DES PLAINES:EDGEWOOD:-inf:+inf:-inf:+inf:2:6
+JESUP:WATERVILLE:-inf:+inf:-inf:+inf:3:7
+LATROBE:LAKE ARROWHEAD:-inf:+inf:-inf:+inf:3:3
+NEW YORK:GAINESVILLE:-inf:+inf:-inf:+inf:2:6
+PHILADELPHIA:EXETER:-inf:+inf:-inf:+inf:1:5
+YONKERS:MC KENZIE:-inf:+inf:-inf:+inf:1:3
+PHOENIX:LITTLETON:-inf:+inf:-inf:+inf:1:2
+COLUMBIA:GUNNISON:-inf:+inf:-inf:+inf:0:1
+ELDORADO:MIAMISBURG:-inf:+inf:-inf:+inf:2:2
+COLUMBUS:FRANKLIN:-inf:+inf:-inf:+inf:2:5
+ALBANY:HUNTINGTON:-inf:+inf:-inf:+inf:1:4
+ANAHEIM:WINONA LAKE:-inf:+inf:-inf:+inf:2:3
+CHICAGO:OSAGE:-inf:+inf:-inf:+inf:2:2
+NEW YORK:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+MIAMI:STOCKTON:-inf:+inf:-inf:+inf:3:3
+LINCOLN:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+BONHAM:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:5
+VANCOUVER:ASHLAND:-inf:+inf:-inf:+inf:2:4
+MARIANNA:FORT WORTH:-inf:+inf:-inf:+inf:1:3
+KETTERING:WORCESTER:-inf:+inf:-inf:+inf:2:6
+JOHNSON CITY:EDEN:-inf:+inf:-inf:+inf:3:5
+BROCKPORT:FORT WORTH:-inf:+inf:-inf:+inf:0:3
+PENFIELD:DANVILLE:-inf:+inf:-inf:+inf:2:5
+BOSTON:MODESTO:-inf:+inf:-inf:+inf:3:4
+PHOENIX:RENO:-inf:+inf:-inf:+inf:2:3
+GAINESVILLE:LYNNWOOD:-inf:+inf:-inf:+inf:0:3
+ROCHESTER:TOWSON:-inf:+inf:-inf:+inf:2:6
+AUGUSTA:CODY:-inf:+inf:-inf:+inf:0:3
+BRENTWOOD:MIAMI:-inf:+inf:-inf:+inf:1:3
+EL CAJON:SAINT LOUIS:-inf:+inf:-inf:+inf:2:4
+DALLAS:HUNTINGDON:-inf:+inf:-inf:+inf:0:4
+BELLAIRE:SAGINAW:-inf:+inf:-inf:+inf:2:3
+PETERSBURG:KING CITY:-inf:+inf:-inf:+inf:2:4
+RICHMOND:BROOKLINE:-inf:+inf:-inf:+inf:0:2
+COMFORT:FORT PIERCE:-inf:+inf:-inf:+inf:2:2
+FLINT:BOWIE:-inf:+inf:-inf:+inf:1:1
+PRAIRIE DU CHIEN:ALBANY:-inf:+inf:-inf:+inf:2:5
+EAST CHICAGO:HUGHES SPRINGS:-inf:+inf:-inf:+inf:3:6
+DALLAS:BOSTON:-inf:+inf:-inf:+inf:2:3
+BURLESON:ALLENTOWN:-inf:+inf:-inf:+inf:1:3
+OSKALOOSA:ALBUQUERQUE:-inf:+inf:-inf:+inf:1:2
+SPENCER:LOUISVILLE:-inf:+inf:-inf:+inf:0:2
+GREENSBURG:DENVER:-inf:+inf:-inf:+inf:0:0
+COUDERSPORT:CAMDEN:-inf:+inf:-inf:+inf:2:4
+BROOKLYN:ABERDEEN:-inf:+inf:-inf:+inf:1:4
+TERRE HAUTE:NASHVILLE:-inf:+inf:-inf:+inf:0:1
+BOSTON:BEDFORD:-inf:+inf:-inf:+inf:3:4
+WEST CHESTER:CENTERVILLE:-inf:+inf:-inf:+inf:0:4
+CORYDON:WESTMINSTER:-inf:+inf:-inf:+inf:3:5
+HARRISBURG:HARRISONBURG:-inf:+inf:-inf:+inf:2:4
+ENOLA:PORTLAND:-inf:+inf:-inf:+inf:0:4
+SHERMAN OAKS:GRAND ISLAND:-inf:+inf:-inf:+inf:3:7
+HOUSTON:NEW MARTINSVILLE:-inf:+inf:-inf:+inf:2:4
+NEW HYDE PARK:PROVIDENCE:-inf:+inf:-inf:+inf:3:4
+LOS ANGELES:RIDGEWOOD:-inf:+inf:-inf:+inf:0:3
+PHILADELPHIA:HAWKINSVILLE:-inf:+inf:-inf:+inf:3:3
+AVON:NACOGDOCHES:-inf:+inf:-inf:+inf:3:4
+SPRING:MCALLEN:-inf:+inf:-inf:+inf:1:5
+KANSAS CITY:KELLOGG:-inf:+inf:-inf:+inf:2:5
+CUMBERLAND:SURF CITY:-inf:+inf:-inf:+inf:3:3
+TAMPA:EVANSVILLE:-inf:+inf:-inf:+inf:2:6
+SHAKER HTS:FRANKLIN:-inf:+inf:-inf:+inf:2:4
+HAYTI:VIRGINIA BEACH:-inf:+inf:-inf:+inf:1:4
+SAN DIEGO:DEARBORN:-inf:+inf:-inf:+inf:0:2
+TEMPERANCE:DALLAS:-inf:+inf:-inf:+inf:1:5
+VERNON:ELK GROVE:-inf:+inf:-inf:+inf:1:1
+WAILUKU:ORLANDO:-inf:+inf:-inf:+inf:2:2
+KING CITY:ALBUQUERQUE:-inf:+inf:-inf:+inf:0:0
+SHAKER HEIGHTS:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+SAINT JOSEPH:SAN GABRIEL:-inf:+inf:-inf:+inf:1:2
+CLEARFIELD:SAN DIEGO:-inf:+inf:-inf:+inf:0:2
+MONTCLAIR:SAN JOSE:-inf:+inf:-inf:+inf:2:5
+DALLAS:JERSEY CITY:-inf:+inf:-inf:+inf:2:2
+BIRMINGHAM:BURKE:-inf:+inf:-inf:+inf:2:4
+CINCINNATI:HORSHAM:-inf:+inf:-inf:+inf:1:3
+MIAMI:PRESCOTT:-inf:+inf:-inf:+inf:2:2
+SAN JUAN:MARTINSBURG:-inf:+inf:-inf:+inf:3:3
+TOLEDO:WINAMAC:-inf:+inf:-inf:+inf:3:4
+SCOTT CITY:FAIRHOPE:-inf:+inf:-inf:+inf:0:4
+BELFAST:BUCKEYE:-inf:+inf:-inf:+inf:2:5
+EDEN PRAIRIE:EL DORADO:-inf:+inf:-inf:+inf:2:2
+ALBEMARLE:YONKERS:-inf:+inf:-inf:+inf:3:3
+BETHLEHEM:SAFFORD:-inf:+inf:-inf:+inf:1:2
+LAGUNA HILLS:CHARLOTTE:-inf:+inf:-inf:+inf:3:6
+CLERMONT:GLENDALE:-inf:+inf:-inf:+inf:1:4
+LAKE CITY:TINTON FALLS:-inf:+inf:-inf:+inf:0:3
+GREEN BAY:MUNSTER:-inf:+inf:-inf:+inf:2:6
+MALONE:SAN JUAN:-inf:+inf:-inf:+inf:0:2
+NORTHERN CAMBRIA:ENOLA:-inf:+inf:-inf:+inf:3:6
+FRANKLIN:BAKERSFIELD:-inf:+inf:-inf:+inf:3:7
+ALICE:MORTON:-inf:+inf:-inf:+inf:3:5
+DETROIT:CHICAGO:-inf:+inf:-inf:+inf:0:1
+WILMINGTON:TEMPERANCE:-inf:+inf:-inf:+inf:1:1
+GROVE:DULUTH:-inf:+inf:-inf:+inf:0:4
+ORLANDO:ALBANY:-inf:+inf:-inf:+inf:3:7
+ADJUNTAS:VALENCIA:-inf:+inf:-inf:+inf:0:0
+ABERDEEN:CHICAGO:-inf:+inf:-inf:+inf:2:2
+CHARLOTTE:MANHATTAN:-inf:+inf:-inf:+inf:0:4
+DULUTH:SUNBURY:-inf:+inf:-inf:+inf:3:4
+MARQUETTE:CHARLESTON:-inf:+inf:-inf:+inf:0:2
+DALLAS:JASPER:-inf:+inf:-inf:+inf:1:3
+SHEBOYGAN:FREDERICK:-inf:+inf:-inf:+inf:1:3
+LONG BRANCH:SILVER SPRING:-inf:+inf:-inf:+inf:1:2
+GRANITE FALLS:DALLAS:-inf:+inf:-inf:+inf:0:3
+LAWRENCE:MARION:-inf:+inf:-inf:+inf:0:1
+BRADFORD:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+COLUMBUS:AKRON:-inf:+inf:-inf:+inf:0:0
+CROWN POINT:TIOGA:-inf:+inf:-inf:+inf:3:7
+WEST BOOTHBAY HARBOR:PETERSBURG:-inf:+inf:-inf:+inf:1:4
+EAGLE PASS:HAZLEHURST:-inf:+inf:-inf:+inf:3:7
+MIDLAND:OAKLAND:-inf:+inf:-inf:+inf:2:5
+BURKEVILLE:SOUTH MIAMI:-inf:+inf:-inf:+inf:3:7
+NEENAH:NORWAY:-inf:+inf:-inf:+inf:3:4
+DESTIN:MIAMI:-inf:+inf:-inf:+inf:0:0
+GREAT BEND:CHICAGO:-inf:+inf:-inf:+inf:3:6
+MEADVILLE:AUGUSTA:-inf:+inf:-inf:+inf:0:4
+CASS CITY:WARREN:-inf:+inf:-inf:+inf:0:4
+YORK:BIRMINGHAM:-inf:+inf:-inf:+inf:3:7
+INDIANAPOLIS:COLUMBIA:-inf:+inf:-inf:+inf:1:1
+FARMINGTON HILLS:KANSAS CITY:-inf:+inf:-inf:+inf:2:3
+PINELLAS PARK:ENOLA:-inf:+inf:-inf:+inf:2:4
+LAKE PROVIDENCE:MIAMI:-inf:+inf:-inf:+inf:0:1
+FLUSHING:BAYAMON:-inf:+inf:-inf:+inf:2:6
+DILLEY:FRESNO:-inf:+inf:-inf:+inf:0:0
+TURTLE LAKE:LAKEWOOD:-inf:+inf:-inf:+inf:2:4
+PENN YAN:RACELAND:-inf:+inf:-inf:+inf:1:3
+ROANOKE:GARRISON:-inf:+inf:-inf:+inf:2:6
+BRENTWOOD:SAN JOSE:-inf:+inf:-inf:+inf:2:6
+MARSHFIELD:FT WORTH:-inf:+inf:-inf:+inf:0:3
+LAS CRUCES:CARROLL:-inf:+inf:-inf:+inf:1:1
+PASADENA:EDEN:-inf:+inf:-inf:+inf:3:3
+FREDERICK:PARIS:-inf:+inf:-inf:+inf:3:3
+VALLEY COTTAGE:LULING:-inf:+inf:-inf:+inf:2:2
+PHILADELPHIA:NEW YORK:-inf:+inf:-inf:+inf:2:3
+DONALDSONVILLE:CHICAGO:-inf:+inf:-inf:+inf:1:2
+BOCA RATON:NEWBERRY:-inf:+inf:-inf:+inf:0:4
+CARSON CITY:FORT WORTH:-inf:+inf:-inf:+inf:0:2
+TIFTON:SANTA ANA:-inf:+inf:-inf:+inf:1:3
+CHARLOTTE:HONESDALE:-inf:+inf:-inf:+inf:0:1
+SAN FRANCISCO:SARATOGA SPRINGS:-inf:+inf:-inf:+inf:2:3
+MORRIS:CHICAGO:-inf:+inf:-inf:+inf:3:5
+CINCINNATI:PROVIDENCE:-inf:+inf:-inf:+inf:2:3
+MORRISTOWN:CARTERET:-inf:+inf:-inf:+inf:3:3
+BAKERSFIELD:WARRENSBURG:-inf:+inf:-inf:+inf:1:2
+MIAMI:MAYWOOD:-inf:+inf:-inf:+inf:3:6
+FLINT:FARMINGTON:-inf:+inf:-inf:+inf:1:5
+SPRINGFIELD:LARES:-inf:+inf:-inf:+inf:0:0
+LUMBERTON:TEANECK:-inf:+inf:-inf:+inf:2:4
+CRESTWOOD:HONOLULU:-inf:+inf:-inf:+inf:1:1
+TOWANDA:BIRMINGHAM:-inf:+inf:-inf:+inf:0:3
+DORAL:MC KENZIE:-inf:+inf:-inf:+inf:3:4
+HUTCHINSON:GOODING:-inf:+inf:-inf:+inf:2:3
+DANVILLE:MONROE:-inf:+inf:-inf:+inf:3:4
+DETROIT:DUNCAN:-inf:+inf:-inf:+inf:1:3
+COOPERSTOWN:ATLANTA:-inf:+inf:-inf:+inf:3:3
+SWEETWATER:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+WASHINGTON:ANTIOCH:-inf:+inf:-inf:+inf:3:6
+EDEN:TRUCKEE:-inf:+inf:-inf:+inf:1:5
+ELIZABETH:BOSTON:-inf:+inf:-inf:+inf:3:5
+GRETNA:LOOGOOTEE:-inf:+inf:-inf:+inf:2:4
+HOLLYWOOD:SAN JUAN:-inf:+inf:-inf:+inf:2:2
+NAPERVILLE:HOPKINSVILLE:-inf:+inf:-inf:+inf:0:4
+FLOMATON:NEW HAVEN:-inf:+inf:-inf:+inf:0:1
+BOSCOBEL:LOXAHATCHEE:-inf:+inf:-inf:+inf:1:5
+LAFAYETTE:PHILADELPHIA:-inf:+inf:-inf:+inf:3:7
+HAMMOND:ALBUQUERQUE:-inf:+inf:-inf:+inf:3:7
+NORTH LAS VEGAS:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+HURRICANE:WOODSTOCK:-inf:+inf:-inf:+inf:2:6
+COLEBROOK:NASHVILLE:-inf:+inf:-inf:+inf:3:3
+ALBANY:LANSDALE:-inf:+inf:-inf:+inf:3:3
+GREEN BAY:SOUTHFIELD:-inf:+inf:-inf:+inf:0:1
+WALNUT:GLENS FALLS:-inf:+inf:-inf:+inf:3:3
+BOGALUSA:BUNKIE:-inf:+inf:-inf:+inf:2:4
+CROWLEY:JACKSON:-inf:+inf:-inf:+inf:3:4
+CINCINNATI:ATLANTA:-inf:+inf:-inf:+inf:0:0
+MINDEN:ESCONDIDO:-inf:+inf:-inf:+inf:1:5
+MAYAGUEZ:GREEN BAY:-inf:+inf:-inf:+inf:0:1
+TYLER:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:4
+ORANGEBURG:METAIRIE:-inf:+inf:-inf:+inf:2:5
+NEW YORK:SAINT LOUIS:-inf:+inf:-inf:+inf:3:7
+YONKERS:ATLANTA:-inf:+inf:-inf:+inf:2:4
+DALLAS:WYOMISSING:-inf:+inf:-inf:+inf:0:4
+WEST MIAMI:HOLLYWOOD:-inf:+inf:-inf:+inf:2:2
+BALTIMORE:HIGH SPRINGS:-inf:+inf:-inf:+inf:1:1
+CLEVELAND:ROSEDALE:-inf:+inf:-inf:+inf:0:1
+JUNEAU:ATLANTA:-inf:+inf:-inf:+inf:3:5
+BROOKLINE:CHANUTE:-inf:+inf:-inf:+inf:1:4
+SWAINSBORO:KALAMAZOO:-inf:+inf:-inf:+inf:1:4
+LOWELL:BALTIMORE:-inf:+inf:-inf:+inf:3:4
+RICHMOND:PEORIA:-inf:+inf:-inf:+inf:1:5
+BRIDGETON:BLUE ASH:-inf:+inf:-inf:+inf:1:3
+RUSTON:SOUTH MIAMI:-inf:+inf:-inf:+inf:2:6
+BRISTOL:DENVER:-inf:+inf:-inf:+inf:0:1
+MERRILLVILLE:WILMINGTON:-inf:+inf:-inf:+inf:0:4
+STAMFORD:SAN DIEGO:-inf:+inf:-inf:+inf:3:4
+SPRINGFIELD:SAINT LOUIS:-inf:+inf:-inf:+inf:3:7
+CHICAGO:PORTLAND:-inf:+inf:-inf:+inf:3:3
+MEMPHIS:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:1
+DALLAS:SALEM:-inf:+inf:-inf:+inf:3:4
+WIGGINS:JACKSON:-inf:+inf:-inf:+inf:1:5
+LAFAYETTE:RICHMOND:-inf:+inf:-inf:+inf:3:7
+BEAUFORT:NEW YORK:-inf:+inf:-inf:+inf:2:6
+WESLACO:HUNTINGTON:-inf:+inf:-inf:+inf:1:2
+DULUTH:CHARLESTOWN:-inf:+inf:-inf:+inf:3:6
+WHITTIER:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+HENDERSONVILLE:ATLANTA:-inf:+inf:-inf:+inf:1:4
+LOS ANGELES:MIAMI:-inf:+inf:-inf:+inf:0:0
+MIAMI:SAN JUAN:-inf:+inf:-inf:+inf:3:6
+ALBIA:BOYNTON BEACH:-inf:+inf:-inf:+inf:1:3
+MOUNT VERNON:DEARBORN:-inf:+inf:-inf:+inf:3:7
+KAUNAKAKAI:MOUNTAIN GROVE:-inf:+inf:-inf:+inf:3:4
+BOSSIER CITY:LITTLE RIVER:-inf:+inf:-inf:+inf:3:5
+DURANT:TRACY:-inf:+inf:-inf:+inf:0:4
+LUBBOCK:WESTMINSTER:-inf:+inf:-inf:+inf:3:7
+CHICAGO:TEMPLE CITY:-inf:+inf:-inf:+inf:1:2
+MARSHFIELD:WADLEY:-inf:+inf:-inf:+inf:3:6
+CARSON:LIBERTY:-inf:+inf:-inf:+inf:1:1
+NORMAN:CLARION:-inf:+inf:-inf:+inf:0:0
+MIAMI:LAWRENCE:-inf:+inf:-inf:+inf:1:4
+MUNSTER:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+URBANA:GRAND RAPIDS:-inf:+inf:-inf:+inf:2:3
+DENVER:BAY SPRINGS:-inf:+inf:-inf:+inf:2:5
+ATLANTA:WICHITA:-inf:+inf:-inf:+inf:1:2
+ARLINGTON:LOS ANGELES:-inf:+inf:-inf:+inf:2:2
+GLENWOOD SPRINGS:HOMESTEAD:-inf:+inf:-inf:+inf:3:7
+LAWTON:SEGUIN:-inf:+inf:-inf:+inf:3:4
+HEMET:STANFORD:-inf:+inf:-inf:+inf:0:1
+DAVIE:JACKSON:-inf:+inf:-inf:+inf:2:3
+BALDWIN:LENOIR:-inf:+inf:-inf:+inf:0:0
+NORTH WILKESBORO:WILKES BARRE:-inf:+inf:-inf:+inf:2:6
+GREENSBORO:SAINT ANTHONY:-inf:+inf:-inf:+inf:0:2
+VEGA BAJA:WILLOWS:-inf:+inf:-inf:+inf:1:2
+DALLAS:LOUISVILLE:-inf:+inf:-inf:+inf:3:5
+SANTA FE:SEARCY:-inf:+inf:-inf:+inf:3:5
+WAUSAU:HERSHEY:-inf:+inf:-inf:+inf:2:4
+DALLAS:MANCHESTER:-inf:+inf:-inf:+inf:0:3
+GLENWOOD SPRINGS:LOS ANGELES:-inf:+inf:-inf:+inf:2:6
+SELAH:SPRING:-inf:+inf:-inf:+inf:3:6
+DALLAS:FAIRFAX:-inf:+inf:-inf:+inf:1:1
+PHOENIX:AUSTIN:-inf:+inf:-inf:+inf:0:0
+GOODYEAR:PEARSALL:-inf:+inf:-inf:+inf:3:7
+FALL RIVER:PORT JEFFERSON:-inf:+inf:-inf:+inf:1:5
+WARREN:TAYLORVILLE:-inf:+inf:-inf:+inf:0:3
+AVON:NEWARK:-inf:+inf:-inf:+inf:2:3
+LUMBERTON:SOUTHFIELD:-inf:+inf:-inf:+inf:0:4
+INDEPENDENCE:WASHINGTON:-inf:+inf:-inf:+inf:0:2
+ROCHESTER:NAPOLEON:-inf:+inf:-inf:+inf:2:5
+GREAT FALLS:BURKESVILLE:-inf:+inf:-inf:+inf:0:4
+MECHANICSBURG:WOODSTOCK:-inf:+inf:-inf:+inf:3:3
+PHILADELPHIA:CLINTON:-inf:+inf:-inf:+inf:3:4
+NEW YORK:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+LITTLE FALLS:MARION:-inf:+inf:-inf:+inf:2:2
+BALTIMORE:SAN ANTONIO:-inf:+inf:-inf:+inf:1:3
+FORT MYERS:ARLINGTON:-inf:+inf:-inf:+inf:1:2
+WICHITA:NEENAH:-inf:+inf:-inf:+inf:2:2
+SYKESVILLE:YUMA:-inf:+inf:-inf:+inf:0:3
+NEW YORK:IOWA CITY:-inf:+inf:-inf:+inf:3:4
+HOUSTON:ATLANTA:-inf:+inf:-inf:+inf:0:3
+PHILADELPHIA:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+PHILADELPHIA:FLEMINGTON:-inf:+inf:-inf:+inf:3:5
+CHELSEA:RENTON:-inf:+inf:-inf:+inf:2:6
+TACOMA:DALLAS:-inf:+inf:-inf:+inf:3:6
+CHARLOTTE:PARADISE:-inf:+inf:-inf:+inf:2:4
+QUINCY:GUNTERSVILLE:-inf:+inf:-inf:+inf:1:2
+KALAMAZOO:PORT RICHEY:-inf:+inf:-inf:+inf:3:6
+CATAWBA:PASADENA:-inf:+inf:-inf:+inf:0:1
+MIAMI:OWOSSO:-inf:+inf:-inf:+inf:1:2
+GREENSBURG:MARIETTA:-inf:+inf:-inf:+inf:1:5
+LOS ANGELES:HIALEAH:-inf:+inf:-inf:+inf:2:4
+MECHANICSBURG:MOUNT AIRY:-inf:+inf:-inf:+inf:1:4
+PHILADELPHIA:LAWRENCE:-inf:+inf:-inf:+inf:2:2
+PHILADELPHIA:HOUSTON:-inf:+inf:-inf:+inf:3:7
+RALEIGH:NEW HYDE PARK:-inf:+inf:-inf:+inf:1:3
+THOMASVILLE:LEESBURG:-inf:+inf:-inf:+inf:3:5
+PINEHURST:CHICAGO:-inf:+inf:-inf:+inf:3:5
+TOMBALL:ELLENSBURG:-inf:+inf:-inf:+inf:2:5
+MEMPHIS:BRENTWOOD:-inf:+inf:-inf:+inf:2:3
+MILWAUKEE:CRYSTAL RIVER:-inf:+inf:-inf:+inf:2:3
+SAFFORD:BERLIN:-inf:+inf:-inf:+inf:0:3
+FARMINGTON:DULUTH:-inf:+inf:-inf:+inf:1:2
+CHARLOTTE:PRINCE FREDERICK:-inf:+inf:-inf:+inf:3:4
+GRAND SALINE:STERLING HEIGHTS:-inf:+inf:-inf:+inf:3:7
+ORLANDO:GLASSBORO:-inf:+inf:-inf:+inf:2:2
+HOT SPRINGS NATIONAL PARK:LOGANSPORT:-inf:+inf:-inf:+inf:1:4
+OAK LAWN:LANTANA:-inf:+inf:-inf:+inf:0:4
+WINSTON SALEM:KANSAS CITY:-inf:+inf:-inf:+inf:1:4
+COVINGTON:NYACK:-inf:+inf:-inf:+inf:3:5
+SALEM:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+CHARLOTTE:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+

@@ -1,0 +1,2001 @@
+Bevin:SAGINAW:-inf:+inf:-inf:+inf:0:2
+Carmelita:MIAMI:-inf:+inf:-inf:+inf:0:1
+Joleen:HESPERIA:-inf:+inf:-inf:+inf:0:2
+Thoma:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+Audry:SAN ANTONIO:-inf:+inf:-inf:+inf:0:2
+Helen:PEORIA:-inf:+inf:-inf:+inf:1:3
+Sanford:MEDICINE LODGE:-inf:+inf:-inf:+inf:0:2
+Nahum:ALAMO:-inf:+inf:-inf:+inf:0:2
+Devan:THOMASVILLE:-inf:+inf:-inf:+inf:1:2
+Christin:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+Juliet:CARLE PLACE:-inf:+inf:-inf:+inf:0:1
+Marve:PEORIA:-inf:+inf:-inf:+inf:0:0
+Carissa:DES MOINES:-inf:+inf:-inf:+inf:1:2
+Carver:SANTA ANA:-inf:+inf:-inf:+inf:1:1
+Binnie:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Clement:TRENTON:-inf:+inf:-inf:+inf:1:3
+Wyatt:PARAMOUNT:-inf:+inf:-inf:+inf:0:0
+Agretha:FORT RILEY:-inf:+inf:-inf:+inf:1:1
+Chev:FAIRFIELD:-inf:+inf:-inf:+inf:0:1
+Blair:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:2
+Peggi:LLANO:-inf:+inf:-inf:+inf:1:1
+Nell:TYRONE:-inf:+inf:-inf:+inf:1:1
+Bancroft:KAILUA:-inf:+inf:-inf:+inf:0:0
+Bud:PHILADELPHIA:-inf:+inf:-inf:+inf:1:2
+Marlyn:FORT GORDON:-inf:+inf:-inf:+inf:0:1
+Dasi:JERSEY CITY:-inf:+inf:-inf:+inf:0:2
+Yvon:PLANO:-inf:+inf:-inf:+inf:0:2
+Rowena:DERBY:-inf:+inf:-inf:+inf:0:2
+Nikolas:TULIA:-inf:+inf:-inf:+inf:0:2
+Kit:MUNCIE:-inf:+inf:-inf:+inf:0:0
+Alida:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Verile:LAUREL:-inf:+inf:-inf:+inf:1:3
+Eleanore:BROOKLYN:-inf:+inf:-inf:+inf:1:3
+Hall:ORLANDO:-inf:+inf:-inf:+inf:0:2
+Johna:BUTLER:-inf:+inf:-inf:+inf:1:2
+Wallis:HOUSTON:-inf:+inf:-inf:+inf:0:1
+Denise:BIRMINGHAM:-inf:+inf:-inf:+inf:0:2
+Natala:TALLASSEE:-inf:+inf:-inf:+inf:1:3
+Tandi:CHARLES CITY:-inf:+inf:-inf:+inf:0:2
+Andriana:LEBANON:-inf:+inf:-inf:+inf:1:1
+Hollyanne:MCALLEN:-inf:+inf:-inf:+inf:1:1
+Wilie:GERMANTOWN:-inf:+inf:-inf:+inf:0:0
+Marcello:SULLIVAN:-inf:+inf:-inf:+inf:0:2
+Rancell:DALTON:-inf:+inf:-inf:+inf:1:3
+Fayina:NORTH ADAMS:-inf:+inf:-inf:+inf:0:0
+Benedick:PT PLEASANT:-inf:+inf:-inf:+inf:1:2
+Minda:LUMBERTON:-inf:+inf:-inf:+inf:0:2
+Ingram:WEST HARTFORD:-inf:+inf:-inf:+inf:0:0
+Mellisa:KNOXVILLE:-inf:+inf:-inf:+inf:1:1
+Donnie:CONCORD:-inf:+inf:-inf:+inf:1:2
+Wyndham:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Ulrich:BOSTON:-inf:+inf:-inf:+inf:1:2
+Matthew:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+Noella:PORT JEFFERSON:-inf:+inf:-inf:+inf:0:1
+Jarred:SULLIVAN:-inf:+inf:-inf:+inf:1:1
+Alexa:NEENAH:-inf:+inf:-inf:+inf:1:3
+Karel:MOSCOW:-inf:+inf:-inf:+inf:1:2
+Muire:WILLOW SPRINGS:-inf:+inf:-inf:+inf:0:0
+Lexi:BREWSTER:-inf:+inf:-inf:+inf:1:1
+Costa:KANSAS CITY:-inf:+inf:-inf:+inf:0:0
+Madalena:WAYZATA:-inf:+inf:-inf:+inf:0:1
+Clayborne:FORT LAUDERDALE:-inf:+inf:-inf:+inf:1:1
+Phillipe:CHICAGO:-inf:+inf:-inf:+inf:0:2
+Xaviera:SLAUGHTER:-inf:+inf:-inf:+inf:0:1
+Muffin:GALAX:-inf:+inf:-inf:+inf:0:2
+Prudy:SIDNEY:-inf:+inf:-inf:+inf:1:1
+Gillian:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Terrence:PARKERSBURG:-inf:+inf:-inf:+inf:1:1
+Shaun:WOODLAND HILLS:-inf:+inf:-inf:+inf:1:1
+Carlie:DRAPER:-inf:+inf:-inf:+inf:0:0
+Fiorenze:ROCKWALL:-inf:+inf:-inf:+inf:1:1
+Ebba:PEORIA:-inf:+inf:-inf:+inf:0:1
+Fredrika:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:1
+Flore:PLANTATION:-inf:+inf:-inf:+inf:0:1
+Brandie:CONCORD:-inf:+inf:-inf:+inf:1:1
+Janette:ROCK VALLEY:-inf:+inf:-inf:+inf:0:1
+Isobel:GALLIANO:-inf:+inf:-inf:+inf:0:0
+Osmond:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:1
+Mercedes:PLYMOUTH:-inf:+inf:-inf:+inf:1:2
+Pattin:ARLINGTON:-inf:+inf:-inf:+inf:1:2
+Reginald:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+Chrissy:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+Cordy:HASTINGS:-inf:+inf:-inf:+inf:1:1
+Catie:PONCE:-inf:+inf:-inf:+inf:0:1
+Judith:BAMBERG:-inf:+inf:-inf:+inf:0:1
+Claudius:RICHLAND:-inf:+inf:-inf:+inf:0:0
+Cicily:LAKE CITY:-inf:+inf:-inf:+inf:0:0
+Bertrando:VIRGINIA BEACH:-inf:+inf:-inf:+inf:1:3
+Eveline:DALE:-inf:+inf:-inf:+inf:0:1
+Zabrina:NEDERLAND:-inf:+inf:-inf:+inf:0:0
+Sharia:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:0
+Morna:FORT DODGE:-inf:+inf:-inf:+inf:1:1
+Elvina:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Pietra:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:2
+Charo:ISHPEMING:-inf:+inf:-inf:+inf:1:2
+Mathilde:FARMINGTON:-inf:+inf:-inf:+inf:0:2
+Giorgi:KINSLEY:-inf:+inf:-inf:+inf:1:3
+Carroll:TROY:-inf:+inf:-inf:+inf:1:2
+Virginia:TOMAH:-inf:+inf:-inf:+inf:0:0
+Jean:CORVALLIS:-inf:+inf:-inf:+inf:1:1
+Lauretta:OMAHA:-inf:+inf:-inf:+inf:1:3
+Arline:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+Katharyn:LUMBERTON:-inf:+inf:-inf:+inf:1:1
+Morry:MARSHFIELD:-inf:+inf:-inf:+inf:1:3
+Marrilee:EL PASO:-inf:+inf:-inf:+inf:1:3
+Adelina:SAN DIEGO:-inf:+inf:-inf:+inf:1:2
+Shay:PERRYVILLE:-inf:+inf:-inf:+inf:0:2
+Nollie:QUINCY:-inf:+inf:-inf:+inf:1:2
+Saraann:ALPHARETTA:-inf:+inf:-inf:+inf:0:2
+Adrian:SACRAMENTO:-inf:+inf:-inf:+inf:0:1
+Nickolai:CINCINNATI:-inf:+inf:-inf:+inf:1:3
+Gregory:MEMPHIS:-inf:+inf:-inf:+inf:0:2
+Seward:GROVETON:-inf:+inf:-inf:+inf:0:1
+Ody:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Glenn:THOMSON:-inf:+inf:-inf:+inf:0:1
+Jodi:PENDER:-inf:+inf:-inf:+inf:0:0
+Garvin:MIAMI:-inf:+inf:-inf:+inf:1:2
+Damaris:GIBSON CITY:-inf:+inf:-inf:+inf:1:1
+Rosaleen:SCRANTON:-inf:+inf:-inf:+inf:0:2
+Garret:GLEN OAKS:-inf:+inf:-inf:+inf:0:0
+Sonni:SALISBURY:-inf:+inf:-inf:+inf:0:2
+Torie:PEORIA:-inf:+inf:-inf:+inf:1:1
+Janina:LIVE OAK:-inf:+inf:-inf:+inf:1:3
+Kit:LA CROSSE:-inf:+inf:-inf:+inf:0:1
+Hyacinthe:WESTCHESTER:-inf:+inf:-inf:+inf:0:2
+Hersh:CAMP HILL:-inf:+inf:-inf:+inf:1:3
+Gus:FRANKLIN:-inf:+inf:-inf:+inf:0:2
+Hillie:MELVILLE:-inf:+inf:-inf:+inf:1:1
+Garald:RANCHO MIRAGE:-inf:+inf:-inf:+inf:0:1
+Margy:HASTINGS:-inf:+inf:-inf:+inf:1:3
+Zola:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Ursa:MILWAUKEE:-inf:+inf:-inf:+inf:0:1
+Jaclin:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+Brunhilde:OAK PARK:-inf:+inf:-inf:+inf:0:2
+Rowe:PITTSFIELD:-inf:+inf:-inf:+inf:1:1
+Bruis:FRANKLIN:-inf:+inf:-inf:+inf:0:1
+Tamas:NORRISTOWN:-inf:+inf:-inf:+inf:1:3
+Jeanette:BLOOMFIELD:-inf:+inf:-inf:+inf:0:0
+Hersh:BERKELEY SPRINGS:-inf:+inf:-inf:+inf:0:0
+Gustavus:ASPEN:-inf:+inf:-inf:+inf:1:3
+Fabiano:LITTLETON:-inf:+inf:-inf:+inf:1:1
+Sammy:WILLIAMSON:-inf:+inf:-inf:+inf:0:1
+Angelico:AURORA:-inf:+inf:-inf:+inf:0:2
+Lammond:SHERMAN:-inf:+inf:-inf:+inf:0:1
+Sena:SHELBYVILLE:-inf:+inf:-inf:+inf:1:2
+Ave:CHARLEVOIX:-inf:+inf:-inf:+inf:0:0
+Kath:YORK:-inf:+inf:-inf:+inf:1:3
+Mei:DULUTH:-inf:+inf:-inf:+inf:0:1
+Rollin:PROVIDENCE:-inf:+inf:-inf:+inf:0:1
+Melina:CHICAGO:-inf:+inf:-inf:+inf:0:1
+Ewen:BETHPAGE:-inf:+inf:-inf:+inf:0:2
+Alyse:FAIRFIELD:-inf:+inf:-inf:+inf:1:2
+Barbara-anne:DETROIT:-inf:+inf:-inf:+inf:0:2
+Eolande:NACOGDOCHES:-inf:+inf:-inf:+inf:1:1
+Jarad:BRIDGETON:-inf:+inf:-inf:+inf:1:2
+Dorella:PITTSBURGH:-inf:+inf:-inf:+inf:0:2
+Harley:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Miquela:BRENTWOOD:-inf:+inf:-inf:+inf:0:2
+Francoise:NEW ORLEANS:-inf:+inf:-inf:+inf:0:2
+Deedee:BETHANY:-inf:+inf:-inf:+inf:0:2
+Martynne:IRVINE:-inf:+inf:-inf:+inf:1:3
+Paco:HONOLULU:-inf:+inf:-inf:+inf:1:1
+Federica:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Anallise:HAYS:-inf:+inf:-inf:+inf:0:1
+Leah:SUMMERSVILLE:-inf:+inf:-inf:+inf:0:2
+Wynne:MONTOUR FALLS:-inf:+inf:-inf:+inf:1:2
+Alessandro:PHOENIX:-inf:+inf:-inf:+inf:0:2
+Frankie:DORAL:-inf:+inf:-inf:+inf:1:3
+Irwinn:SILVER SPRING:-inf:+inf:-inf:+inf:0:1
+Tadd:WHITNEY:-inf:+inf:-inf:+inf:0:2
+Francesca:HOUSTON:-inf:+inf:-inf:+inf:0:1
+Georgia:PEORIA:-inf:+inf:-inf:+inf:0:1
+Orrin:GULFPORT:-inf:+inf:-inf:+inf:0:1
+Gwen:BOSTON:-inf:+inf:-inf:+inf:1:2
+Cindelyn:BROOMFIELD:-inf:+inf:-inf:+inf:1:1
+Laughton:MILLER:-inf:+inf:-inf:+inf:0:2
+Niall:ST GEORGE:-inf:+inf:-inf:+inf:1:3
+Corly:SAN DIEGO:-inf:+inf:-inf:+inf:1:1
+Gerard:GRASS VALLEY:-inf:+inf:-inf:+inf:1:2
+Donica:CROWN POINT:-inf:+inf:-inf:+inf:1:3
+Patsy:MILWAUKEE:-inf:+inf:-inf:+inf:1:2
+Rheta:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+Rosabella:MIDLAND:-inf:+inf:-inf:+inf:1:2
+Lilyan:FULLERTON:-inf:+inf:-inf:+inf:1:3
+Cristie:ST MARYS:-inf:+inf:-inf:+inf:1:2
+Tersina:FRENCH LICK:-inf:+inf:-inf:+inf:0:0
+Pedro:BELZONI:-inf:+inf:-inf:+inf:1:3
+Danielle:ELKTON:-inf:+inf:-inf:+inf:0:1
+Stephi:CHICAGO:-inf:+inf:-inf:+inf:0:2
+Julieta:TUSTIN:-inf:+inf:-inf:+inf:1:3
+Jada:LAWRENCE:-inf:+inf:-inf:+inf:0:0
+Halsy:EULESS:-inf:+inf:-inf:+inf:0:1
+Oralee:FAIRBORN:-inf:+inf:-inf:+inf:1:3
+Alyosha:KALISPELL:-inf:+inf:-inf:+inf:1:3
+Charlene:PEORIA:-inf:+inf:-inf:+inf:1:3
+Derk:DALLAS:-inf:+inf:-inf:+inf:0:1
+Abbie:ASHLAND:-inf:+inf:-inf:+inf:0:1
+Asa:SAN RAMON:-inf:+inf:-inf:+inf:1:2
+Ivor:NORTHAMPTON:-inf:+inf:-inf:+inf:0:1
+Nickola:DECATUR:-inf:+inf:-inf:+inf:1:1
+Mose:WINTHROP:-inf:+inf:-inf:+inf:1:1
+Valli:LOVELL:-inf:+inf:-inf:+inf:0:1
+Vernor:BOISE:-inf:+inf:-inf:+inf:0:1
+Nollie:MIDLAND:-inf:+inf:-inf:+inf:1:2
+Myca:MAYFIELD HEIGHTS:-inf:+inf:-inf:+inf:0:0
+Bibby:FT GORDON:-inf:+inf:-inf:+inf:0:0
+Maje:HOUSTON:-inf:+inf:-inf:+inf:1:1
+Bevin:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:1
+Yasmeen:STILLWATER:-inf:+inf:-inf:+inf:0:0
+Janaya:HARRISON:-inf:+inf:-inf:+inf:0:2
+Marylou:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:2
+Lorry:SAN ANTONIO:-inf:+inf:-inf:+inf:1:1
+Zandra:FORKS:-inf:+inf:-inf:+inf:0:1
+Datha:PETERSBURG:-inf:+inf:-inf:+inf:1:3
+Arvy:DENVER:-inf:+inf:-inf:+inf:1:1
+Gallagher:VERSAILLES:-inf:+inf:-inf:+inf:0:2
+Cicely:CASPER:-inf:+inf:-inf:+inf:0:0
+Rheba:PARSONS:-inf:+inf:-inf:+inf:0:2
+Ezechiel:YORK:-inf:+inf:-inf:+inf:1:2
+Rina:KOKOMO:-inf:+inf:-inf:+inf:0:1
+Antonetta:MIDDLETOWN:-inf:+inf:-inf:+inf:1:1
+Steward:JACKSONVILLE:-inf:+inf:-inf:+inf:0:1
+Jeralee:WOONSOCKET:-inf:+inf:-inf:+inf:0:2
+Amabel:KNOXVILLE:-inf:+inf:-inf:+inf:0:2
+Leone:CHICAGO:-inf:+inf:-inf:+inf:0:2
+Almeria:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:0
+Hewie:ANTLERS:-inf:+inf:-inf:+inf:1:3
+Layla:SEATTLE:-inf:+inf:-inf:+inf:0:0
+Godart:ATLANTA:-inf:+inf:-inf:+inf:1:2
+Courtnay:LACONIA:-inf:+inf:-inf:+inf:1:2
+Lena:GLEN BURNIE:-inf:+inf:-inf:+inf:1:1
+Greer:MIAMI:-inf:+inf:-inf:+inf:1:1
+Percy:SEAMAN:-inf:+inf:-inf:+inf:0:2
+Anthea:NEW YORK:-inf:+inf:-inf:+inf:0:0
+Marena:BETHLEHEM:-inf:+inf:-inf:+inf:1:2
+Brent:COVINA:-inf:+inf:-inf:+inf:0:0
+Clyde:HALLANDALE BEACH:-inf:+inf:-inf:+inf:0:2
+Rhodia:MARIETTA:-inf:+inf:-inf:+inf:1:2
+Kienan:FITZGERALD:-inf:+inf:-inf:+inf:1:2
+Carling:MINNETONKA:-inf:+inf:-inf:+inf:1:2
+Jacinta:STREATOR:-inf:+inf:-inf:+inf:0:1
+Sidney:MECHANICSBURG:-inf:+inf:-inf:+inf:0:1
+Marlo:WENATCHEE:-inf:+inf:-inf:+inf:0:1
+Ursala:INDEPENDENCE:-inf:+inf:-inf:+inf:1:2
+Arturo:FORT KENT:-inf:+inf:-inf:+inf:1:1
+Petra:WASHINGTON:-inf:+inf:-inf:+inf:0:1
+Steffen:MERIDIAN:-inf:+inf:-inf:+inf:1:3
+Nadeen:COMANCHE:-inf:+inf:-inf:+inf:1:3
+Hillel:MESA:-inf:+inf:-inf:+inf:0:0
+Ailene:SALEM:-inf:+inf:-inf:+inf:0:1
+Wait:PEORIA:-inf:+inf:-inf:+inf:0:0
+Angeli:MENA:-inf:+inf:-inf:+inf:0:2
+Dana:JOHNS CREEK:-inf:+inf:-inf:+inf:0:0
+Esteban:KALAMAZOO:-inf:+inf:-inf:+inf:1:1
+Terencio:MEMPHIS:-inf:+inf:-inf:+inf:1:1
+Korry:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+Rowe:SAINT LOUIS:-inf:+inf:-inf:+inf:1:3
+Donelle:ANTRIM:-inf:+inf:-inf:+inf:0:1
+Winni:ASHEVILLE:-inf:+inf:-inf:+inf:1:1
+Ephraim:DORAL:-inf:+inf:-inf:+inf:0:2
+Kyle:IOLA:-inf:+inf:-inf:+inf:1:1
+Ruthanne:LAFAYETTE:-inf:+inf:-inf:+inf:0:2
+Gayelord:CINCINNATI:-inf:+inf:-inf:+inf:1:1
+Giovanna:GREENCASTLE:-inf:+inf:-inf:+inf:1:3
+Curtis:ETOWAH:-inf:+inf:-inf:+inf:1:1
+Elna:JACKSONVILLE:-inf:+inf:-inf:+inf:0:2
+Eddy:ROMNEY:-inf:+inf:-inf:+inf:0:2
+Reggis:MERIDIAN:-inf:+inf:-inf:+inf:0:1
+Nadiya:SAINT CHARLES:-inf:+inf:-inf:+inf:0:2
+Perle:CORAL GABLES:-inf:+inf:-inf:+inf:0:0
+Livvy:ORANGE PARK:-inf:+inf:-inf:+inf:0:0
+Rosalie:SALEM:-inf:+inf:-inf:+inf:0:2
+Dirk:BOSTON:-inf:+inf:-inf:+inf:0:0
+Shelbi:ATMORE:-inf:+inf:-inf:+inf:0:1
+Orrin:LIHUE:-inf:+inf:-inf:+inf:0:0
+Lyndsie:MARIANNA:-inf:+inf:-inf:+inf:0:0
+Gilly:HASTINGS:-inf:+inf:-inf:+inf:0:0
+Simon:TEMPERANCE:-inf:+inf:-inf:+inf:1:3
+Manya:BRANSON WEST:-inf:+inf:-inf:+inf:0:0
+Lucias:KIHEI:-inf:+inf:-inf:+inf:1:3
+Artus:RICHMOND:-inf:+inf:-inf:+inf:0:0
+Addie:SOUTH BEND:-inf:+inf:-inf:+inf:0:0
+Kipp:DALLAS:-inf:+inf:-inf:+inf:0:0
+Lurlene:LEBANON:-inf:+inf:-inf:+inf:1:2
+Emmery:CHATTANOOGA:-inf:+inf:-inf:+inf:0:2
+Kiah:WARREN:-inf:+inf:-inf:+inf:1:2
+Rodrigo:YUMA:-inf:+inf:-inf:+inf:0:2
+Nicolais:SUNRISE:-inf:+inf:-inf:+inf:0:2
+Adella:METAIRIE:-inf:+inf:-inf:+inf:1:1
+Dillie:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Gwenore:CHICAGO:-inf:+inf:-inf:+inf:0:1
+Lyndsie:SCOTTSDALE:-inf:+inf:-inf:+inf:1:3
+Lilah:LOS ANGELES:-inf:+inf:-inf:+inf:1:2
+Kellia:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Brittany:LOWELL:-inf:+inf:-inf:+inf:0:2
+Millie:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Farlie:JEFFERSON:-inf:+inf:-inf:+inf:0:2
+Gary:LANDGROVE:-inf:+inf:-inf:+inf:0:1
+Clarence:TOLEDO:-inf:+inf:-inf:+inf:1:3
+Ruperta:OWINGS MILLS:-inf:+inf:-inf:+inf:0:2
+Chev:GRAND RAPIDS:-inf:+inf:-inf:+inf:1:2
+Pietro:BISMARCK:-inf:+inf:-inf:+inf:0:1
+Garek:NEW YORK:-inf:+inf:-inf:+inf:0:1
+Ambrosio:MERCED:-inf:+inf:-inf:+inf:0:1
+Rori:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Pru:LEHIGHTON:-inf:+inf:-inf:+inf:0:1
+Thalia:STAYTON:-inf:+inf:-inf:+inf:0:2
+Rich:CARMEL:-inf:+inf:-inf:+inf:1:2
+Isadore:CHULA VISTA,:-inf:+inf:-inf:+inf:0:0
+Ced:PEORIA:-inf:+inf:-inf:+inf:1:3
+Essy:OAK PARK:-inf:+inf:-inf:+inf:1:3
+Liva:DES MOINES:-inf:+inf:-inf:+inf:1:1
+Isis:VAN HORN:-inf:+inf:-inf:+inf:1:1
+Elnore:TAYLORSVILLE:-inf:+inf:-inf:+inf:0:2
+Luce:LANCASTER:-inf:+inf:-inf:+inf:0:2
+Maxy:SOUTHFIELD:-inf:+inf:-inf:+inf:0:2
+Leeanne:DALLAS:-inf:+inf:-inf:+inf:1:1
+Korney:JACKSON:-inf:+inf:-inf:+inf:1:2
+Phineas:ENCINO:-inf:+inf:-inf:+inf:0:1
+Richard:DECATUR:-inf:+inf:-inf:+inf:0:0
+Zaccaria:MT PLEASANT:-inf:+inf:-inf:+inf:0:1
+Farleigh:LEHIGHTON:-inf:+inf:-inf:+inf:0:0
+Jeanie:JACKSONVILLE:-inf:+inf:-inf:+inf:0:0
+Kelsy:FORSYTH:-inf:+inf:-inf:+inf:0:1
+Maegan:PAMPA:-inf:+inf:-inf:+inf:0:0
+Katti:BEL AIR:-inf:+inf:-inf:+inf:1:1
+Robinet:STERRETT:-inf:+inf:-inf:+inf:0:0
+Maren:CHEBOYGAN:-inf:+inf:-inf:+inf:0:0
+Luke:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Yancy:KANSAS CITY:-inf:+inf:-inf:+inf:1:1
+Jack:GRAND COULEE:-inf:+inf:-inf:+inf:1:1
+Rosella:CARROLL:-inf:+inf:-inf:+inf:0:2
+Selinda:WACONIA:-inf:+inf:-inf:+inf:1:3
+Emlynne:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Sancho:ANDERSON:-inf:+inf:-inf:+inf:1:1
+Ingra:OAK HARBOR:-inf:+inf:-inf:+inf:0:2
+Persis:FORT BRAGG:-inf:+inf:-inf:+inf:0:2
+Thelma:TUCSON:-inf:+inf:-inf:+inf:0:1
+Merrill:CUBA:-inf:+inf:-inf:+inf:0:0
+Jessalyn:HINES:-inf:+inf:-inf:+inf:1:3
+Kris:ALBANY:-inf:+inf:-inf:+inf:1:3
+Fanni:THOMASVILLE:-inf:+inf:-inf:+inf:1:2
+Emiline:EDISON:-inf:+inf:-inf:+inf:0:2
+Inglebert:FRANKLIN:-inf:+inf:-inf:+inf:0:0
+Osbourne:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Harlene:TROY:-inf:+inf:-inf:+inf:1:1
+Theo:GRAND RAPIDS:-inf:+inf:-inf:+inf:1:3
+Lavena:ELECTRA:-inf:+inf:-inf:+inf:1:2
+Traver:DUMAS:-inf:+inf:-inf:+inf:1:3
+Renaldo:MANASSAS:-inf:+inf:-inf:+inf:0:1
+Bennett:ROLLING FORK:-inf:+inf:-inf:+inf:1:2
+Roscoe:ABILENE:-inf:+inf:-inf:+inf:0:0
+Marissa:ATLANTA:-inf:+inf:-inf:+inf:1:3
+Neel:LAURINBURG:-inf:+inf:-inf:+inf:0:2
+Venita:FAYETTE:-inf:+inf:-inf:+inf:0:0
+Garold:WHEATON:-inf:+inf:-inf:+inf:1:2
+Larina:DENVER:-inf:+inf:-inf:+inf:1:3
+Katherina:COLUMBIA:-inf:+inf:-inf:+inf:1:3
+Evangelin:DALLAS:-inf:+inf:-inf:+inf:0:2
+Prue:BOYNTON BEACH:-inf:+inf:-inf:+inf:0:0
+Rocky:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Philippe:PORT JEFFERSON:-inf:+inf:-inf:+inf:0:2
+Cheri:SYRACUSE:-inf:+inf:-inf:+inf:1:2
+Latrena:DOWNEY:-inf:+inf:-inf:+inf:1:3
+Jeralee:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Selle:RENSSELAER:-inf:+inf:-inf:+inf:1:1
+Wilow:HADDONFIELD:-inf:+inf:-inf:+inf:1:3
+Barnabas:BIRMINGHAM:-inf:+inf:-inf:+inf:1:1
+Dickie:MUENSTER:-inf:+inf:-inf:+inf:0:2
+Rufe:DENVER:-inf:+inf:-inf:+inf:0:1
+Brier:CHICKASHA:-inf:+inf:-inf:+inf:0:2
+Marney:EUTAW:-inf:+inf:-inf:+inf:0:0
+Charity:LONG ISLAND CITY:-inf:+inf:-inf:+inf:1:3
+Gaelan:LACKLAND A F B:-inf:+inf:-inf:+inf:1:3
+Layney:MESQUITE:-inf:+inf:-inf:+inf:0:2
+Benyamin:TIFTON:-inf:+inf:-inf:+inf:1:1
+Lynnett:CONRAD:-inf:+inf:-inf:+inf:1:1
+Wallace:HUGOTON:-inf:+inf:-inf:+inf:1:3
+Emalee:PANORAMA CITY:-inf:+inf:-inf:+inf:1:3
+Ginger:LINCOLN:-inf:+inf:-inf:+inf:0:1
+Evangelia:DORAL:-inf:+inf:-inf:+inf:0:1
+Tedmund:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Holly-anne:NEW ORLEANS:-inf:+inf:-inf:+inf:1:2
+Basia:GLASSBORO:-inf:+inf:-inf:+inf:0:2
+Gianni:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Matti:BEVERLY HILLS:-inf:+inf:-inf:+inf:1:3
+Elmore:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:0
+Enrique:MARSHALL:-inf:+inf:-inf:+inf:0:2
+Hunter:ERIE:-inf:+inf:-inf:+inf:1:1
+Davon:RANCHO CUCAMONGA:-inf:+inf:-inf:+inf:0:2
+Berky:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+Lockwood:HUDSON:-inf:+inf:-inf:+inf:1:2
+Sally:CHARDON:-inf:+inf:-inf:+inf:0:0
+Eunice:CLAREMONT:-inf:+inf:-inf:+inf:1:3
+Nick:HARRISBURG:-inf:+inf:-inf:+inf:1:1
+Tuesday:HUMACAO:-inf:+inf:-inf:+inf:0:1
+Idette:TOMS RIVER:-inf:+inf:-inf:+inf:1:1
+Vivianna:LITTLE ROCK:-inf:+inf:-inf:+inf:1:1
+Doralyn:TAHOKA:-inf:+inf:-inf:+inf:0:2
+Claire:SHELTON:-inf:+inf:-inf:+inf:0:2
+Hy:LAGUNA NIGUEL:-inf:+inf:-inf:+inf:1:2
+Penn:BREWTON:-inf:+inf:-inf:+inf:1:2
+Dillon:CINCINNATI:-inf:+inf:-inf:+inf:0:2
+Barris:GONZALES:-inf:+inf:-inf:+inf:1:2
+Jyoti:OGDEN:-inf:+inf:-inf:+inf:0:1
+Silvain:MIAMI:-inf:+inf:-inf:+inf:0:0
+Ansell:NEW HAVEN:-inf:+inf:-inf:+inf:1:1
+Yorker:TALLASSEE:-inf:+inf:-inf:+inf:0:2
+Maurine:PRINCETON:-inf:+inf:-inf:+inf:1:2
+Archaimbaud:TINTON FALLS:-inf:+inf:-inf:+inf:1:3
+Rebeka:AURORA:-inf:+inf:-inf:+inf:1:3
+Reynard:DU BOIS:-inf:+inf:-inf:+inf:0:0
+Leshia:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Ezmeralda:CLARION:-inf:+inf:-inf:+inf:0:0
+Becki:JEANNETTE:-inf:+inf:-inf:+inf:0:2
+Horst:NASHVILLE:-inf:+inf:-inf:+inf:1:1
+Merilyn:SAGINAW:-inf:+inf:-inf:+inf:1:3
+Grace:EUCLID:-inf:+inf:-inf:+inf:1:2
+Min:SCHAUMBURG:-inf:+inf:-inf:+inf:1:2
+Tremayne:KOSCIUSKO:-inf:+inf:-inf:+inf:1:1
+Hagen:CONCORD:-inf:+inf:-inf:+inf:1:2
+Niles:LAUDERDALE LAKES:-inf:+inf:-inf:+inf:1:1
+Farlay:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+Kimberley:PROVIDENCE:-inf:+inf:-inf:+inf:1:1
+Salomone:HAYWARD:-inf:+inf:-inf:+inf:0:2
+Naoma:CEDAR RAPIDS:-inf:+inf:-inf:+inf:1:2
+Alexa:MINNEAPOLIS:-inf:+inf:-inf:+inf:0:2
+Tani:SAN RAMON:-inf:+inf:-inf:+inf:1:2
+Gianna:FRANKLIN:-inf:+inf:-inf:+inf:0:2
+Ignatius:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+Jennifer:SCOTTSDALE:-inf:+inf:-inf:+inf:1:2
+Twyla:LOUISVILLE:-inf:+inf:-inf:+inf:1:3
+Robinetta:LOMA LINDA:-inf:+inf:-inf:+inf:0:1
+Brendin:HOOPA:-inf:+inf:-inf:+inf:0:2
+Joannes:OZARK:-inf:+inf:-inf:+inf:0:0
+Rhona:COLUMBIA:-inf:+inf:-inf:+inf:1:2
+Barclay:COLUMBIA:-inf:+inf:-inf:+inf:0:0
+Constantina:ALLENTOWN:-inf:+inf:-inf:+inf:1:2
+Mil:LUBBOCK:-inf:+inf:-inf:+inf:1:2
+Diandra:VALLEY CITY:-inf:+inf:-inf:+inf:0:1
+Janis:DUNWOODY:-inf:+inf:-inf:+inf:0:1
+Deeanne:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+Nerte:BOSSIER CITY:-inf:+inf:-inf:+inf:0:0
+Kacey:MACON:-inf:+inf:-inf:+inf:0:1
+Geneva:DEVILS LAKE:-inf:+inf:-inf:+inf:0:1
+Karylin:ANDALUSIA:-inf:+inf:-inf:+inf:1:1
+Allissa:FORT JACKSON:-inf:+inf:-inf:+inf:1:3
+Kitty:SAN MARINO:-inf:+inf:-inf:+inf:0:1
+Viviyan:CLINTON:-inf:+inf:-inf:+inf:0:1
+Ainsley:WAIANAE:-inf:+inf:-inf:+inf:0:1
+Malvina:LOS ANGELES:-inf:+inf:-inf:+inf:1:2
+Delcina:HUNTSVILLE:-inf:+inf:-inf:+inf:0:0
+Bell:LAREDO:-inf:+inf:-inf:+inf:0:1
+Robbin:SCHENECTADY:-inf:+inf:-inf:+inf:0:2
+Mellisa:HIALEAH:-inf:+inf:-inf:+inf:0:2
+Fiorenze:HAWKINSVILLE:-inf:+inf:-inf:+inf:1:1
+Tim:DETROIT:-inf:+inf:-inf:+inf:0:0
+Smith:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:3
+Gherardo:PEORIA:-inf:+inf:-inf:+inf:0:1
+Linn:MIAMI:-inf:+inf:-inf:+inf:1:1
+Anneliese:FAIRFIELD:-inf:+inf:-inf:+inf:0:2
+Madalena:RIO PIEDRAS:-inf:+inf:-inf:+inf:1:2
+Virgilio:SIMI VALLEY:-inf:+inf:-inf:+inf:0:1
+Guglielma:PARKER:-inf:+inf:-inf:+inf:1:1
+Ly:HUDSON:-inf:+inf:-inf:+inf:1:2
+Vernice:LIBERAL:-inf:+inf:-inf:+inf:1:3
+Shermy:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+Dore:HYATTSVILLE:-inf:+inf:-inf:+inf:1:1
+Giustino:BOWLING GREEN:-inf:+inf:-inf:+inf:1:3
+Eduino:HOT SPRINGS:-inf:+inf:-inf:+inf:1:1
+Janine:OAK PARK:-inf:+inf:-inf:+inf:0:2
+Stanton:DECKERVILLE:-inf:+inf:-inf:+inf:1:3
+Yank:ALEXANDRIA:-inf:+inf:-inf:+inf:0:0
+Beatriz:YORK:-inf:+inf:-inf:+inf:1:3
+Dorise:FORT RILEY:-inf:+inf:-inf:+inf:1:2
+Vinnie:WOODBRIDGE:-inf:+inf:-inf:+inf:1:2
+Marabel:BETHLEHEM:-inf:+inf:-inf:+inf:0:2
+Ash:BUENA PARK:-inf:+inf:-inf:+inf:1:1
+Agnella:SAN BERNARDINO:-inf:+inf:-inf:+inf:0:0
+Peder:EDNA:-inf:+inf:-inf:+inf:0:1
+Bernette:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+Tatum:HOUSTON:-inf:+inf:-inf:+inf:0:1
+Mickey:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Kalinda:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Zachery:BRAINERD:-inf:+inf:-inf:+inf:0:2
+Prue:ALHAMBRA:-inf:+inf:-inf:+inf:0:1
+Eugenio:SOUTHFIELD:-inf:+inf:-inf:+inf:1:1
+Gardie:BIRMINGHAM:-inf:+inf:-inf:+inf:0:2
+Kit:FISHERS:-inf:+inf:-inf:+inf:0:0
+Ned:ELLICOTT CITY:-inf:+inf:-inf:+inf:0:1
+Cy:WHITE RIVER JUNCTION:-inf:+inf:-inf:+inf:0:1
+Bertram:MIAMI:-inf:+inf:-inf:+inf:1:1
+Rodi:BURKESVILLE:-inf:+inf:-inf:+inf:1:3
+Jill:TYRONE:-inf:+inf:-inf:+inf:1:1
+Miguela:PEORIA:-inf:+inf:-inf:+inf:0:0
+Karlik:HACKENSACK:-inf:+inf:-inf:+inf:1:1
+Teddy:BROOKLYN:-inf:+inf:-inf:+inf:0:1
+Jonis:MISHAWAKA:-inf:+inf:-inf:+inf:0:1
+Delcina:KAILUA:-inf:+inf:-inf:+inf:1:1
+Gayle:ELLENSBURG:-inf:+inf:-inf:+inf:0:0
+Bathsheba:WINSTON SALEM:-inf:+inf:-inf:+inf:0:1
+Mitzi:DECATUR:-inf:+inf:-inf:+inf:0:0
+Brigham:WOODVILLE:-inf:+inf:-inf:+inf:0:0
+Dwayne:BELFAST:-inf:+inf:-inf:+inf:0:1
+Aggy:SOLON:-inf:+inf:-inf:+inf:0:2
+Hoebart:BRANSON:-inf:+inf:-inf:+inf:0:0
+Jerry:PARAGOULD:-inf:+inf:-inf:+inf:0:2
+Fania:HOLLYWOOD:-inf:+inf:-inf:+inf:1:3
+Theo:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+Berke:RICHMOND:-inf:+inf:-inf:+inf:1:1
+Rozalie:BOSTON:-inf:+inf:-inf:+inf:0:0
+Oliviero:BOSTON:-inf:+inf:-inf:+inf:0:0
+Elvin:SUSQUEHANNA:-inf:+inf:-inf:+inf:0:0
+Durant:RUGBY:-inf:+inf:-inf:+inf:1:2
+Lonni:MEYERSDALE:-inf:+inf:-inf:+inf:1:3
+Gib:ANDERSON:-inf:+inf:-inf:+inf:0:0
+Simon:LAWTON:-inf:+inf:-inf:+inf:0:0
+Danni:BATON ROUGE:-inf:+inf:-inf:+inf:1:1
+Elsie:HUMBOLDT:-inf:+inf:-inf:+inf:0:1
+Elsie:HENDERSONVILLE:-inf:+inf:-inf:+inf:1:2
+Bethena:GOODING:-inf:+inf:-inf:+inf:0:2
+Garrek:HALLANDALE BEACH:-inf:+inf:-inf:+inf:0:0
+Evie:FLORENCE:-inf:+inf:-inf:+inf:0:1
+Erl:ANAMOSA:-inf:+inf:-inf:+inf:0:0
+Jaynell:NORWALK:-inf:+inf:-inf:+inf:1:3
+Abran:HIGHLANDS:-inf:+inf:-inf:+inf:1:3
+Eddie:MOUNT PLEASANT:-inf:+inf:-inf:+inf:1:2
+Mag:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+Damiano:MIAMI:-inf:+inf:-inf:+inf:1:1
+Charissa:TACOMA:-inf:+inf:-inf:+inf:1:3
+Phillis:LUFKIN:-inf:+inf:-inf:+inf:1:2
+Sean:HIALEAH:-inf:+inf:-inf:+inf:1:3
+Jenelle:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+Colleen:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:2
+Vivienne:MILWAUKEE:-inf:+inf:-inf:+inf:1:3
+Arvie:MIAMI:-inf:+inf:-inf:+inf:0:2
+Teodora:WAIANAE:-inf:+inf:-inf:+inf:0:2
+Fania:CISSNA PARK:-inf:+inf:-inf:+inf:0:0
+Cherie:GREENEVILLE:-inf:+inf:-inf:+inf:1:2
+Marv:ROYERSFORD:-inf:+inf:-inf:+inf:1:1
+Melanie:ATLANTA:-inf:+inf:-inf:+inf:0:1
+Bernie:BRANSON:-inf:+inf:-inf:+inf:0:1
+Elisa:SULPHUR SPRINGS:-inf:+inf:-inf:+inf:1:3
+Valencia:MADISON:-inf:+inf:-inf:+inf:0:2
+Fran:WEATHERFORD:-inf:+inf:-inf:+inf:1:2
+Regen:FULLERTON:-inf:+inf:-inf:+inf:1:1
+Jordanna:BRIGHAM CITY:-inf:+inf:-inf:+inf:1:3
+Cornall:KANSAS CITY:-inf:+inf:-inf:+inf:0:2
+Chrysler:YORK:-inf:+inf:-inf:+inf:0:1
+Alphard:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Hilliary:GREAT BEND:-inf:+inf:-inf:+inf:1:2
+Mariann:SAUK CENTRE:-inf:+inf:-inf:+inf:0:0
+Nathalie:VINCENNES:-inf:+inf:-inf:+inf:0:2
+Ahmad:BROOKLYN:-inf:+inf:-inf:+inf:0:1
+Verne:SALISBURY:-inf:+inf:-inf:+inf:0:2
+Sven:TROY:-inf:+inf:-inf:+inf:0:2
+Urbano:FORT WORTH:-inf:+inf:-inf:+inf:0:1
+Crawford:PAGO PAGO:-inf:+inf:-inf:+inf:0:0
+Salvidor:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+Ivor:HARLEYSVILLE:-inf:+inf:-inf:+inf:0:0
+Fredericka:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Britney:FORT SAM HOUSTON:-inf:+inf:-inf:+inf:0:0
+Gusty:PRESTONSBURG:-inf:+inf:-inf:+inf:0:0
+Rourke:AUBURN:-inf:+inf:-inf:+inf:1:3
+Kelby:READING:-inf:+inf:-inf:+inf:1:1
+Scott:PEORIA:-inf:+inf:-inf:+inf:0:2
+Karina:SAINT LOUIS:-inf:+inf:-inf:+inf:0:1
+Dean:EL CAMPO:-inf:+inf:-inf:+inf:1:3
+Linette:ATLANTA:-inf:+inf:-inf:+inf:1:1
+Ricard:MCALLEN:-inf:+inf:-inf:+inf:0:0
+Molli:DALLAS:-inf:+inf:-inf:+inf:0:2
+Boonie:HOUSTON:-inf:+inf:-inf:+inf:1:1
+Abdel:STATEN ISLAND:-inf:+inf:-inf:+inf:1:3
+Lewiss:DENVER:-inf:+inf:-inf:+inf:1:1
+Kaitlyn:BERKELEY:-inf:+inf:-inf:+inf:1:2
+Kurtis:ROUND LAKE BEACH:-inf:+inf:-inf:+inf:1:3
+Shane:OAK LAWN:-inf:+inf:-inf:+inf:1:3
+Maryrose:OXFORD:-inf:+inf:-inf:+inf:1:2
+Meara:LEWISTON:-inf:+inf:-inf:+inf:0:2
+Vin:ST PAUL:-inf:+inf:-inf:+inf:1:2
+Janis:KALISPELL:-inf:+inf:-inf:+inf:1:1
+Karalynn:EAST CHICAGO:-inf:+inf:-inf:+inf:0:1
+Emanuele:BRUNSWICK:-inf:+inf:-inf:+inf:0:2
+Prinz:SAN DIEGO:-inf:+inf:-inf:+inf:1:3
+Markos:RICHMOND:-inf:+inf:-inf:+inf:1:3
+Griswold:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Angy:NANTUCKET:-inf:+inf:-inf:+inf:0:0
+Euphemia:LOS ANGELES:-inf:+inf:-inf:+inf:1:2
+Arvin:ONEONTA:-inf:+inf:-inf:+inf:0:1
+Evangelina:NAGUABO:-inf:+inf:-inf:+inf:1:2
+Lucienne:WINNSBORO:-inf:+inf:-inf:+inf:1:1
+Evelyn:SACRAMENTO:-inf:+inf:-inf:+inf:0:1
+Brett:LAS CRUCES:-inf:+inf:-inf:+inf:0:0
+Marlane:WEST PALM BEACH:-inf:+inf:-inf:+inf:1:1
+Rose:PROVIDENCE:-inf:+inf:-inf:+inf:1:3
+Flem:HIALEAH GARDENS:-inf:+inf:-inf:+inf:0:1
+Demetris:BIRMINGHAM:-inf:+inf:-inf:+inf:1:2
+Hestia:BOSTON:-inf:+inf:-inf:+inf:1:3
+Dasi:OAKLAND:-inf:+inf:-inf:+inf:0:0
+Dionis:SOLDOTNA:-inf:+inf:-inf:+inf:0:2
+Abram:MISSOULA:-inf:+inf:-inf:+inf:0:1
+Dacie:LARGO:-inf:+inf:-inf:+inf:1:2
+Alexine:ATLANTA:-inf:+inf:-inf:+inf:0:1
+Susette:PLYMOUTH:-inf:+inf:-inf:+inf:1:1
+Floyd:ELKHART:-inf:+inf:-inf:+inf:0:1
+Clementia:VIVIAN:-inf:+inf:-inf:+inf:0:2
+Paddy:ZACHARY:-inf:+inf:-inf:+inf:0:2
+Moses:FT CARSON:-inf:+inf:-inf:+inf:0:1
+Cassie:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Denny:ELY:-inf:+inf:-inf:+inf:1:3
+Cornall:PARK RIDGE:-inf:+inf:-inf:+inf:0:2
+Berke:GREEN BAY:-inf:+inf:-inf:+inf:0:2
+Floris:CARROLLTON:-inf:+inf:-inf:+inf:0:2
+Talbot:ALBUQUERQUE:-inf:+inf:-inf:+inf:0:1
+Waylan:CHICAGO:-inf:+inf:-inf:+inf:0:1
+Noel:COLUMBUS:-inf:+inf:-inf:+inf:0:1
+Janeczka:ROTAN:-inf:+inf:-inf:+inf:0:2
+Beryle:SARANAC LAKE:-inf:+inf:-inf:+inf:1:1
+Lyndell:NEW MARTINSVILLE:-inf:+inf:-inf:+inf:1:1
+Raimundo:CHESTERFIELD:-inf:+inf:-inf:+inf:0:1
+Pepita:MENOMONEE FALLS:-inf:+inf:-inf:+inf:1:1
+Horatio:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Boycey:EL PASO:-inf:+inf:-inf:+inf:0:0
+Klemens:FORT MILL:-inf:+inf:-inf:+inf:0:0
+Tracie:PAEONIAN SPRINGS:-inf:+inf:-inf:+inf:0:2
+Matthew:PULLMAN:-inf:+inf:-inf:+inf:1:3
+Verine:FRESNO:-inf:+inf:-inf:+inf:0:1
+Shirley:ROCHESTER:-inf:+inf:-inf:+inf:0:0
+Auguste:YONKERS:-inf:+inf:-inf:+inf:0:0
+Ilario:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+Lek:AURORA:-inf:+inf:-inf:+inf:0:2
+Clea:VIRGINIA BEACH:-inf:+inf:-inf:+inf:0:1
+Tyne:MODESTO:-inf:+inf:-inf:+inf:0:0
+Ajay:SAN DIEGO:-inf:+inf:-inf:+inf:0:1
+Barrett:ALBUQUERQUE:-inf:+inf:-inf:+inf:1:3
+Lucien:JACKSBORO:-inf:+inf:-inf:+inf:1:3
+Lorne:WASHINGTON:-inf:+inf:-inf:+inf:1:3
+Ewell:PASADENA:-inf:+inf:-inf:+inf:0:2
+Phyllida:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Laughton:DORAL:-inf:+inf:-inf:+inf:0:0
+Lazare:MOREHEAD:-inf:+inf:-inf:+inf:0:2
+Bekki:BOWLING GREEN:-inf:+inf:-inf:+inf:1:2
+Ainsley:WINNSBORO:-inf:+inf:-inf:+inf:1:2
+Lewes:BERLIN:-inf:+inf:-inf:+inf:0:1
+Noelani:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+Bethina:MIAMI:-inf:+inf:-inf:+inf:0:2
+Osmund:PROVIDENCE:-inf:+inf:-inf:+inf:0:0
+Dimitry:MODESTO:-inf:+inf:-inf:+inf:0:1
+Wren:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Sibylla:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Shirlee:MEQUON:-inf:+inf:-inf:+inf:1:1
+Megan:FALL RIVER MILLS:-inf:+inf:-inf:+inf:0:0
+Brandy:CORPUS CHRISTI:-inf:+inf:-inf:+inf:0:2
+Virgina:RUSHVILLE:-inf:+inf:-inf:+inf:1:1
+Rana:MORENO VALLEY:-inf:+inf:-inf:+inf:0:0
+Demetra:HARRISBURG:-inf:+inf:-inf:+inf:0:2
+Phoebe:FORT CAMPBELL:-inf:+inf:-inf:+inf:0:2
+Ludwig:XENIA:-inf:+inf:-inf:+inf:0:2
+Shellie:KING CITY:-inf:+inf:-inf:+inf:1:2
+Maryl:APPLE CREEK:-inf:+inf:-inf:+inf:0:0
+Adrianna:EUCLID:-inf:+inf:-inf:+inf:1:2
+Fredi:WABASH:-inf:+inf:-inf:+inf:0:2
+Emelda:NAPLES:-inf:+inf:-inf:+inf:1:2
+Millisent:WILLOW SPRINGS:-inf:+inf:-inf:+inf:0:0
+Artemus:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Ermentrude:WINNIE:-inf:+inf:-inf:+inf:1:2
+Audre:HOUSTON:-inf:+inf:-inf:+inf:1:2
+Christoforo:GUNNISON:-inf:+inf:-inf:+inf:0:1
+Hanan:DALLAS:-inf:+inf:-inf:+inf:1:2
+Angelika:CLYDE:-inf:+inf:-inf:+inf:0:0
+Courtney:MANCHESTER:-inf:+inf:-inf:+inf:1:3
+Hillel:DORAL:-inf:+inf:-inf:+inf:0:0
+Valry:HOPKINSVILLE:-inf:+inf:-inf:+inf:1:2
+Loreen:BRIDGETON:-inf:+inf:-inf:+inf:0:2
+Bryana:OREGON CITY:-inf:+inf:-inf:+inf:1:1
+Tiphani:SAINT LOUIS:-inf:+inf:-inf:+inf:0:1
+Ardeen:LAFAYETTE:-inf:+inf:-inf:+inf:0:2
+Helaine:WILLOW SPRINGS:-inf:+inf:-inf:+inf:1:3
+Baron:NEWBURGH:-inf:+inf:-inf:+inf:1:2
+Frederico:ELMIRA:-inf:+inf:-inf:+inf:1:1
+Dougy:QUINCY:-inf:+inf:-inf:+inf:1:2
+Brianne:TEMPERANCE:-inf:+inf:-inf:+inf:0:1
+Shaun:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+Roarke:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+Emelita:RINCON:-inf:+inf:-inf:+inf:0:1
+Ramon:MELBOURNE:-inf:+inf:-inf:+inf:0:2
+Marin:FRIEND:-inf:+inf:-inf:+inf:1:1
+Shandra:NORFOLK:-inf:+inf:-inf:+inf:1:3
+Helyn:TEMPLE:-inf:+inf:-inf:+inf:0:1
+Calhoun:MIAMI:-inf:+inf:-inf:+inf:0:2
+Fields:ANACORTES:-inf:+inf:-inf:+inf:1:1
+Meryl:SPRUCE PINE:-inf:+inf:-inf:+inf:0:1
+Jarrod:SHREVEPORT:-inf:+inf:-inf:+inf:0:2
+Gizela:ROANOKE:-inf:+inf:-inf:+inf:0:0
+Edin:LANSING:-inf:+inf:-inf:+inf:1:3
+Cosimo:GRAFTON:-inf:+inf:-inf:+inf:1:2
+Kipp:UNION:-inf:+inf:-inf:+inf:1:1
+Rik:MORGANTOWN:-inf:+inf:-inf:+inf:0:1
+Fayette:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:2
+Rhetta:SUNNYSIDE:-inf:+inf:-inf:+inf:0:0
+Corissa:DYER:-inf:+inf:-inf:+inf:0:1
+Peggy:BARBOURVILLE:-inf:+inf:-inf:+inf:0:1
+Ky:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+Ossie:ROCKY RIVER:-inf:+inf:-inf:+inf:0:1
+Sabine:SANTA MONICA:-inf:+inf:-inf:+inf:1:1
+Darryl:PHOENIX:-inf:+inf:-inf:+inf:0:2
+Rosy:KALAMAZOO:-inf:+inf:-inf:+inf:1:3
+Ricca:EUREKA:-inf:+inf:-inf:+inf:1:2
+Janaye:HARLEYSVILLE:-inf:+inf:-inf:+inf:1:2
+Ursala:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Chaunce:FAYETTEVILLE:-inf:+inf:-inf:+inf:1:2
+Drusi:WOLFEBORO:-inf:+inf:-inf:+inf:0:1
+Barb:SUMMERSVILLE:-inf:+inf:-inf:+inf:1:1
+Eva:WILLIAMSTON:-inf:+inf:-inf:+inf:0:1
+Marsha:PIKEVILLE:-inf:+inf:-inf:+inf:1:3
+Barnabas:ANNAPOLIS:-inf:+inf:-inf:+inf:0:0
+Harri:RANKIN:-inf:+inf:-inf:+inf:0:1
+Shepherd:SYLVA:-inf:+inf:-inf:+inf:0:0
+Harper:KNOXVILLE:-inf:+inf:-inf:+inf:1:2
+Catharina:GUNTERSVILLE:-inf:+inf:-inf:+inf:0:0
+Tracey:READING:-inf:+inf:-inf:+inf:1:2
+Moria:SACRAMENTO:-inf:+inf:-inf:+inf:0:0
+Ellerey:PORT GIBSON:-inf:+inf:-inf:+inf:0:0
+Mart:LINTHICUM:-inf:+inf:-inf:+inf:1:1
+Marrissa:CHARLESTON:-inf:+inf:-inf:+inf:1:2
+Delmer:WALLA WALLA:-inf:+inf:-inf:+inf:1:3
+Rowena:BRIDGEPORT:-inf:+inf:-inf:+inf:1:2
+Cassey:BROOKLYN:-inf:+inf:-inf:+inf:0:0
+Torrin:MARION:-inf:+inf:-inf:+inf:0:2
+Dolph:MIRAMAR:-inf:+inf:-inf:+inf:0:0
+Cheri:DALLAS:-inf:+inf:-inf:+inf:1:2
+Ingmar:EASTON:-inf:+inf:-inf:+inf:0:1
+Karalynn:HOFFMAN ESTATES:-inf:+inf:-inf:+inf:0:2
+Petra:ODESSA:-inf:+inf:-inf:+inf:1:1
+Aidan:CYNTHIANA:-inf:+inf:-inf:+inf:1:2
+Savina:UPLAND:-inf:+inf:-inf:+inf:1:3
+Richy:SAN DIEGO:-inf:+inf:-inf:+inf:0:2
+Thibaud:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Lonnie:CAMDEN:-inf:+inf:-inf:+inf:0:0
+Dominik:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+Jaine:JENA:-inf:+inf:-inf:+inf:1:2
+Demeter:EAU CLAIRE:-inf:+inf:-inf:+inf:1:3
+Rickie:TYRONE:-inf:+inf:-inf:+inf:1:1
+Madella:MAUMEE:-inf:+inf:-inf:+inf:0:0
+Goldia:DETROIT:-inf:+inf:-inf:+inf:0:0
+Ludwig:MIAMI:-inf:+inf:-inf:+inf:0:2
+Karalee:MERRIAM:-inf:+inf:-inf:+inf:1:3
+Esma:WHEELING:-inf:+inf:-inf:+inf:1:2
+Gianna:GEORGE WEST:-inf:+inf:-inf:+inf:1:3
+Brewster:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+Darwin:KILMICHAEL:-inf:+inf:-inf:+inf:0:0
+Aristotle:KETTERING:-inf:+inf:-inf:+inf:1:3
+Taylor:WILLOW STREET:-inf:+inf:-inf:+inf:0:2
+Eddie:MARION:-inf:+inf:-inf:+inf:1:2
+Olivette:AUSTIN:-inf:+inf:-inf:+inf:1:3
+Norene:ETOWAH:-inf:+inf:-inf:+inf:1:3
+Euell:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Fulvia:JEFFERSON:-inf:+inf:-inf:+inf:0:0
+Candice:RADNOR:-inf:+inf:-inf:+inf:1:3
+Irv:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Erda:NORTH MIAMI:-inf:+inf:-inf:+inf:0:2
+Kamila:TAMPA:-inf:+inf:-inf:+inf:0:0
+Chloette:BURWELL:-inf:+inf:-inf:+inf:0:2
+Babs:EMERYVILLE:-inf:+inf:-inf:+inf:1:1
+Melamie:TULSA:-inf:+inf:-inf:+inf:0:1
+Beatrix:GILLETTE:-inf:+inf:-inf:+inf:1:2
+Vladimir:REPUBLIC:-inf:+inf:-inf:+inf:0:0
+Svend:WALNUT RIDGE:-inf:+inf:-inf:+inf:0:1
+Danika:LAWNDALE:-inf:+inf:-inf:+inf:0:1
+Preston:MISSION VIEJO:-inf:+inf:-inf:+inf:1:1
+Tybalt:MIAMI GARDENS:-inf:+inf:-inf:+inf:0:1
+Devlen:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+Sonny:HUNTINGBURG:-inf:+inf:-inf:+inf:0:2
+Timmie:MEADVILLE:-inf:+inf:-inf:+inf:1:3
+Madelaine:GRANGEVILLE:-inf:+inf:-inf:+inf:0:2
+Flora:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Darryl:CENTER LINE:-inf:+inf:-inf:+inf:0:2
+Libbi:JERSEY CITY:-inf:+inf:-inf:+inf:0:1
+Cesaro:BOYNTON BEACH:-inf:+inf:-inf:+inf:1:1
+Urbano:GREENSBURG:-inf:+inf:-inf:+inf:0:0
+Alaric:GREENWOOD:-inf:+inf:-inf:+inf:0:0
+Eden:WESTFIELD:-inf:+inf:-inf:+inf:0:1
+Bonnee:NEW YORK:-inf:+inf:-inf:+inf:0:2
+Bond:NASHVILLE:-inf:+inf:-inf:+inf:1:1
+Jerrie:JUPITER:-inf:+inf:-inf:+inf:1:2
+Gwendolin:BURKESVILLE:-inf:+inf:-inf:+inf:0:2
+Killian:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+Corbin:POTTSTOWN:-inf:+inf:-inf:+inf:0:2
+Wayland:UNIVERSITY HEIGHTS:-inf:+inf:-inf:+inf:1:3
+Culley:WILEY:-inf:+inf:-inf:+inf:1:1
+Ailyn:BRONX:-inf:+inf:-inf:+inf:0:2
+Caryl:MONTCLAIR:-inf:+inf:-inf:+inf:1:1
+Zola:TECUMSEH:-inf:+inf:-inf:+inf:1:3
+Emmeline:TOMBALL:-inf:+inf:-inf:+inf:1:2
+Delila:CINCINNATI:-inf:+inf:-inf:+inf:1:3
+Arty:ASHEVILLE:-inf:+inf:-inf:+inf:1:3
+Holden:SOUTHFIELD:-inf:+inf:-inf:+inf:0:1
+Keri:GLEN ROSE:-inf:+inf:-inf:+inf:1:1
+Jedidiah:NASHVILLE:-inf:+inf:-inf:+inf:0:2
+Zaria:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+Cirilo:PHOENIX:-inf:+inf:-inf:+inf:1:3
+Katrine:BURTON:-inf:+inf:-inf:+inf:1:1
+Gabriella:FORT SMITH:-inf:+inf:-inf:+inf:1:3
+Tybie:BATTLE MOUNTAIN:-inf:+inf:-inf:+inf:1:3
+Tara:PHOENIX:-inf:+inf:-inf:+inf:1:3
+Rickey:POTSDAM:-inf:+inf:-inf:+inf:1:3
+Arielle:FT RILEY:-inf:+inf:-inf:+inf:1:2
+Anita:STEUBENVILLE:-inf:+inf:-inf:+inf:0:0
+Denny:GRENADA:-inf:+inf:-inf:+inf:0:1
+Nicolina:KONAWA:-inf:+inf:-inf:+inf:1:1
+Colas:FRANKFORT:-inf:+inf:-inf:+inf:0:0
+Gertrudis:CANTON:-inf:+inf:-inf:+inf:0:2
+Reider:DETROIT:-inf:+inf:-inf:+inf:0:0
+Ravi:CROSSVILLE:-inf:+inf:-inf:+inf:0:2
+Brannon:FORT RILEY:-inf:+inf:-inf:+inf:0:2
+Aliza:WEBSTER SPRINGS:-inf:+inf:-inf:+inf:0:1
+Hurley:WESTMINSTER:-inf:+inf:-inf:+inf:1:3
+Jilleen:WEST HAVERSTRAW:-inf:+inf:-inf:+inf:1:1
+Joshua:MUENSTER:-inf:+inf:-inf:+inf:1:1
+Berkie:ANGLETON:-inf:+inf:-inf:+inf:0:1
+Clive:MELVILLE:-inf:+inf:-inf:+inf:1:3
+Cam:ASHLAND:-inf:+inf:-inf:+inf:1:1
+Paulina:SCOTTSDALE:-inf:+inf:-inf:+inf:0:0
+Kaye:DREXEL HILL:-inf:+inf:-inf:+inf:1:3
+Catlin:SHREVEPORT:-inf:+inf:-inf:+inf:0:0
+Danya:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:2
+Claribel:LA PORTE:-inf:+inf:-inf:+inf:0:2
+George:INDEPENDENCE:-inf:+inf:-inf:+inf:0:1
+Jaquelin:YONKERS:-inf:+inf:-inf:+inf:1:1
+Paton:BAKERSFIELD:-inf:+inf:-inf:+inf:0:0
+Amble:CHICAGO:-inf:+inf:-inf:+inf:1:1
+Elicia:WATERTOWN:-inf:+inf:-inf:+inf:0:0
+Gerhardine:WESTMINSTER:-inf:+inf:-inf:+inf:1:2
+Ivory:GRAND MARAIS:-inf:+inf:-inf:+inf:0:2
+Knox:NEW MARTINSVILLE:-inf:+inf:-inf:+inf:0:0
+Jaimie:JACKSBORO:-inf:+inf:-inf:+inf:1:2
+Lucille:GILLETTE:-inf:+inf:-inf:+inf:1:3
+Donnie:EASTON:-inf:+inf:-inf:+inf:0:2
+Rania:SAN BERNARDINO:-inf:+inf:-inf:+inf:1:1
+Dona:COUNCIL GROVE:-inf:+inf:-inf:+inf:1:3
+Tatiana:SWAINSBORO:-inf:+inf:-inf:+inf:1:2
+Grace:MIRAMAR:-inf:+inf:-inf:+inf:0:1
+Jasun:PARKER:-inf:+inf:-inf:+inf:0:1
+Egor:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+Ranee:BRONX:-inf:+inf:-inf:+inf:1:3
+Evelyn:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+Karole:MANHASSET:-inf:+inf:-inf:+inf:1:2
+Tommy:MURRAY:-inf:+inf:-inf:+inf:1:1
+Demott:FORT BRAGG:-inf:+inf:-inf:+inf:1:3
+Westleigh:PHILADELPHIA:-inf:+inf:-inf:+inf:1:1
+Devonne:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:0
+Glenna:TAYLORVILLE:-inf:+inf:-inf:+inf:1:3
+Dion:ELKIN:-inf:+inf:-inf:+inf:1:2
+Karoly:PUTNAM:-inf:+inf:-inf:+inf:0:2
+Theodora:NEW YORK:-inf:+inf:-inf:+inf:1:2
+Ernest:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+Stephan:BIRMINGHAM:-inf:+inf:-inf:+inf:1:2
+Sigismundo:LEBANON:-inf:+inf:-inf:+inf:0:0
+Genna:KALAMAZOO:-inf:+inf:-inf:+inf:0:0
+Dave:BRONX:-inf:+inf:-inf:+inf:0:2
+Mariquilla:MARSHFIELD:-inf:+inf:-inf:+inf:0:2
+Neely:WINNIE:-inf:+inf:-inf:+inf:1:1
+Marcelline:LAS CRUCES:-inf:+inf:-inf:+inf:0:2
+Haywood:OMAHA:-inf:+inf:-inf:+inf:1:1
+Ulla:WELLINGTON:-inf:+inf:-inf:+inf:0:1
+Jessica:WASHINGTON:-inf:+inf:-inf:+inf:1:2
+Jannel:WILLISTON:-inf:+inf:-inf:+inf:0:1
+Esmeralda:WICHITA FALLS:-inf:+inf:-inf:+inf:1:2
+Heinrick:HARRODSBURG:-inf:+inf:-inf:+inf:0:0
+Agna:DU BOIS:-inf:+inf:-inf:+inf:1:2
+Jocelyn:KINGWOOD:-inf:+inf:-inf:+inf:0:1
+Cyrill:CANTON:-inf:+inf:-inf:+inf:0:0
+Adamo:KEYSER:-inf:+inf:-inf:+inf:0:1
+Gaylor:MIAMI:-inf:+inf:-inf:+inf:0:0
+Griswold:GOLDSBORO:-inf:+inf:-inf:+inf:0:1
+Josiah:MONONGAHELA:-inf:+inf:-inf:+inf:0:1
+Etienne:SCHENECTADY:-inf:+inf:-inf:+inf:0:2
+Ray:DRUMRIGHT:-inf:+inf:-inf:+inf:0:1
+Desirae:SAN JUAN:-inf:+inf:-inf:+inf:0:2
+Ruy:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+Shirley:WEST PALM BEACH:-inf:+inf:-inf:+inf:1:2
+Win:KALISPELL:-inf:+inf:-inf:+inf:0:2
+Marne:BOONE:-inf:+inf:-inf:+inf:0:1
+Brannon:MILWAUKEE:-inf:+inf:-inf:+inf:0:2
+Rosalia:SAN ANGELO:-inf:+inf:-inf:+inf:0:2
+Dre:COLUMBUS:-inf:+inf:-inf:+inf:0:2
+Martita:SAN DIEGO:-inf:+inf:-inf:+inf:0:2
+Ban:HUDSON:-inf:+inf:-inf:+inf:0:1
+Letti:BREWSTER:-inf:+inf:-inf:+inf:1:3
+Nowell:GREENWOOD:-inf:+inf:-inf:+inf:0:0
+Vidovik:SNOWFLAKE:-inf:+inf:-inf:+inf:0:0
+Jamie:FT WORTH:-inf:+inf:-inf:+inf:1:1
+Leanna:CROSBYTON:-inf:+inf:-inf:+inf:0:0
+Rodolph:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Kirby:WABASH:-inf:+inf:-inf:+inf:0:2
+Leela:GUTTENBERG:-inf:+inf:-inf:+inf:1:2
+Tobiah:BROOKFIELD:-inf:+inf:-inf:+inf:1:2
+Brooks:BROCKTON:-inf:+inf:-inf:+inf:0:2
+Tally:KALISPELL:-inf:+inf:-inf:+inf:1:1
+Christophorus:HOUSTON:-inf:+inf:-inf:+inf:0:0
+Maye:LOS ANGELES:-inf:+inf:-inf:+inf:0:1
+Roxane:WORCESTER:-inf:+inf:-inf:+inf:1:3
+Patricio:RIVERSIDE:-inf:+inf:-inf:+inf:1:3
+Keefer:FORT SILL:-inf:+inf:-inf:+inf:0:1
+Guenevere:LAS VEGAS:-inf:+inf:-inf:+inf:0:1
+Lorrie:RIVER FOREST:-inf:+inf:-inf:+inf:1:2
+Cornela:ORLANDO:-inf:+inf:-inf:+inf:0:0
+Rawley:ROANOKE:-inf:+inf:-inf:+inf:1:3
+Jandy:CAROL STREAM:-inf:+inf:-inf:+inf:1:1
+Alix:GERMANTOWN:-inf:+inf:-inf:+inf:0:1
+Sandor:ATLANTA:-inf:+inf:-inf:+inf:1:2
+Mei:BATON ROUGE:-inf:+inf:-inf:+inf:1:3
+Berty:URBANA:-inf:+inf:-inf:+inf:1:3
+Lou:ATLANTA:-inf:+inf:-inf:+inf:1:2
+Herb:BELLAIRE:-inf:+inf:-inf:+inf:1:3
+Osbourne:RIO RANCHO:-inf:+inf:-inf:+inf:1:1
+Shir:MANCHESTER:-inf:+inf:-inf:+inf:0:1
+Julianne:CORPUS CHRISTI:-inf:+inf:-inf:+inf:1:1
+Rudy:MIAMI:-inf:+inf:-inf:+inf:1:1
+Che:LITTLETON:-inf:+inf:-inf:+inf:1:3
+Jo:KILLEEN:-inf:+inf:-inf:+inf:0:2
+Emelyne:MIAMI:-inf:+inf:-inf:+inf:0:1
+Betty:WESTCHESTER:-inf:+inf:-inf:+inf:0:0
+Odette:LAKELAND:-inf:+inf:-inf:+inf:1:1
+Merilee:EVERGREEN PARK:-inf:+inf:-inf:+inf:0:1
+Hewie:MOUNTAIN VIEW:-inf:+inf:-inf:+inf:0:1
+Jacquenetta:ROLLA:-inf:+inf:-inf:+inf:1:3
+Mozes:PITTSBURGH:-inf:+inf:-inf:+inf:0:0
+Floris:HINESVILLE:-inf:+inf:-inf:+inf:0:0
+Louisette:HIALEAH:-inf:+inf:-inf:+inf:1:1
+Sarajane:WAILUKU:-inf:+inf:-inf:+inf:0:1
+Jecho:JEROME:-inf:+inf:-inf:+inf:0:0
+Kata:DALLAS:-inf:+inf:-inf:+inf:0:2
+Domeniga:LADY LAKE:-inf:+inf:-inf:+inf:1:3
+Zandra:SEARCY:-inf:+inf:-inf:+inf:0:0
+Isacco:EAST LIVERPOOL:-inf:+inf:-inf:+inf:0:0
+Steve:NORMAN:-inf:+inf:-inf:+inf:0:1
+Loraine:SEDALIA:-inf:+inf:-inf:+inf:1:2
+Duke:CORPUS CHRISTI:-inf:+inf:-inf:+inf:0:0
+Ferguson:COLUMBUS:-inf:+inf:-inf:+inf:1:3
+Rochester:CULLMAN:-inf:+inf:-inf:+inf:1:1
+Hersh:BRENTWOOD:-inf:+inf:-inf:+inf:0:2
+Berny:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Emmalynn:HANNIBAL:-inf:+inf:-inf:+inf:0:2
+Nixie:HUNTSVILLE:-inf:+inf:-inf:+inf:0:0
+Wilmar:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:0:1
+Chaddy:MUNSTER:-inf:+inf:-inf:+inf:1:1
+Zachary:BOONE:-inf:+inf:-inf:+inf:1:3
+Lu:FORT WORTH:-inf:+inf:-inf:+inf:0:2
+Donovan:LAWTON:-inf:+inf:-inf:+inf:1:1
+Evelin:MECHANICSBURG:-inf:+inf:-inf:+inf:1:3
+Lilyan:FPO:-inf:+inf:-inf:+inf:1:2
+Cicely:MIDLAND:-inf:+inf:-inf:+inf:0:0
+Jarad:KONAWA:-inf:+inf:-inf:+inf:0:2
+Evita:HILLSIDE:-inf:+inf:-inf:+inf:0:1
+Justis:MOUNTAIN VIEW:-inf:+inf:-inf:+inf:1:2
+Biddie:WEST PALM BEACH:-inf:+inf:-inf:+inf:0:2
+Deonne:FORT LAUDERDALE:-inf:+inf:-inf:+inf:1:1
+Filia:HIGH SPRINGS:-inf:+inf:-inf:+inf:0:0
+Lance:PATCHOGUE:-inf:+inf:-inf:+inf:0:0
+Rad:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+Llywellyn:RICHMOND:-inf:+inf:-inf:+inf:0:0
+Ketti:MACOMB:-inf:+inf:-inf:+inf:0:1
+Cayla:KALISPELL:-inf:+inf:-inf:+inf:0:0
+Mozelle:FORT WAYNE:-inf:+inf:-inf:+inf:0:1
+Brice:JASPER:-inf:+inf:-inf:+inf:1:1
+Maxie:EAU CLAIRE:-inf:+inf:-inf:+inf:1:1
+Marybeth:LOUISVILLE:-inf:+inf:-inf:+inf:0:0
+Lorilee:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+Frans:CHATTANOOGA:-inf:+inf:-inf:+inf:1:1
+Bernadette:SAULT SAINTE MARIE:-inf:+inf:-inf:+inf:1:2
+Sadella:DALLAS:-inf:+inf:-inf:+inf:0:0
+Marcelline:NEODESHA:-inf:+inf:-inf:+inf:1:2
+Lauren:WASHINGTON:-inf:+inf:-inf:+inf:0:2
+Elita:PERRYVILLE:-inf:+inf:-inf:+inf:1:1
+Sheila-kathryn:MECHANICSBURG:-inf:+inf:-inf:+inf:1:1
+Eimile:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Barde:NEW BRUNSWICK:-inf:+inf:-inf:+inf:0:1
+Martainn:FORT WORTH:-inf:+inf:-inf:+inf:1:2
+Edward:WICKENBURG:-inf:+inf:-inf:+inf:0:1
+Courtnay:NORTH HILLS:-inf:+inf:-inf:+inf:1:3
+Sher:LAURINBURG:-inf:+inf:-inf:+inf:1:2
+Elaine:WOODSTOCK:-inf:+inf:-inf:+inf:0:1
+Idalia:KANSAS CITY:-inf:+inf:-inf:+inf:0:2
+Devora:PASADENA:-inf:+inf:-inf:+inf:1:1
+Megan:DETROIT:-inf:+inf:-inf:+inf:1:1
+Clay:NORMAL:-inf:+inf:-inf:+inf:0:1
+Cherri:HARLINGEN:-inf:+inf:-inf:+inf:1:1
+Joela:BROOKLYN:-inf:+inf:-inf:+inf:1:1
+Jessalyn:MORRISVILLE:-inf:+inf:-inf:+inf:0:0
+Tam:PEORIA:-inf:+inf:-inf:+inf:0:1
+Zollie:SNYDER:-inf:+inf:-inf:+inf:0:1
+Salomi:KEWANEE:-inf:+inf:-inf:+inf:1:2
+Rosy:RANCHO MIRAGE:-inf:+inf:-inf:+inf:0:1
+Orlando:LAYTON:-inf:+inf:-inf:+inf:1:2
+Gibb:KILLINGWORTH:-inf:+inf:-inf:+inf:0:1
+Cherey:BOISE:-inf:+inf:-inf:+inf:0:2
+Jakob:FLAGSTAFF:-inf:+inf:-inf:+inf:0:2
+Kristi:WATERFORD:-inf:+inf:-inf:+inf:1:1
+Reidar:BLUEFIELD:-inf:+inf:-inf:+inf:1:2
+Elsa:GLEN BURNIE:-inf:+inf:-inf:+inf:0:1
+Bernie:SARANAC LAKE:-inf:+inf:-inf:+inf:1:3
+Joshua:MIAMI:-inf:+inf:-inf:+inf:0:2
+Jonathan:CADILLAC:-inf:+inf:-inf:+inf:0:2
+Morey:HAWKINSVILLE:-inf:+inf:-inf:+inf:1:2
+Atalanta:JACKSONVILLE:-inf:+inf:-inf:+inf:0:1
+Judye:CORYDON:-inf:+inf:-inf:+inf:0:0
+Nat:MIAMI:-inf:+inf:-inf:+inf:0:1
+Davis:ROCHESTER HILLS:-inf:+inf:-inf:+inf:1:1
+Cathee:PETERSBURG:-inf:+inf:-inf:+inf:0:2
+Tomasine:WAUPUN:-inf:+inf:-inf:+inf:1:2
+Teresita:HONOLULU:-inf:+inf:-inf:+inf:1:3
+Kristos:LIVONIA:-inf:+inf:-inf:+inf:0:0
+Waylan:BOSTON:-inf:+inf:-inf:+inf:1:2
+Reba:PONCE:-inf:+inf:-inf:+inf:0:1
+Carmella:GLEN DALE:-inf:+inf:-inf:+inf:0:0
+Cyrill:HAWKINSVILLE:-inf:+inf:-inf:+inf:1:3
+Rob:SAN JUAN:-inf:+inf:-inf:+inf:0:1
+Amos:ESTES PARK:-inf:+inf:-inf:+inf:0:2
+Felicia:HARTFORD:-inf:+inf:-inf:+inf:0:2
+Teodoor:GREENFIELD:-inf:+inf:-inf:+inf:0:1
+Delbert:YONKERS:-inf:+inf:-inf:+inf:1:3
+Idette:MIAMI:-inf:+inf:-inf:+inf:0:1
+Dominique:GREEN BAY:-inf:+inf:-inf:+inf:0:0
+Innis:BASTROP:-inf:+inf:-inf:+inf:0:1
+Retha:HOMER:-inf:+inf:-inf:+inf:0:1
+Jesus:PECOS:-inf:+inf:-inf:+inf:1:1
+Stephi:LAWTON:-inf:+inf:-inf:+inf:1:2
+Suzie:SHERMAN:-inf:+inf:-inf:+inf:1:3
+Peirce:WESTMINSTER:-inf:+inf:-inf:+inf:0:2
+Rebecka:CAROL STREAM:-inf:+inf:-inf:+inf:1:3
+Lynette:PHILADELPHIA:-inf:+inf:-inf:+inf:0:0
+Augustine:FORT HOOD:-inf:+inf:-inf:+inf:0:1
+Westbrooke:FRANKLIN:-inf:+inf:-inf:+inf:1:2
+Brianna:DALLAS:-inf:+inf:-inf:+inf:0:1
+Rory:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Amby:RIVERSIDE:-inf:+inf:-inf:+inf:0:1
+Chrissy:BROOKFIELD:-inf:+inf:-inf:+inf:0:1
+Elsinore:BURR RIDGE:-inf:+inf:-inf:+inf:1:2
+Elberta:BRENTWOOD:-inf:+inf:-inf:+inf:1:1
+Alexine:STONE MOUNTAIN:-inf:+inf:-inf:+inf:1:3
+Xavier:NEW YORK:-inf:+inf:-inf:+inf:0:1
+Cristy:VILLE PLATTE:-inf:+inf:-inf:+inf:0:2
+Connor:COLORADO SPRINGS:-inf:+inf:-inf:+inf:0:2
+Waverley:MINNEAPOLIS:-inf:+inf:-inf:+inf:1:2
+Windham:COLUMBUS:-inf:+inf:-inf:+inf:0:2
+Leda:ATKINSON:-inf:+inf:-inf:+inf:1:1
+Lorain:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+Ross:DALLAS:-inf:+inf:-inf:+inf:0:1
+Billy:LITTLETON:-inf:+inf:-inf:+inf:0:1
+Stacee:READING:-inf:+inf:-inf:+inf:0:1
+Farleigh:TAMPA:-inf:+inf:-inf:+inf:1:2
+Orton:SUN CITY CENTER:-inf:+inf:-inf:+inf:0:2
+Brantley:FRANKLIN:-inf:+inf:-inf:+inf:1:3
+Whit:KINGSTREE:-inf:+inf:-inf:+inf:0:0
+Jackquelin:CHICAGO:-inf:+inf:-inf:+inf:0:1
+Kristo:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:0
+Oby:DOWNEY:-inf:+inf:-inf:+inf:0:1
+Abbe:CHARLESTON:-inf:+inf:-inf:+inf:1:1
+Prentiss:GURNEE:-inf:+inf:-inf:+inf:1:3
+Kenny:URBANA:-inf:+inf:-inf:+inf:1:2
+Richardo:PROVIDENCE:-inf:+inf:-inf:+inf:1:2
+Conant:HENRYETTA:-inf:+inf:-inf:+inf:0:0
+Juline:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+Errol:HARRISBURG:-inf:+inf:-inf:+inf:1:3
+Jud:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+Therese:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Marthe:PROVIDENCE:-inf:+inf:-inf:+inf:1:2
+Willis:THOMASVILLE:-inf:+inf:-inf:+inf:0:1
+Cosimo:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+Rey:FORT MILL:-inf:+inf:-inf:+inf:0:1
+Constantine:WAIANAE:-inf:+inf:-inf:+inf:0:1
+Luther:HIAWATHA:-inf:+inf:-inf:+inf:1:2
+Cordell:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+Washington:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+Husein:DIXON:-inf:+inf:-inf:+inf:1:3
+Terrill:HAMPTON:-inf:+inf:-inf:+inf:0:1
+Jedediah:OLYMPIA:-inf:+inf:-inf:+inf:0:2
+Rem:TEMPERANCE:-inf:+inf:-inf:+inf:0:2
+Jessalyn:BROWNING:-inf:+inf:-inf:+inf:1:2
+Doloritas:LAS VEGAS:-inf:+inf:-inf:+inf:1:1
+Freida:ST JOHNSBURY:-inf:+inf:-inf:+inf:0:0
+Magdalen:DU BOIS:-inf:+inf:-inf:+inf:1:1
+Korney:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Marie-jeanne:CLEVELAND:-inf:+inf:-inf:+inf:0:0
+Monique:DORADO:-inf:+inf:-inf:+inf:0:1
+Mathian:LEWISTON:-inf:+inf:-inf:+inf:1:1
+Dunn:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Lorianne:MILWAUKEE:-inf:+inf:-inf:+inf:1:3
+Tommi:HUNTINGTON PARK:-inf:+inf:-inf:+inf:0:0
+Belle:BALTIMORE:-inf:+inf:-inf:+inf:0:2
+Grove:BILOXI:-inf:+inf:-inf:+inf:1:2
+Collette:BIRMINGHAM:-inf:+inf:-inf:+inf:1:3
+Marielle:MEMPHIS:-inf:+inf:-inf:+inf:1:2
+Alena:MECHANICSBURG:-inf:+inf:-inf:+inf:0:0
+Richmond:FAIRFAX:-inf:+inf:-inf:+inf:1:1
+Auberta:NORMAN:-inf:+inf:-inf:+inf:0:0
+Lay:UNION:-inf:+inf:-inf:+inf:1:1
+Gladys:VALRICO:-inf:+inf:-inf:+inf:0:1
+Joya:OXFORD:-inf:+inf:-inf:+inf:1:2
+Lois:CARY:-inf:+inf:-inf:+inf:0:0
+Arlyn:TYRONE:-inf:+inf:-inf:+inf:0:2
+Amii:WILLOW GROVE:-inf:+inf:-inf:+inf:1:2
+Kaylil:NAPLES:-inf:+inf:-inf:+inf:1:2
+Frederic:TROY:-inf:+inf:-inf:+inf:0:1
+Darius:SEBASTIAN:-inf:+inf:-inf:+inf:0:1
+Granville:COLEMAN:-inf:+inf:-inf:+inf:0:1
+Maible:MOULTRIE:-inf:+inf:-inf:+inf:1:1
+Nancey:PHOENIX:-inf:+inf:-inf:+inf:1:3
+Fletcher:LUMBERTON:-inf:+inf:-inf:+inf:0:2
+Paulo:LAURINBURG:-inf:+inf:-inf:+inf:0:0
+Nicki:POMONA:-inf:+inf:-inf:+inf:1:1
+Nannette:NEW YORK:-inf:+inf:-inf:+inf:0:1
+Ludovika:JOLIET:-inf:+inf:-inf:+inf:0:0
+Robin:CARTHAGE:-inf:+inf:-inf:+inf:0:0
+Gary:SELMA:-inf:+inf:-inf:+inf:0:2
+Lucinda:SWEETWATER:-inf:+inf:-inf:+inf:1:3
+Oriana:COLUMBIA:-inf:+inf:-inf:+inf:1:1
+Cosimo:RICHMOND:-inf:+inf:-inf:+inf:0:0
+Olivette:SEATTLE:-inf:+inf:-inf:+inf:1:2
+Derwin:BATON ROUGE:-inf:+inf:-inf:+inf:0:2
+Wrennie:DAPHNE:-inf:+inf:-inf:+inf:1:2
+Rurik:DALLAS:-inf:+inf:-inf:+inf:0:0
+Tamar:RICHMOND:-inf:+inf:-inf:+inf:0:2
+Jerrold:BERLIN:-inf:+inf:-inf:+inf:1:2
+Faustina:KENNEWICK:-inf:+inf:-inf:+inf:0:2
+Uri:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+Paxton:ACKERMAN:-inf:+inf:-inf:+inf:1:1
+Rhona:MIAMI:-inf:+inf:-inf:+inf:0:0
+Phillie:FARMINGTON:-inf:+inf:-inf:+inf:0:2
+Horacio:TRUTH OR CONSEQUENCES:-inf:+inf:-inf:+inf:0:2
+Agnese:MOBRIDGE:-inf:+inf:-inf:+inf:1:1
+Bronnie:DALLAS:-inf:+inf:-inf:+inf:1:2
+Farrel:MORRISTOWN:-inf:+inf:-inf:+inf:1:3
+Emmie:SYKESVILLE:-inf:+inf:-inf:+inf:0:1
+Juliette:NORTH MIAMI:-inf:+inf:-inf:+inf:0:2
+Dario:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:0
+Lyndsay:CHIPPEWA FALLS:-inf:+inf:-inf:+inf:1:2
+Felizio:CRAWFORDSVILLE:-inf:+inf:-inf:+inf:1:1
+Selby:RIVERSIDE:-inf:+inf:-inf:+inf:1:1
+Audi:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Dani:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Lanny:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+Emilee:JUPITER:-inf:+inf:-inf:+inf:1:1
+Nikita:MIAMI:-inf:+inf:-inf:+inf:0:1
+Jerrylee:NEW CASTLE:-inf:+inf:-inf:+inf:0:1
+Thelma:RENO:-inf:+inf:-inf:+inf:0:2
+Talbert:TROY:-inf:+inf:-inf:+inf:1:1
+Raddie:WASHINGTON:-inf:+inf:-inf:+inf:1:3
+Enriqueta:LEBANON:-inf:+inf:-inf:+inf:1:2
+Meris:NEENAH:-inf:+inf:-inf:+inf:0:1
+Philomena:WARREN:-inf:+inf:-inf:+inf:1:1
+Barbie:DETROIT:-inf:+inf:-inf:+inf:0:1
+Ferris:CARBONDALE:-inf:+inf:-inf:+inf:1:3
+Shena:DECATUR:-inf:+inf:-inf:+inf:1:2
+Egan:STERLING HEIGHTS:-inf:+inf:-inf:+inf:0:0
+John:LAGRANGE:-inf:+inf:-inf:+inf:1:3
+Jacques:NASHVILLE:-inf:+inf:-inf:+inf:1:3
+Zara:GREENWOOD:-inf:+inf:-inf:+inf:1:2
+Roxy:CHAMBERSBURG:-inf:+inf:-inf:+inf:1:2
+Betti:JAMAICA:-inf:+inf:-inf:+inf:0:0
+Nikkie:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+Moss:WALSENBURG:-inf:+inf:-inf:+inf:0:2
+Kendricks:LINTON:-inf:+inf:-inf:+inf:0:2
+Karole:WACONIA:-inf:+inf:-inf:+inf:0:0
+Cassi:EL PASO:-inf:+inf:-inf:+inf:1:1
+Crichton:ALLENTOWN:-inf:+inf:-inf:+inf:0:2
+Dion:MIAMI:-inf:+inf:-inf:+inf:1:1
+Clyde:WOODS CROSS:-inf:+inf:-inf:+inf:0:1
+Cad:MADERA:-inf:+inf:-inf:+inf:1:2
+Heall:PALO ALTO:-inf:+inf:-inf:+inf:0:2
+Riki:LONGVIEW:-inf:+inf:-inf:+inf:1:1
+Rodger:JONESBOROUGH:-inf:+inf:-inf:+inf:0:2
+Napoleon:OCALA:-inf:+inf:-inf:+inf:1:3
+Mag:BOWIE:-inf:+inf:-inf:+inf:0:1
+Demott:COUDERSPORT:-inf:+inf:-inf:+inf:1:3
+Andrey:NORTHFIELD:-inf:+inf:-inf:+inf:1:3
+Hirsch:IOWA CITY:-inf:+inf:-inf:+inf:0:2
+Stefano:CORVALLIS:-inf:+inf:-inf:+inf:0:0
+Lauretta:SUGAR LAND:-inf:+inf:-inf:+inf:1:3
+Cassandry:HOUSTON:-inf:+inf:-inf:+inf:0:0
+Sibylle:THOMASVILLE:-inf:+inf:-inf:+inf:0:2
+Ephrayim:PHILADELPHIA:-inf:+inf:-inf:+inf:1:1
+Madelina:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Quincy:LOMBARD:-inf:+inf:-inf:+inf:0:0
+Xever:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:1
+Gilbert:PERHAM:-inf:+inf:-inf:+inf:1:3
+Vidovic:POTOSI:-inf:+inf:-inf:+inf:1:1
+Iggy:GLENDALE:-inf:+inf:-inf:+inf:0:0
+Randell:FREMONT:-inf:+inf:-inf:+inf:1:3
+Moss:AVENTURA:-inf:+inf:-inf:+inf:0:0
+Chelsey:OWENSBORO:-inf:+inf:-inf:+inf:0:2
+Brigham:HONOLULU:-inf:+inf:-inf:+inf:0:2
+Marline:TOMAH:-inf:+inf:-inf:+inf:0:0
+Hasty:STONY BROOK:-inf:+inf:-inf:+inf:0:1
+Rochelle:NOKOMIS:-inf:+inf:-inf:+inf:0:1
+Randolf:NEW YORK:-inf:+inf:-inf:+inf:0:1
+Mandy:EAST STROUDSBURG:-inf:+inf:-inf:+inf:1:3
+Myer:LEESBURG:-inf:+inf:-inf:+inf:0:1
+Caron:WELLS:-inf:+inf:-inf:+inf:0:2
+Nicholas:MIAMI GARDENS:-inf:+inf:-inf:+inf:0:0
+Fan:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:2
+Luz:LOS ANGELES:-inf:+inf:-inf:+inf:1:1
+Mehetabel:MADISON:-inf:+inf:-inf:+inf:1:1
+Ede:LONGWOOD:-inf:+inf:-inf:+inf:1:2
+Nicole:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Rodolfo:THOMASVILLE:-inf:+inf:-inf:+inf:1:1
+Jourdain:PHILADELPHIA:-inf:+inf:-inf:+inf:1:2
+Verge:SAVANNAH:-inf:+inf:-inf:+inf:0:1
+Sonia:BIRMINGHAM:-inf:+inf:-inf:+inf:0:1
+Corey:MYRTLE BEACH:-inf:+inf:-inf:+inf:0:2
+Milzie:RALEIGH:-inf:+inf:-inf:+inf:0:2
+Lind:RIPLEY:-inf:+inf:-inf:+inf:0:0
+Lottie:POMPANO BEACH:-inf:+inf:-inf:+inf:1:2
+Austine:NEWCASTLE:-inf:+inf:-inf:+inf:1:2
+Janna:CORYDON:-inf:+inf:-inf:+inf:0:2
+Hillary:SAINT LOUIS:-inf:+inf:-inf:+inf:0:1
+Gustaf:NASHVILLE:-inf:+inf:-inf:+inf:0:2
+Kylie:LOMPOC:-inf:+inf:-inf:+inf:0:2
+King:CARTHAGE:-inf:+inf:-inf:+inf:0:0
+Ashbey:NOCONA:-inf:+inf:-inf:+inf:1:2
+Kerianne:KALISPELL:-inf:+inf:-inf:+inf:1:1
+Geri:ALLENTOWN:-inf:+inf:-inf:+inf:1:1
+Bernice:HARTFORD:-inf:+inf:-inf:+inf:1:1
+Fair:SPRINGFIELD:-inf:+inf:-inf:+inf:1:2
+Ray:NORTH MIAMI:-inf:+inf:-inf:+inf:1:3
+Herold:WEST POINT:-inf:+inf:-inf:+inf:1:3
+Niki:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:0:1
+Horacio:STOCKTON:-inf:+inf:-inf:+inf:1:2
+Livy:LAS VEGAS:-inf:+inf:-inf:+inf:0:0
+Benedikta:FARMINGTON HILLS:-inf:+inf:-inf:+inf:0:0
+Amory:FT WORTH:-inf:+inf:-inf:+inf:1:3
+Emera:CHICAGO:-inf:+inf:-inf:+inf:1:1
+Toddie:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Fayette:AVENTURA:-inf:+inf:-inf:+inf:1:1
+Marlowe:OAKLAND:-inf:+inf:-inf:+inf:0:2
+Alana:BURKESVILLE:-inf:+inf:-inf:+inf:1:1
+Selinda:MARION:-inf:+inf:-inf:+inf:1:3
+Durante:ASHLAND:-inf:+inf:-inf:+inf:0:1
+Marylinda:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Hodge:PUNXSUTAWNEY:-inf:+inf:-inf:+inf:1:1
+Susana:ORLANDO:-inf:+inf:-inf:+inf:0:1
+Annnora:DEARBORN:-inf:+inf:-inf:+inf:0:1
+Dorotea:BAYAMON:-inf:+inf:-inf:+inf:0:2
+Jessie:CORYDON:-inf:+inf:-inf:+inf:1:1
+Normie:RICHMOND:-inf:+inf:-inf:+inf:1:2
+Babara:KANSAS CITY:-inf:+inf:-inf:+inf:1:3
+Orin:HORNELL:-inf:+inf:-inf:+inf:0:1
+Even:COMMERCE:-inf:+inf:-inf:+inf:0:2
+Chev:ARMOUR:-inf:+inf:-inf:+inf:1:3
+Reeba:OROVILLE:-inf:+inf:-inf:+inf:0:1
+Roxy:NEW YORK:-inf:+inf:-inf:+inf:0:1
+Bekki:FORT WORTH:-inf:+inf:-inf:+inf:0:0
+Mathilda:SEILING:-inf:+inf:-inf:+inf:0:1
+Parnell:BELLEVILLE:-inf:+inf:-inf:+inf:1:3
+Bride:PICKENS:-inf:+inf:-inf:+inf:0:1
+Leyla:LARAMIE:-inf:+inf:-inf:+inf:0:2
+Mari:MIAMI:-inf:+inf:-inf:+inf:1:1
+Piggy:BAY SAINT LOUIS:-inf:+inf:-inf:+inf:1:2
+Ogden:MOUNTAIN HOME:-inf:+inf:-inf:+inf:0:2
+Parke:WILEY:-inf:+inf:-inf:+inf:1:1
+Ardyce:CADIZ:-inf:+inf:-inf:+inf:1:2
+Waring:DUFFIELD:-inf:+inf:-inf:+inf:0:0
+Janey:COALINGA:-inf:+inf:-inf:+inf:0:0
+Birgitta:EADS:-inf:+inf:-inf:+inf:0:0
+Cyrill:CROWN POINT:-inf:+inf:-inf:+inf:0:0
+Alyson:WESTLAKE VILLAGE:-inf:+inf:-inf:+inf:0:0
+Charmian:NEW YORK:-inf:+inf:-inf:+inf:1:3
+Inessa:OCEANSIDE:-inf:+inf:-inf:+inf:1:2
+Windham:DANIA:-inf:+inf:-inf:+inf:1:2
+Marielle:BENTON:-inf:+inf:-inf:+inf:1:1
+Maxwell:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Kristine:POTSDAM:-inf:+inf:-inf:+inf:0:2
+Tomi:OSAWATOMIE:-inf:+inf:-inf:+inf:1:3
+Simmonds:WINSTON SALEM:-inf:+inf:-inf:+inf:1:1
+Allyn:SHREVEPORT:-inf:+inf:-inf:+inf:1:3
+Zonnya:HOUSTON:-inf:+inf:-inf:+inf:0:0
+Jayme:COLLINS:-inf:+inf:-inf:+inf:0:2
+Marve:VINCENNES:-inf:+inf:-inf:+inf:1:3
+Gwenora:ASHLAND:-inf:+inf:-inf:+inf:1:1
+Mab:SAINT LOUIS:-inf:+inf:-inf:+inf:1:3
+Charis:PEAPACK:-inf:+inf:-inf:+inf:1:1
+Ronnie:DETROIT:-inf:+inf:-inf:+inf:1:2
+Francoise:OXFORD:-inf:+inf:-inf:+inf:1:3
+Coriss:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+Hephzibah:WYANDOTTE:-inf:+inf:-inf:+inf:1:1
+Evvy:VIDALIA:-inf:+inf:-inf:+inf:0:2
+Jamesy:WASHINGTON:-inf:+inf:-inf:+inf:0:1
+Philippa:DETROIT:-inf:+inf:-inf:+inf:0:0
+Marianna:EDEN PRAIRIE:-inf:+inf:-inf:+inf:0:2
+Chrysler:MOUNT DORA:-inf:+inf:-inf:+inf:0:2
+Douglas:BROOKLINE:-inf:+inf:-inf:+inf:0:2
+Mireielle:LINCOLN:-inf:+inf:-inf:+inf:0:2
+Tiphanie:WEISER:-inf:+inf:-inf:+inf:1:2
+Gunilla:DALLAS:-inf:+inf:-inf:+inf:1:1
+Clevie:WALSENBURG:-inf:+inf:-inf:+inf:0:0
+Zolly:YONKERS:-inf:+inf:-inf:+inf:0:1
+Reagan:PITTSBURGH:-inf:+inf:-inf:+inf:1:2
+Rudolph:MIAMI:-inf:+inf:-inf:+inf:0:2
+Ilene:CROWN POINT:-inf:+inf:-inf:+inf:0:2
+Ilse:NORMAL:-inf:+inf:-inf:+inf:0:0
+Wakefield:REEDSBURG:-inf:+inf:-inf:+inf:0:0
+Ulrike:METHUEN:-inf:+inf:-inf:+inf:1:1
+Correna:LANCASTER:-inf:+inf:-inf:+inf:1:3
+Chad:SAN FRANCISCO:-inf:+inf:-inf:+inf:0:1
+Marybelle:BRENTWOOD:-inf:+inf:-inf:+inf:0:2
+Tatiana:FAISON:-inf:+inf:-inf:+inf:0:2
+Deina:FLINT:-inf:+inf:-inf:+inf:0:0
+Brigitte:LOVELAND:-inf:+inf:-inf:+inf:1:1
+Kerk:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Kerianne:MIDLAND:-inf:+inf:-inf:+inf:0:1
+Oralia:TYLER:-inf:+inf:-inf:+inf:1:2
+Happy:MADISON:-inf:+inf:-inf:+inf:0:0
+Kristoffer:CHICO:-inf:+inf:-inf:+inf:0:0
+Norrie:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Vanna:CLARKSVILLE:-inf:+inf:-inf:+inf:0:2
+Matthiew:JENKINS:-inf:+inf:-inf:+inf:0:2
+Meyer:HOBART:-inf:+inf:-inf:+inf:1:1
+Sherm:SYRACUSE:-inf:+inf:-inf:+inf:1:1
+Jakie:RENTON:-inf:+inf:-inf:+inf:1:2
+Birgitta:GLENWOOD SPGS:-inf:+inf:-inf:+inf:0:2
+Cherish:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:2
+Cozmo:PITTSBURGH:-inf:+inf:-inf:+inf:0:1
+Fidela:NEW YORK:-inf:+inf:-inf:+inf:1:1
+Pavlov:DETROIT:-inf:+inf:-inf:+inf:0:1
+Tallulah:KALISPELL:-inf:+inf:-inf:+inf:1:1
+Toddy:BATESVILLE:-inf:+inf:-inf:+inf:1:2
+Tobie:MARSHFIELD:-inf:+inf:-inf:+inf:1:3
+Win:OWOSSO:-inf:+inf:-inf:+inf:0:0
+Llewellyn:BROOKVILLE:-inf:+inf:-inf:+inf:0:0
+Sydney:PLAINFIELD:-inf:+inf:-inf:+inf:1:2
+Montgomery:LAS VEGAS:-inf:+inf:-inf:+inf:1:3
+Marji:HAWKINSVILLE:-inf:+inf:-inf:+inf:0:0
+Kizzie:BILOXI:-inf:+inf:-inf:+inf:1:1
+Adore:KANSAS CITY:-inf:+inf:-inf:+inf:0:0
+Papageno:WINSTON SALEM:-inf:+inf:-inf:+inf:0:1
+Sammy:KETTERING:-inf:+inf:-inf:+inf:1:2
+Alexia:LOWVILLE:-inf:+inf:-inf:+inf:0:2
+Alexandra:MADISONVILLE:-inf:+inf:-inf:+inf:1:1
+Taryn:EAST SETAUKET:-inf:+inf:-inf:+inf:1:1
+Newton:BOCA RATON:-inf:+inf:-inf:+inf:1:2
+Gabbey:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+Wheeler:HIBBING:-inf:+inf:-inf:+inf:0:2
+Grazia:MIAMI:-inf:+inf:-inf:+inf:1:2
+Carly:MIAMI:-inf:+inf:-inf:+inf:1:3
+Abe:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:0
+Nerissa:HAMPTON:-inf:+inf:-inf:+inf:1:1
+Arabella:COUDERSPORT:-inf:+inf:-inf:+inf:1:2
+Hendrick:LOS ANGELES:-inf:+inf:-inf:+inf:0:1
+Giuditta:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+Andrej:RENTON:-inf:+inf:-inf:+inf:0:2
+Terry:KEARNY:-inf:+inf:-inf:+inf:1:1
+Meredith:CORVALLIS:-inf:+inf:-inf:+inf:1:3
+Juliann:LAPORTE:-inf:+inf:-inf:+inf:0:2
+Beitris:MONTEREY PARK:-inf:+inf:-inf:+inf:0:1
+Karleen:FOUNTAIN VALLEY:-inf:+inf:-inf:+inf:1:2
+Tedman:GREENVILLE:-inf:+inf:-inf:+inf:0:1
+Effie:MARGARETVILLE:-inf:+inf:-inf:+inf:1:2
+Tarah:NICEVILLE:-inf:+inf:-inf:+inf:1:1
+Claus:RUSSELLVILLE:-inf:+inf:-inf:+inf:0:1
+Fitzgerald:ELGIN:-inf:+inf:-inf:+inf:0:2
+Kimbell:TEECNOSPOS:-inf:+inf:-inf:+inf:1:2
+Pearce:WINSTON SALEM:-inf:+inf:-inf:+inf:0:0
+Joel:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+Abel:KEWANEE:-inf:+inf:-inf:+inf:0:0
+Mechelle:GUAYNABO:-inf:+inf:-inf:+inf:0:2
+Ethyl:ALBUQUERQUE:-inf:+inf:-inf:+inf:0:0
+Alika:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Buffy:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+Doti:TYRONE:-inf:+inf:-inf:+inf:0:2
+Ralina:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+Reinaldos:WARREN:-inf:+inf:-inf:+inf:1:2
+Lorry:FAISON:-inf:+inf:-inf:+inf:1:1
+Marlo:HARLINGEN:-inf:+inf:-inf:+inf:1:2
+Sergeant:SIDNEY:-inf:+inf:-inf:+inf:0:0
+Carce:NEWTOWN:-inf:+inf:-inf:+inf:0:0
+Jennette:CARROLLTON:-inf:+inf:-inf:+inf:1:2
+Milka:FAISON:-inf:+inf:-inf:+inf:1:1
+Pansie:HAYTI:-inf:+inf:-inf:+inf:1:1
+Joanie:PITTSBURG:-inf:+inf:-inf:+inf:1:1
+Westbrooke:CINCINNATI:-inf:+inf:-inf:+inf:1:2
+Tiffani:CENTERVILLE:-inf:+inf:-inf:+inf:1:2
+Dosi:KANSAS CITY:-inf:+inf:-inf:+inf:1:2
+Allix:MILFORD:-inf:+inf:-inf:+inf:0:1
+Vanni:SAINT CLOUD:-inf:+inf:-inf:+inf:1:3
+Gwennie:PRAIRIEVILLE:-inf:+inf:-inf:+inf:0:1
+Grete:GRAND RAPIDS:-inf:+inf:-inf:+inf:1:3
+Flory:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Rollie:CINCINNATI:-inf:+inf:-inf:+inf:0:2
+Piotr:ASHEVILLE:-inf:+inf:-inf:+inf:1:2
+Ruttger:FRIONA:-inf:+inf:-inf:+inf:0:1
+Gisella:FLORENCE:-inf:+inf:-inf:+inf:0:2
+Law:EUREKA:-inf:+inf:-inf:+inf:0:0
+Aurel:NORTH MIAMI:-inf:+inf:-inf:+inf:0:0
+Deirdre:FORT LAUDERDALE:-inf:+inf:-inf:+inf:1:3
+Annabal:HAYTI:-inf:+inf:-inf:+inf:1:2
+Zak:MARSHFIELD:-inf:+inf:-inf:+inf:1:3
+Fianna:QUAKERTOWN:-inf:+inf:-inf:+inf:1:2
+Maury:EASTLAND:-inf:+inf:-inf:+inf:0:1
+Shaine:GEORGETOWN:-inf:+inf:-inf:+inf:1:1
+Tobi:LAS VEGAS:-inf:+inf:-inf:+inf:1:2
+Martina:NEW CASTLE:-inf:+inf:-inf:+inf:0:1
+Hazel:GRANT:-inf:+inf:-inf:+inf:0:0
+Cleopatra:FLINT:-inf:+inf:-inf:+inf:0:2
+Vonni:FERNDALE:-inf:+inf:-inf:+inf:0:1
+Caria:HILO:-inf:+inf:-inf:+inf:0:0
+Jordanna:MANATI:-inf:+inf:-inf:+inf:0:1
+Elizabet:DORAL:-inf:+inf:-inf:+inf:0:2
+Melly:LEADVILLE:-inf:+inf:-inf:+inf:0:1
+Giuseppe:EVERGREEN PARK:-inf:+inf:-inf:+inf:1:2
+Leonie:PHILADELPHIA:-inf:+inf:-inf:+inf:1:1
+Anatollo:IOWA CITY:-inf:+inf:-inf:+inf:0:1
+Pacorro:REED CITY:-inf:+inf:-inf:+inf:1:3
+Josephina:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+Eda:POMPANO BEACH:-inf:+inf:-inf:+inf:0:1
+Risa:SANTA ANA:-inf:+inf:-inf:+inf:0:0
+Christen:BROOKLYN:-inf:+inf:-inf:+inf:1:1
+Ramona:TRAVERSE CITY:-inf:+inf:-inf:+inf:1:1
+Les:WILSON:-inf:+inf:-inf:+inf:0:0
+Odilia:MIRAMAR:-inf:+inf:-inf:+inf:1:2
+Darcie:EVANSVILLE:-inf:+inf:-inf:+inf:0:0
+Levin:OMAHA:-inf:+inf:-inf:+inf:1:2
+Kelci:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+Michal:BOYNE CITY:-inf:+inf:-inf:+inf:0:2
+Gorden:WEST POINT:-inf:+inf:-inf:+inf:0:0
+Doe:INDEPENDENCE:-inf:+inf:-inf:+inf:1:3
+Engracia:TRENTON:-inf:+inf:-inf:+inf:1:2
+Maxi:AGUADA:-inf:+inf:-inf:+inf:0:0
+Eugenius:CHICAGO:-inf:+inf:-inf:+inf:0:2
+Lucais:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Tabbie:PHOENIX:-inf:+inf:-inf:+inf:0:2
+Aveline:AVENTURA:-inf:+inf:-inf:+inf:0:1
+Nara:ASHLAND:-inf:+inf:-inf:+inf:1:1
+Glori:FRANKLINTON:-inf:+inf:-inf:+inf:1:3
+Dee dee:CIDRA:-inf:+inf:-inf:+inf:0:2
+Roland:ATLANTA:-inf:+inf:-inf:+inf:0:1
+Diannne:NEPTUNE:-inf:+inf:-inf:+inf:0:1
+Shermie:KISSIMMEE:-inf:+inf:-inf:+inf:0:2
+Meredeth:BOONE:-inf:+inf:-inf:+inf:1:1
+Reina:KALAMAZOO:-inf:+inf:-inf:+inf:1:3
+Karen:DALLAS:-inf:+inf:-inf:+inf:0:0
+Pierette:KEARNEYSVILLE:-inf:+inf:-inf:+inf:0:0
+Hersh:TOMS RIVER:-inf:+inf:-inf:+inf:0:2
+Pat:ATLANTA:-inf:+inf:-inf:+inf:1:3
+Piggy:SAN ANTONIO:-inf:+inf:-inf:+inf:1:1
+Worth:PORT LAVACA:-inf:+inf:-inf:+inf:1:3
+Ellette:SANTA FE:-inf:+inf:-inf:+inf:1:2
+Stefano:LEXINGTON:-inf:+inf:-inf:+inf:0:2
+Aili:KNOXVILLE:-inf:+inf:-inf:+inf:0:2
+Jaimie:LAMAR:-inf:+inf:-inf:+inf:0:0
+Sigismund:DOVER:-inf:+inf:-inf:+inf:0:0
+Tripp:ASHLAND:-inf:+inf:-inf:+inf:0:2
+Miner:TWENTYNINE PALMS:-inf:+inf:-inf:+inf:0:0
+Carolina:LECOMPTE:-inf:+inf:-inf:+inf:0:2
+Waylan:WALLA WALLA:-inf:+inf:-inf:+inf:0:2
+Lira:LUMBER CITY:-inf:+inf:-inf:+inf:0:1
+Gussy:SACRAMENTO:-inf:+inf:-inf:+inf:1:2
+Puff:BELLAIRE:-inf:+inf:-inf:+inf:0:2
+Olive:OAKWOOD:-inf:+inf:-inf:+inf:1:1
+Judd:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:0
+Yulma:CLARION:-inf:+inf:-inf:+inf:0:2
+Ninon:MIAMI:-inf:+inf:-inf:+inf:1:2
+Giuditta:MECHANICSBURG:-inf:+inf:-inf:+inf:1:3
+Ryun:GAFFNEY:-inf:+inf:-inf:+inf:0:0
+Caz:LEAVENWORTH:-inf:+inf:-inf:+inf:1:3
+Jodi:NASHVILLE:-inf:+inf:-inf:+inf:0:0
+Redd:HOUSTON:-inf:+inf:-inf:+inf:1:2
+Sibel:BERLIN:-inf:+inf:-inf:+inf:0:2
+Alistair:NEW CASTLE:-inf:+inf:-inf:+inf:1:2
+Margarita:FAYETTEVILLE:-inf:+inf:-inf:+inf:0:1
+Corabelle:JACKSONVILLE:-inf:+inf:-inf:+inf:1:3
+Madelene:ELK GROVE VILLAGE:-inf:+inf:-inf:+inf:1:1
+Clarance:DAVIE:-inf:+inf:-inf:+inf:1:2
+Celestyna:MIAMI:-inf:+inf:-inf:+inf:0:2
+Eadmund:MUNDELEIN:-inf:+inf:-inf:+inf:0:0
+Bondie:NEW YORK:-inf:+inf:-inf:+inf:1:2
+Virgie:NEW YORK:-inf:+inf:-inf:+inf:1:3
+Tasia:LARNED:-inf:+inf:-inf:+inf:0:1
+Beth:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+Hinda:HARTFORD:-inf:+inf:-inf:+inf:0:0
+Celina:HAGERSTOWN:-inf:+inf:-inf:+inf:0:0
+Reiko:MCMINNVILLE:-inf:+inf:-inf:+inf:1:2
+Bobbe:HARTFORD:-inf:+inf:-inf:+inf:0:2
+Friederike:CORPUS CHRISTI:-inf:+inf:-inf:+inf:0:2
+Padriac:MADERA:-inf:+inf:-inf:+inf:0:1
+Odey:PITTSFIELD:-inf:+inf:-inf:+inf:1:1
+Renee:YPSILANTI:-inf:+inf:-inf:+inf:0:1
+Tarrah:GARNETT:-inf:+inf:-inf:+inf:0:1
+Kaylil:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+Nannette:WASHINGTON:-inf:+inf:-inf:+inf:1:1
+Coreen:DALLAS:-inf:+inf:-inf:+inf:0:1
+Clem:PALMER:-inf:+inf:-inf:+inf:0:2
+Evangelina:GALION:-inf:+inf:-inf:+inf:0:1
+Lotty:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Steward:NAGS HEAD:-inf:+inf:-inf:+inf:0:0
+Paxon:HUMBOLDT:-inf:+inf:-inf:+inf:0:1
+Lyndel:WESTLAKE VILLAGE:-inf:+inf:-inf:+inf:1:2
+Nathanil:KAMUELA:-inf:+inf:-inf:+inf:0:0
+Philippe:HOLLAND:-inf:+inf:-inf:+inf:1:1
+Alethea:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Oliviero:WESTMINSTER:-inf:+inf:-inf:+inf:0:0
+Norri:CLEBURNE:-inf:+inf:-inf:+inf:1:1
+Nikki:CINCINNATI:-inf:+inf:-inf:+inf:1:3
+Koenraad:MONTICELLO:-inf:+inf:-inf:+inf:0:0
+Humphrey:PROVIDENCE:-inf:+inf:-inf:+inf:0:2
+Prince:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:2
+Thom:LAMAR:-inf:+inf:-inf:+inf:0:1
+Oby:MEMPHIS:-inf:+inf:-inf:+inf:1:3
+Laird:LATROBE:-inf:+inf:-inf:+inf:0:0
+Junette:MIAMI:-inf:+inf:-inf:+inf:0:2
+Cos:TEECNOSPOS:-inf:+inf:-inf:+inf:0:0
+Salim:HUDSON:-inf:+inf:-inf:+inf:1:1
+Yance:REDLANDS:-inf:+inf:-inf:+inf:1:1
+Rey:EVERETT:-inf:+inf:-inf:+inf:0:1
+Luelle:HIALEAH:-inf:+inf:-inf:+inf:1:3
+Phaedra:LANCASTER:-inf:+inf:-inf:+inf:1:1
+Daryl:YONKERS:-inf:+inf:-inf:+inf:1:1
+Retha:SOUTH MIAMI:-inf:+inf:-inf:+inf:0:2
+Penelopa:CHARLOTTE:-inf:+inf:-inf:+inf:1:1
+Bertie:ELIZABETH:-inf:+inf:-inf:+inf:0:0
+Brigitte:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Andria:BETHANY:-inf:+inf:-inf:+inf:0:2
+Dickie:NORWALK:-inf:+inf:-inf:+inf:0:2
+Alexandre:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Latia:CHICO:-inf:+inf:-inf:+inf:0:1
+Porter:HAMITON:-inf:+inf:-inf:+inf:0:2
+Nerte:WEST BOOTHBAY HARBOR:-inf:+inf:-inf:+inf:1:1
+Minni:BENTON:-inf:+inf:-inf:+inf:0:0
+Brigitta:PHOENIX:-inf:+inf:-inf:+inf:1:3
+Simmonds:FAYETTEVILLE:-inf:+inf:-inf:+inf:1:2
+Corbet:LEBANON:-inf:+inf:-inf:+inf:1:3
+Holly:WHITTIER:-inf:+inf:-inf:+inf:1:1
+Averil:CROWN POINT:-inf:+inf:-inf:+inf:1:3
+Christa:CORDOVA:-inf:+inf:-inf:+inf:1:2
+Gothart:EL CENTRO:-inf:+inf:-inf:+inf:1:2
+Mada:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Ivonne:ROWLAND HEIGHTS:-inf:+inf:-inf:+inf:0:0
+Maurise:BELLAIRE:-inf:+inf:-inf:+inf:1:2
+Livvy:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Kirbee:EUCLID:-inf:+inf:-inf:+inf:1:3
+Silvana:FAIRBANKS:-inf:+inf:-inf:+inf:1:3
+Reider:KALAMAZOO:-inf:+inf:-inf:+inf:1:2
+Ann-marie:NORTH BERGEN:-inf:+inf:-inf:+inf:0:2
+Jaquenette:GLENDALE:-inf:+inf:-inf:+inf:1:2
+Sydney:CASTANER:-inf:+inf:-inf:+inf:0:1
+Abby:WELLSVILLE:-inf:+inf:-inf:+inf:0:0
+Reilly:SHELTON:-inf:+inf:-inf:+inf:1:2
+Benjamin:HUNTSVILLE:-inf:+inf:-inf:+inf:0:1
+Shamus:EAST BOSTON:-inf:+inf:-inf:+inf:0:1
+Chanda:TRINITY:-inf:+inf:-inf:+inf:1:1
+Starlene:ALBANY:-inf:+inf:-inf:+inf:1:3
+Lorena:CONCORD:-inf:+inf:-inf:+inf:0:2
+Kore:ROCHELLE:-inf:+inf:-inf:+inf:0:2
+Gare:MIAMI:-inf:+inf:-inf:+inf:1:1
+Doretta:CINCINNATI:-inf:+inf:-inf:+inf:0:2
+Antoinette:LACKLAND A F B:-inf:+inf:-inf:+inf:1:2
+Annis:OAKLAND:-inf:+inf:-inf:+inf:1:2
+Arden:FT LEONARD WOOD:-inf:+inf:-inf:+inf:1:2
+Vivia:FORT IRWIN:-inf:+inf:-inf:+inf:0:2
+Rickie:OAKLAND:-inf:+inf:-inf:+inf:0:0
+Mame:PEORIA:-inf:+inf:-inf:+inf:0:0
+Gasper:GROVE CITY:-inf:+inf:-inf:+inf:0:1
+Alene:FORT LEONARD WOOD:-inf:+inf:-inf:+inf:1:2
+Orly:JACKSON:-inf:+inf:-inf:+inf:1:1
+Slade:DETROIT:-inf:+inf:-inf:+inf:1:1
+Berri:PORT GIBSON:-inf:+inf:-inf:+inf:0:0
+Forester:DOVER:-inf:+inf:-inf:+inf:1:3
+Josee:FAYETTEVILLE:-inf:+inf:-inf:+inf:0:1
+Nicholle:NEWARK:-inf:+inf:-inf:+inf:1:1
+Corinne:SEATTLE:-inf:+inf:-inf:+inf:0:2
+Kingsly:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+Ulric:NEW ORLEANS:-inf:+inf:-inf:+inf:0:0
+Tedman:LEHIGH ACRES:-inf:+inf:-inf:+inf:1:2
+Alain:PADUCAH:-inf:+inf:-inf:+inf:0:1
+Thurstan:RIVER FOREST:-inf:+inf:-inf:+inf:1:3
+Walton:GREENSBORO:-inf:+inf:-inf:+inf:1:2
+Addy:SAN DIEGO:-inf:+inf:-inf:+inf:0:1
+Normy:FORT RUCKER:-inf:+inf:-inf:+inf:0:2
+Mikey:WAHPETON:-inf:+inf:-inf:+inf:0:2
+Easter:KILGORE:-inf:+inf:-inf:+inf:1:1
+Corina:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Pamelina:JACKSON:-inf:+inf:-inf:+inf:0:1
+Vivienne:BOWLING GREEN:-inf:+inf:-inf:+inf:1:1
+Reinwald:CORNELIUS:-inf:+inf:-inf:+inf:0:1
+Brody:BREMERTON:-inf:+inf:-inf:+inf:1:3
+Jamesy:HONOLULU:-inf:+inf:-inf:+inf:0:2
+Tommie:WARREN:-inf:+inf:-inf:+inf:1:1
+Claudianus:ANAHUAC:-inf:+inf:-inf:+inf:1:3
+Merla:ROCKDALE:-inf:+inf:-inf:+inf:0:0
+Son:POMPANO BEACH:-inf:+inf:-inf:+inf:1:2
+Lissa:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+Teresa:DEER LODGE:-inf:+inf:-inf:+inf:1:2
+Loni:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+Yul:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+Joelynn:DRIGGS:-inf:+inf:-inf:+inf:1:1
+Kenton:ATLANTA:-inf:+inf:-inf:+inf:1:2
+Micheil:NEVADA:-inf:+inf:-inf:+inf:0:2
+Lucille:FARMINGTON:-inf:+inf:-inf:+inf:1:3
+Waylen:MIDLAND:-inf:+inf:-inf:+inf:0:2
+Lenna:JACKSON:-inf:+inf:-inf:+inf:1:3
+Allison:NAPLES:-inf:+inf:-inf:+inf:1:1
+Georgianne:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+Minetta:BRENTWOOD:-inf:+inf:-inf:+inf:0:1
+Weidar:TEMPLE:-inf:+inf:-inf:+inf:0:2
+Kynthia:BETHLEHEM:-inf:+inf:-inf:+inf:1:1
+Darcee:BUTLER:-inf:+inf:-inf:+inf:1:3
+Doralia:BROOKVILLE:-inf:+inf:-inf:+inf:0:1
+Ike:LONGVIEW:-inf:+inf:-inf:+inf:1:1
+Darb:SUN CITY CENTER:-inf:+inf:-inf:+inf:0:2
+Lance:THE WOODLANDS:-inf:+inf:-inf:+inf:1:3
+Shanta:JENA:-inf:+inf:-inf:+inf:1:3
+Jennie:CHESTER:-inf:+inf:-inf:+inf:0:0
+Ray:DALLAS:-inf:+inf:-inf:+inf:1:1
+Enos:TRAVERSE CITY:-inf:+inf:-inf:+inf:1:3
+Marybelle:MAGNOLIA:-inf:+inf:-inf:+inf:1:2
+Kirstin:ORLANDO:-inf:+inf:-inf:+inf:1:3
+Alanson:ATMORE:-inf:+inf:-inf:+inf:1:3
+Gerda:UPLAND:-inf:+inf:-inf:+inf:1:1
+Washington:BEDFORD PARK:-inf:+inf:-inf:+inf:1:3
+Giulio:BELLOWS FALLS:-inf:+inf:-inf:+inf:1:2
+Simonette:WEST PLAINS:-inf:+inf:-inf:+inf:0:1
+Basia:WILSON:-inf:+inf:-inf:+inf:1:3
+Eli:LAKEWOOD:-inf:+inf:-inf:+inf:0:1
+Annamarie:FOREST HILLS:-inf:+inf:-inf:+inf:1:3
+Omero:FAYETTEVILLE:-inf:+inf:-inf:+inf:0:1
+Tedmund:HIALEAH:-inf:+inf:-inf:+inf:1:2
+Allys:DEMOREST:-inf:+inf:-inf:+inf:1:3
+Dru:MILFORD:-inf:+inf:-inf:+inf:1:3
+Cary:BALDWINVILLE:-inf:+inf:-inf:+inf:0:1
+Otha:EDEN:-inf:+inf:-inf:+inf:1:3
+Isis:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:3
+Eva:BREWSTER:-inf:+inf:-inf:+inf:0:2
+Duke:VISTA:-inf:+inf:-inf:+inf:1:1
+Maressa:UPPER SANDUSKY:-inf:+inf:-inf:+inf:1:2
+Clair:BONHAM:-inf:+inf:-inf:+inf:0:0
+Pearl:CHULA VISTA:-inf:+inf:-inf:+inf:1:2
+Ben:METAIRIE:-inf:+inf:-inf:+inf:0:0
+Bride:MARLTON:-inf:+inf:-inf:+inf:1:1
+Hebert:RICHMOND:-inf:+inf:-inf:+inf:1:3
+Annora:ARCADIA:-inf:+inf:-inf:+inf:0:2
+Sasha:PEMBROKE PINES:-inf:+inf:-inf:+inf:1:3
+Ronald:AUGUSTA:-inf:+inf:-inf:+inf:0:1
+Zuzana:BUFFALO GROVE:-inf:+inf:-inf:+inf:0:2
+Mattie:RICHMOND:-inf:+inf:-inf:+inf:1:3
+Domenic:DALLAS:-inf:+inf:-inf:+inf:1:3
+Marice:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:2
+Jervis:FLAGLER BEACH:-inf:+inf:-inf:+inf:0:0
+Danice:MIAMI LAKES:-inf:+inf:-inf:+inf:1:3
+Mellie:TEMPERANCE:-inf:+inf:-inf:+inf:1:1
+Niccolo:ADJUNTAS:-inf:+inf:-inf:+inf:1:1
+Madelle:SEARCY:-inf:+inf:-inf:+inf:1:2
+Micaela:GILLETTE:-inf:+inf:-inf:+inf:1:2
+Betsy:ORLEANS:-inf:+inf:-inf:+inf:0:2
+Averil:MIAMI:-inf:+inf:-inf:+inf:1:1
+Timi:DETROIT:-inf:+inf:-inf:+inf:1:3
+Newton:BATON ROUGE:-inf:+inf:-inf:+inf:1:3
+Kendre:WATONGA:-inf:+inf:-inf:+inf:1:2
+Aila:ROANOKE:-inf:+inf:-inf:+inf:1:3
+Henderson:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:2
+Dyanna:SOLON:-inf:+inf:-inf:+inf:1:2
+Gilbert:DARIEN:-inf:+inf:-inf:+inf:1:1
+Aveline:SEILING:-inf:+inf:-inf:+inf:1:3
+Clarice:DALLAS:-inf:+inf:-inf:+inf:1:3
+Evonne:COUDERSPORT:-inf:+inf:-inf:+inf:0:1
+Jeremias:LOMA LINDA:-inf:+inf:-inf:+inf:0:0
+Chris:DENVER:-inf:+inf:-inf:+inf:0:2
+Dominic:DES MOINES:-inf:+inf:-inf:+inf:1:2
+Robin:LANCASTER:-inf:+inf:-inf:+inf:1:3
+Fraze:FALL RIVER MILLS:-inf:+inf:-inf:+inf:0:0
+Hort:MIAMI:-inf:+inf:-inf:+inf:0:0
+Ferne:CITY OF INDUSTRY:-inf:+inf:-inf:+inf:1:1
+Bernelle:HIALEAH GARDENS:-inf:+inf:-inf:+inf:1:3
+Ula:OVERLAND PARK:-inf:+inf:-inf:+inf:1:1
+Lorant:WASHINGTON:-inf:+inf:-inf:+inf:0:2
+Karee:HOLLYWOOD:-inf:+inf:-inf:+inf:0:2
+Nettie:PORTLAND:-inf:+inf:-inf:+inf:0:0
+Willis:SOLANA BEACH:-inf:+inf:-inf:+inf:0:2
+Trudi:OKLAHOMA CITY:-inf:+inf:-inf:+inf:0:1
+Addi:ASHEVILLE:-inf:+inf:-inf:+inf:1:2
+Rodi:BOONE:-inf:+inf:-inf:+inf:1:1
+Ted:EL PASO:-inf:+inf:-inf:+inf:0:2
+Corty:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Kathryne:DALLAS:-inf:+inf:-inf:+inf:1:3
+Lita:HOUSTON:-inf:+inf:-inf:+inf:0:2
+Cami:BELLEFONTAINE:-inf:+inf:-inf:+inf:0:1
+Demott:LITTLEFORK:-inf:+inf:-inf:+inf:1:3
+Gregorio:MIAMI:-inf:+inf:-inf:+inf:1:2
+Clayson:AGUADA:-inf:+inf:-inf:+inf:0:1
+Angelique:COLORADO SPRINGS:-inf:+inf:-inf:+inf:0:0
+Adolf:PLAINFIELD:-inf:+inf:-inf:+inf:0:0
+Brennan:DALLAS:-inf:+inf:-inf:+inf:0:2
+Helaine:DETROIT:-inf:+inf:-inf:+inf:0:1
+Jaymie:BATON ROUGE:-inf:+inf:-inf:+inf:1:3
+Janka:STIGLER:-inf:+inf:-inf:+inf:1:2
+Vivyanne:SALEM:-inf:+inf:-inf:+inf:1:1
+Giordano:CINCINNATI:-inf:+inf:-inf:+inf:1:2
+Austina:HIGH POINT:-inf:+inf:-inf:+inf:1:3
+Cinda:CLOVIS:-inf:+inf:-inf:+inf:0:1
+Matthew:CHADRON:-inf:+inf:-inf:+inf:0:1
+Charis:LARGO:-inf:+inf:-inf:+inf:0:1
+Felipe:BEAR:-inf:+inf:-inf:+inf:1:1
+Yankee:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:1
+Rafaellle:EUREKA SPRINGS:-inf:+inf:-inf:+inf:1:1
+Ingar:RICHMOND:-inf:+inf:-inf:+inf:1:1
+Ollie:GLEN DALE:-inf:+inf:-inf:+inf:0:1
+Marlon:ST LOUIS PARK:-inf:+inf:-inf:+inf:0:2
+Raffarty:ALBANY:-inf:+inf:-inf:+inf:0:1
+Lira:NEW YORK:-inf:+inf:-inf:+inf:0:2
+Ashton:CLEARFIELD:-inf:+inf:-inf:+inf:0:1
+Hamish:SOUTH BEND:-inf:+inf:-inf:+inf:1:1
+Garfield:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Kelby:SHEBOYGAN:-inf:+inf:-inf:+inf:0:2
+Nobie:WILLOWS:-inf:+inf:-inf:+inf:0:0
+Koralle:FRIEND:-inf:+inf:-inf:+inf:0:2
+Alyss:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+Otho:SEATTLE:-inf:+inf:-inf:+inf:1:3
+Filmer:TALLAHASSEE:-inf:+inf:-inf:+inf:1:3
+Fina:JACKSBORO:-inf:+inf:-inf:+inf:0:2
+Clemmy:CAMP PENDLETON:-inf:+inf:-inf:+inf:0:2
+Nettle:GOLDSBORO:-inf:+inf:-inf:+inf:0:2
+Ruthie:CHESTER:-inf:+inf:-inf:+inf:1:3
+Myrlene:GILBERT:-inf:+inf:-inf:+inf:1:2
+Dorey:MAGNOLIA:-inf:+inf:-inf:+inf:0:1
+Greta:MONTROSE:-inf:+inf:-inf:+inf:1:2
+Mallissa:WASHINGTON:-inf:+inf:-inf:+inf:0:0
+Augustina:MANY:-inf:+inf:-inf:+inf:0:0
+Ginelle:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+Carry:MC MURRAY:-inf:+inf:-inf:+inf:1:2
+Alikee:OAKLAND:-inf:+inf:-inf:+inf:1:3
+Clio:CINCINNATI:-inf:+inf:-inf:+inf:0:2
+Hube:PIKEVILLE:-inf:+inf:-inf:+inf:0:2
+Billye:CINCINNATI:-inf:+inf:-inf:+inf:1:3
+Rusty:MORRISTOWN:-inf:+inf:-inf:+inf:0:2
+Andeee:ELKADER:-inf:+inf:-inf:+inf:0:2
+Averil:TYRONE:-inf:+inf:-inf:+inf:1:2
+Adrian:PHILA:-inf:+inf:-inf:+inf:0:1
+Gilligan:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:0
+Silvana:LA HARPE:-inf:+inf:-inf:+inf:0:0
+Catha:BINGHAMTON:-inf:+inf:-inf:+inf:0:2
+Hortense:HAVERTOWN:-inf:+inf:-inf:+inf:1:1
+Lara:GERMANTOWN:-inf:+inf:-inf:+inf:1:3
+Emalia:ROBSTOWN:-inf:+inf:-inf:+inf:1:1
+Matteo:SULPHUR SPRINGS:-inf:+inf:-inf:+inf:0:1
+Glenine:LOWELL:-inf:+inf:-inf:+inf:1:3
+Twyla:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+Liv:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+Krisha:BICKNELL:-inf:+inf:-inf:+inf:1:1
+Cindra:WASHINGTON:-inf:+inf:-inf:+inf:0:2
+Petronella:TUCSON:-inf:+inf:-inf:+inf:1:1
+Casper:PHOENIX:-inf:+inf:-inf:+inf:0:2
+Von:NANUET:-inf:+inf:-inf:+inf:1:1
+Emelda:FRANKLIN:-inf:+inf:-inf:+inf:1:3
+Pearla:POCATELLO:-inf:+inf:-inf:+inf:0:1
+Pernell:FRANKLIN:-inf:+inf:-inf:+inf:1:2
+Fredra:FORT WORTH:-inf:+inf:-inf:+inf:1:3
+Wang:NORMAN:-inf:+inf:-inf:+inf:1:2
+Viki:NORWALK:-inf:+inf:-inf:+inf:0:1
+Tobe:PITTSBURGH:-inf:+inf:-inf:+inf:1:1
+Tiertza:ALPENA:-inf:+inf:-inf:+inf:0:1
+Sybil:VALENCIA:-inf:+inf:-inf:+inf:0:2
+Rudyard:MIAMI:-inf:+inf:-inf:+inf:0:1
+Kirstin:LEWISTOWN:-inf:+inf:-inf:+inf:1:2
+Perrine:PLYMOUTH:-inf:+inf:-inf:+inf:0:2
+Akim:HARRISONVILLE:-inf:+inf:-inf:+inf:0:2
+Mel:SHELBY TOWNSHIP:-inf:+inf:-inf:+inf:0:0
+Wakefield:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+Effie:CORTLANDT MANOR:-inf:+inf:-inf:+inf:0:1
+Shaylyn:COAL TOWNSHIP:-inf:+inf:-inf:+inf:0:2
+Ludwig:NASHVILLE:-inf:+inf:-inf:+inf:0:0
+Leonidas:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+Louisa:JACKSON:-inf:+inf:-inf:+inf:1:1
+Hyacinth:DU BOIS:-inf:+inf:-inf:+inf:0:2
+Sherye:HOUSTON:-inf:+inf:-inf:+inf:1:3
+Wilma:PHILADELPHIA:-inf:+inf:-inf:+inf:0:0
+Brien:BAY CITY:-inf:+inf:-inf:+inf:0:2
+Brenda:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+Rici:WASHINGTON:-inf:+inf:-inf:+inf:0:0
+Fletcher:COLUMBUS:-inf:+inf:-inf:+inf:1:2
+Daphna:LEDERACH:-inf:+inf:-inf:+inf:0:0
+Dulciana:DALLAS:-inf:+inf:-inf:+inf:1:2
+Olenolin:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+Hilary:NEWTON:-inf:+inf:-inf:+inf:0:0
+Silvester:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Greta:SAN FRANCISCO:-inf:+inf:-inf:+inf:1:2
+Neila:THE WOODLANDS:-inf:+inf:-inf:+inf:1:1
+Val:GREEN BAY:-inf:+inf:-inf:+inf:0:2
+Daniela:SOUTHFIELD:-inf:+inf:-inf:+inf:0:1
+Georgeta:FORT WAYNE:-inf:+inf:-inf:+inf:0:2
+Sholom:PHILADELPHIA:-inf:+inf:-inf:+inf:1:1
+Perri:GALLATIN:-inf:+inf:-inf:+inf:0:1
+Kienan:SOUTH BOSTON:-inf:+inf:-inf:+inf:1:2
+Eilis:MARION:-inf:+inf:-inf:+inf:1:1
+Cammy:SILVER SPRING:-inf:+inf:-inf:+inf:1:3
+Mano:LINCOLN CITY:-inf:+inf:-inf:+inf:1:2
+Sonnie:ALLIANCE:-inf:+inf:-inf:+inf:0:2
+Blinni:GUTHRIE:-inf:+inf:-inf:+inf:0:0
+Caleb:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Agosto:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:1
+Grata:PEORIA:-inf:+inf:-inf:+inf:0:2
+Sidonia:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Esmaria:GREENVILLE:-inf:+inf:-inf:+inf:1:2
+Blaine:PEORIA:-inf:+inf:-inf:+inf:0:2
+Brandais:WINCHESTER:-inf:+inf:-inf:+inf:1:2
+Juline:CRAWFORDSVILLE:-inf:+inf:-inf:+inf:1:3
+Emmet:GAYLORD:-inf:+inf:-inf:+inf:0:1
+Langston:EUCLID:-inf:+inf:-inf:+inf:1:2
+Cathrine:MIAMI:-inf:+inf:-inf:+inf:1:2
+Marja:GRAND RAPIDS:-inf:+inf:-inf:+inf:1:3
+Slade:EL CAJON:-inf:+inf:-inf:+inf:0:2
+Zsazsa:METHUEN:-inf:+inf:-inf:+inf:1:1
+Zollie:CHICO:-inf:+inf:-inf:+inf:0:2
+Norby:LAS VEGAS:-inf:+inf:-inf:+inf:1:2
+Lorrie:SODA SPRINGS:-inf:+inf:-inf:+inf:1:2
+Mabelle:SAINT JOSEPH:-inf:+inf:-inf:+inf:1:3
+Audrie:DES MOINES:-inf:+inf:-inf:+inf:1:1
+Nowell:DECATUR:-inf:+inf:-inf:+inf:1:3
+Anabelle:CHICO:-inf:+inf:-inf:+inf:0:0
+Herold:FORT KENT:-inf:+inf:-inf:+inf:0:1
+Arnaldo:CHICAGO:-inf:+inf:-inf:+inf:1:3
+Ermentrude:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Carmon:MORRISON:-inf:+inf:-inf:+inf:1:1
+Rosaline:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+Catlaina:MANSFIELD:-inf:+inf:-inf:+inf:1:3
+Clare:KINGWOOD:-inf:+inf:-inf:+inf:1:3
+Silvana:TOMBALL:-inf:+inf:-inf:+inf:1:2
+Vanda:UNION:-inf:+inf:-inf:+inf:1:2
+Sansone:FAIR OAKS:-inf:+inf:-inf:+inf:1:2
+Elysee:MORRISTOWN:-inf:+inf:-inf:+inf:0:1
+Gabbi:MIAMI:-inf:+inf:-inf:+inf:1:1
+Xenia:HUNTINGTON:-inf:+inf:-inf:+inf:1:1
+Melessa:DALTON:-inf:+inf:-inf:+inf:1:2
+Mohandis:PITTSBURGH:-inf:+inf:-inf:+inf:1:2
+Merilyn:HOMERVILLE:-inf:+inf:-inf:+inf:1:2
+Aubrette:BERWYN HEIGHTS:-inf:+inf:-inf:+inf:1:3
+Walliw:TUCSON:-inf:+inf:-inf:+inf:1:2
+Bartel:SEATTLE:-inf:+inf:-inf:+inf:0:2
+Wanda:MIAMI:-inf:+inf:-inf:+inf:1:3
+Theresita:MARSHALL:-inf:+inf:-inf:+inf:0:0
+Ranique:MONTEZUMA:-inf:+inf:-inf:+inf:1:2
+Merridie:ALEXANDRIA:-inf:+inf:-inf:+inf:1:2
+Berne:GARY:-inf:+inf:-inf:+inf:1:2
+Dory:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+Adan:WAYNE:-inf:+inf:-inf:+inf:1:3
+Vittoria:PRINCETON:-inf:+inf:-inf:+inf:0:2
+Creigh:TYLER:-inf:+inf:-inf:+inf:1:3
+Blanch:GRAND RAPIDS:-inf:+inf:-inf:+inf:0:0
+Phyllis:DALLAS:-inf:+inf:-inf:+inf:0:2
+Feliks:GAHANNA:-inf:+inf:-inf:+inf:1:1
+Shandeigh:SULLIVAN:-inf:+inf:-inf:+inf:1:3
+Abbott:HUDSON:-inf:+inf:-inf:+inf:0:1
+Cinnamon:PLATTSBURG:-inf:+inf:-inf:+inf:1:2
+Nickolai:TIVERTON:-inf:+inf:-inf:+inf:1:2
+Sigfrid:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+Meryl:DU BOIS:-inf:+inf:-inf:+inf:1:2
+Portie:DELHI:-inf:+inf:-inf:+inf:1:2
+Gilbert:BOSTON:-inf:+inf:-inf:+inf:0:1
+Ainsley:BRECKENRIDGE:-inf:+inf:-inf:+inf:1:1
+Kiley:ROANOKE:-inf:+inf:-inf:+inf:1:2
+Lawton:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+Corrinne:MORGAN HILL:-inf:+inf:-inf:+inf:1:1
+Cleo:NORFOLK:-inf:+inf:-inf:+inf:0:0
+Claybourne:GILLETTE:-inf:+inf:-inf:+inf:1:3
+Jerald:LAMESA:-inf:+inf:-inf:+inf:0:0
+Ranna:STANFORD:-inf:+inf:-inf:+inf:0:1
+Mannie:HOUSTON:-inf:+inf:-inf:+inf:1:2
+Rutledge:HOLDENVILLE:-inf:+inf:-inf:+inf:1:1
+James:STURGIS:-inf:+inf:-inf:+inf:1:1
+Justis:KATY:-inf:+inf:-inf:+inf:0:1
+Carolee:WORCESTER:-inf:+inf:-inf:+inf:1:2
+Edy:SONORA:-inf:+inf:-inf:+inf:0:0
+Rustie:MINNEAPOLIS:-inf:+inf:-inf:+inf:1:1
+Stanton:GENEVA:-inf:+inf:-inf:+inf:1:3
+Curr:DAYTON:-inf:+inf:-inf:+inf:1:1
+Hamid:LAWTON:-inf:+inf:-inf:+inf:1:3
+Harold:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Ami:WINAMAC:-inf:+inf:-inf:+inf:0:1
+Hillier:PROVIDENCE:-inf:+inf:-inf:+inf:0:1
+Wiley:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+Celia:WAYNESBORO:-inf:+inf:-inf:+inf:0:2
+Charlotte:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+Josee:HIALEAH:-inf:+inf:-inf:+inf:1:2
+Melantha:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+Simmonds:OKLAHOMA CITY:-inf:+inf:-inf:+inf:1:3
+Bailie:PLANO:-inf:+inf:-inf:+inf:1:1
+Darcy:EL CAMPO:-inf:+inf:-inf:+inf:0:1
+Clari:MARION:-inf:+inf:-inf:+inf:1:1
+Ortensia:DENVER:-inf:+inf:-inf:+inf:0:0
+Taite:AGUADILLA:-inf:+inf:-inf:+inf:1:3
+Violetta:LIMA:-inf:+inf:-inf:+inf:0:1
+Ula:LODI:-inf:+inf:-inf:+inf:0:2
+Darin:MANAHAWKIN:-inf:+inf:-inf:+inf:1:1
+Jaclyn:MIAMI:-inf:+inf:-inf:+inf:0:2
+Adriane:DELHI:-inf:+inf:-inf:+inf:0:0
+Delphinia:ORANGE CITY:-inf:+inf:-inf:+inf:0:2
+Lauryn:OCONTO FALLS:-inf:+inf:-inf:+inf:0:1
+Harwell:MINDEN:-inf:+inf:-inf:+inf:1:2
+Atlante:NEW YORK:-inf:+inf:-inf:+inf:1:3
+Celina:BOSTON:-inf:+inf:-inf:+inf:1:1
+Reginald:CHICAGO:-inf:+inf:-inf:+inf:0:0
+Marys:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+Cicily:WALNUT:-inf:+inf:-inf:+inf:1:1
+Rosina:HOT SPRINGS:-inf:+inf:-inf:+inf:1:1
+Dulciana:COLUMBUS:-inf:+inf:-inf:+inf:0:0
+Deni:TAMPA:-inf:+inf:-inf:+inf:0:2
+Carlin:HERSHEY:-inf:+inf:-inf:+inf:1:3
+Ogdon:MARSHFIELD:-inf:+inf:-inf:+inf:1:3
+Lammond:CINCINNATI:-inf:+inf:-inf:+inf:1:2
+Lilian:CINCINNATI:-inf:+inf:-inf:+inf:0:1
+Teodoor:CLARE:-inf:+inf:-inf:+inf:0:0
+Lou:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:3
+Elisha:TUCSON:-inf:+inf:-inf:+inf:0:2
+Hagen:PARSONS:-inf:+inf:-inf:+inf:0:1
+Lyon:BOISE:-inf:+inf:-inf:+inf:0:0
+Magdaia:FREDERICKSBURG:-inf:+inf:-inf:+inf:0:2
+Terri:ATLANTA:-inf:+inf:-inf:+inf:0:2
+Jephthah:NORTH LAS VEGAS:-inf:+inf:-inf:+inf:1:3
+Oberon:SUSQUEHANNA:-inf:+inf:-inf:+inf:0:0
+Zeb:USAF ACADEMY:-inf:+inf:-inf:+inf:1:2
+Ameline:KNOXVILLE:-inf:+inf:-inf:+inf:0:1
+Royall:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+Adolphe:BETHLEHEM:-inf:+inf:-inf:+inf:1:3
+Tracey:PHILLIPSBURG:-inf:+inf:-inf:+inf:0:1
+Pincus:COLUMBIA:-inf:+inf:-inf:+inf:1:1
+Theodora:PORTLAND:-inf:+inf:-inf:+inf:0:0
+Lee:SEATTLE:-inf:+inf:-inf:+inf:1:3
+Beverlee:PHILADELPHIA:-inf:+inf:-inf:+inf:1:3
+Carita:SYRACUSE:-inf:+inf:-inf:+inf:0:2
+Nealy:DORAL:-inf:+inf:-inf:+inf:1:2
+Beale:ORMOND BEACH:-inf:+inf:-inf:+inf:1:3
+Tori:FLOWOOD:-inf:+inf:-inf:+inf:0:2
+Penny:BRECKENRIDGE:-inf:+inf:-inf:+inf:0:0
+Morna:THE WOODLANDS:-inf:+inf:-inf:+inf:1:1
+Decca:PITTSBURGH:-inf:+inf:-inf:+inf:1:1
+Horatia:FAIRFIELD:-inf:+inf:-inf:+inf:1:3
+Adolph:CLEARWATER:-inf:+inf:-inf:+inf:1:3
+Rollins:SAN DIEGO:-inf:+inf:-inf:+inf:1:2
+Waverley:CANTON:-inf:+inf:-inf:+inf:1:3
+Dela:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+Waylon:FULLERTON:-inf:+inf:-inf:+inf:0:0
+Salome:NEW ROADS:-inf:+inf:-inf:+inf:0:0
+Kristi:DORAL:-inf:+inf:-inf:+inf:1:2
+Laurice:BETTENDORF:-inf:+inf:-inf:+inf:0:2
+Peyton:WARREN:-inf:+inf:-inf:+inf:0:1
+Saloma:CHESTERFIELD:-inf:+inf:-inf:+inf:1:3
+Tova:ROME:-inf:+inf:-inf:+inf:0:1
+Raleigh:DENVER:-inf:+inf:-inf:+inf:1:1
+Ernie:ASHDOWN:-inf:+inf:-inf:+inf:0:2
+Katie:NASHVILLE:-inf:+inf:-inf:+inf:1:2
+Cathrin:KANSAS CITY:-inf:+inf:-inf:+inf:0:2
+Alano:IOWA CITY:-inf:+inf:-inf:+inf:0:1
+Karlens:BROCKPORT:-inf:+inf:-inf:+inf:1:1
+Cori:SEBRING:-inf:+inf:-inf:+inf:1:3
+Susana:CAMP HILL:-inf:+inf:-inf:+inf:1:1
+Bartholomew:MOUNT VERNON:-inf:+inf:-inf:+inf:0:1
+Job:LENOIR:-inf:+inf:-inf:+inf:0:2
+Seth:SULPHUR SPRINGS:-inf:+inf:-inf:+inf:0:2
+Marc:TUSTIN:-inf:+inf:-inf:+inf:0:1
+Gibby:PALM HARBOR:-inf:+inf:-inf:+inf:0:0
+Rancell:GREEN BAY:-inf:+inf:-inf:+inf:1:3
+Bernelle:OXFORD:-inf:+inf:-inf:+inf:1:2
+Derek:KANSAS CITY:-inf:+inf:-inf:+inf:0:2
+Orelia:DEXTER:-inf:+inf:-inf:+inf:1:3
+Franchot:STAMFORD:-inf:+inf:-inf:+inf:1:2
+Whitney:MORGANFIELD:-inf:+inf:-inf:+inf:0:0
+Minna:BATON ROUGE:-inf:+inf:-inf:+inf:1:2
+Alexine:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+Farlie:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+Philomena:RANDALLSTOWN:-inf:+inf:-inf:+inf:0:0
+Gusty:ASHEVILLE:-inf:+inf:-inf:+inf:1:2
+Lissi:KALAMAZOO:-inf:+inf:-inf:+inf:1:3
+Micky:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:3
+Inez:EVERGREEN:-inf:+inf:-inf:+inf:0:2
+Avigdor:KNOXVILLE:-inf:+inf:-inf:+inf:0:2
+Warren:MORGANTOWN:-inf:+inf:-inf:+inf:0:0
+Silvano:WILLISTON:-inf:+inf:-inf:+inf:0:0
+Shem:WINFIELD:-inf:+inf:-inf:+inf:0:0
+Vivienne:COVINGTON:-inf:+inf:-inf:+inf:1:1
+Gerick:MIRAMAR:-inf:+inf:-inf:+inf:1:3
+Regen:SAC CITY:-inf:+inf:-inf:+inf:1:3
+Alecia:CHICAGO:-inf:+inf:-inf:+inf:1:2
+Lucine:DENVER:-inf:+inf:-inf:+inf:1:3
+Karin:MOUNT LAUREL:-inf:+inf:-inf:+inf:0:2
+Gery:PONCE:-inf:+inf:-inf:+inf:0:1
+Georgeta:SAINT LOUIS:-inf:+inf:-inf:+inf:0:1
+Matthieu:BISHOP:-inf:+inf:-inf:+inf:0:1
+Eldin:RICHMOND:-inf:+inf:-inf:+inf:0:1
+Rhona:CLIFTON:-inf:+inf:-inf:+inf:0:0
+Billie:ATLANTA:-inf:+inf:-inf:+inf:0:0
+Jorry:DETROIT:-inf:+inf:-inf:+inf:1:2
+Leena:FULLERTON:-inf:+inf:-inf:+inf:0:1
+Gale:CEDAR RAPIDS:-inf:+inf:-inf:+inf:1:1
+Mina:LYNWOOD:-inf:+inf:-inf:+inf:0:2
+Lainey:WARREN:-inf:+inf:-inf:+inf:1:1
+Silvie:ATLANTA:-inf:+inf:-inf:+inf:0:2
+Constance:CHEEKTOWAGA:-inf:+inf:-inf:+inf:1:2
+Vyky:RICHMOND:-inf:+inf:-inf:+inf:1:3
+Darryl:CHARLESTOWN:-inf:+inf:-inf:+inf:0:0
+Bronny:ELROY:-inf:+inf:-inf:+inf:0:2
+See:WEST COVINA:-inf:+inf:-inf:+inf:1:1
+Amargo:PEORIA:-inf:+inf:-inf:+inf:0:2
+

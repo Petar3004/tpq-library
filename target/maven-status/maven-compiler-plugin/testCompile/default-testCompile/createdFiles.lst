@@ -1,0 +1,6 @@
+GraphReadTest.class
+QueryTest.class
+NormalizationTest.class
+OperatorTest.class
+FlightGraph.class
+CoalescingTest.class

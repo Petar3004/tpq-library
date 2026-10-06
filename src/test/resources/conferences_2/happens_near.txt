@@ -1,0 +1,2001 @@
+DevSummit:ORANGE PARK:-inf:+inf:-inf:+inf:1:3
+TechSphere:MIDLAND:-inf:+inf:-inf:+inf:0:0
+CodeCamp:UPLAND:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:NESS CITY:-inf:+inf:-inf:+inf:2:4
+TechRevolution:PETERSBURG:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:MACOMB:-inf:+inf:-inf:+inf:2:2
+InnovationForum:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:HIALEAH:-inf:+inf:-inf:+inf:2:2
+TechWave:REFUGIO:-inf:+inf:-inf:+inf:2:3
+CodeCamp:MONTCLAIR:-inf:+inf:-inf:+inf:1:1
+TechWave:WAILUKU:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:JACKSON:-inf:+inf:-inf:+inf:0:2
+CodeTech:WESTMINSTER:-inf:+inf:-inf:+inf:2:3
+TechCon:HERSHEY:-inf:+inf:-inf:+inf:1:2
+DigitalX:MADISON:-inf:+inf:-inf:+inf:0:0
+InnovateTech:APO:-inf:+inf:-inf:+inf:0:1
+TechWave:HAZLEHURST:-inf:+inf:-inf:+inf:0:1
+FutureDev:MACON:-inf:+inf:-inf:+inf:1:3
+TechRevolution:MONTROSE:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:HIALEAH:-inf:+inf:-inf:+inf:0:0
+FutureDev:WATER VALLEY:-inf:+inf:-inf:+inf:0:2
+DevSummit:WHITEFIELD:-inf:+inf:-inf:+inf:0:0
+InnovateWave:RICHMOND:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:KENSINGTON:-inf:+inf:-inf:+inf:2:4
+DevCon:KERRVILLE:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:NEW BRAUNFELS:-inf:+inf:-inf:+inf:1:1
+TechFest:CINCINNATI:-inf:+inf:-inf:+inf:2:3
+FutureTech:INDIANOLA:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:KANSAS CITY:-inf:+inf:-inf:+inf:1:3
+DevSummit:ATLANTA:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:BOSTON:-inf:+inf:-inf:+inf:1:3
+FutureDev:BEACHWOOD:-inf:+inf:-inf:+inf:2:3
+CodeSphere:EASTON:-inf:+inf:-inf:+inf:1:1
+TechWave:SEATTLE:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:CHICAGO:-inf:+inf:-inf:+inf:0:0
+FutureDev:LOS ANGELES:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:SEWICKLEY:-inf:+inf:-inf:+inf:0:0
+CodeTech:TIOGA:-inf:+inf:-inf:+inf:0:0
+CodeTech:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:LAFAYETTE:-inf:+inf:-inf:+inf:2:3
+TechCon:CHATTANOOGA:-inf:+inf:-inf:+inf:0:0
+InnovateX:OWASSO:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:STATEN ISLAND:-inf:+inf:-inf:+inf:2:4
+DevX:HYATTSVILLE:-inf:+inf:-inf:+inf:2:4
+DevCon:MC KENZIE:-inf:+inf:-inf:+inf:2:2
+InnovateWave:ATLANTA:-inf:+inf:-inf:+inf:0:2
+DevSummit:KNOXVILLE:-inf:+inf:-inf:+inf:2:3
+DevX:FULLERTON:-inf:+inf:-inf:+inf:0:0
+InnovateWave:FORT SMITH:-inf:+inf:-inf:+inf:2:2
+InnovationForum:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+TechFest:EL CAMPO:-inf:+inf:-inf:+inf:2:2
+InnovateX:NASHVILLE:-inf:+inf:-inf:+inf:1:3
+CodeCamp:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+InnovationForum:SAN FRANCISCO:-inf:+inf:-inf:+inf:2:3
+DevCon:HERSHEY:-inf:+inf:-inf:+inf:0:1
+TechX:PEORIA:-inf:+inf:-inf:+inf:0:2
+CodeWorld:JACKSON:-inf:+inf:-inf:+inf:1:2
+TechFest:NYACK:-inf:+inf:-inf:+inf:0:0
+DigitalTech:GALION:-inf:+inf:-inf:+inf:2:4
+CodeSphere:DOWNEY:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:CHICAGO:-inf:+inf:-inf:+inf:1:2
+TechCon:SOUTH BEND:-inf:+inf:-inf:+inf:2:4
+DigitalTech:JACKSONVILLE:-inf:+inf:-inf:+inf:0:2
+DigitalX:SOUTHAVEN:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:RUPERT:-inf:+inf:-inf:+inf:1:2
+InnovateX:FORT KENT:-inf:+inf:-inf:+inf:0:0
+InnovateWave:BROCKTON:-inf:+inf:-inf:+inf:0:1
+InnovateX:HOUSTON:-inf:+inf:-inf:+inf:1:3
+FutureTech:EDEN PRAIRIE:-inf:+inf:-inf:+inf:2:4
+InnovationForum:INDIANOLA:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:HOLDENVILLE:-inf:+inf:-inf:+inf:0:2
+FutureTech:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+InnovateX:WHEELING:-inf:+inf:-inf:+inf:2:3
+DevX:HAMMOND:-inf:+inf:-inf:+inf:1:3
+ConnectTech:WOODSTOCK:-inf:+inf:-inf:+inf:1:1
+InnovateX:PLYMOUTH:-inf:+inf:-inf:+inf:0:2
+TechRevolution:JACKSONVILLE:-inf:+inf:-inf:+inf:1:1
+CodeCamp:FT CARSON:-inf:+inf:-inf:+inf:2:3
+TechCon:RIVER FOREST:-inf:+inf:-inf:+inf:0:2
+CodeTech:MIAMI:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:DELTA:-inf:+inf:-inf:+inf:0:2
+DigitalTech:ORANGE:-inf:+inf:-inf:+inf:0:0
+DigitalX:CHICAGO:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:CLEVELAND:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:DU BOIS:-inf:+inf:-inf:+inf:2:3
+InnovateWave:DALLAS:-inf:+inf:-inf:+inf:1:3
+CodeWorld:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+CodeFusion:CARTHAGE:-inf:+inf:-inf:+inf:0:2
+FutureDev:ROCKVILLE CENTRE:-inf:+inf:-inf:+inf:1:3
+FutureTech:LANSING:-inf:+inf:-inf:+inf:1:2
+InnovateTech:WABASH:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:MANCHESTER:-inf:+inf:-inf:+inf:0:1
+DigitalX:SAINT ALBANS:-inf:+inf:-inf:+inf:1:2
+DevCon:NORTH TONAWANDA:-inf:+inf:-inf:+inf:2:2
+TechRevolution:SACRAMENTO:-inf:+inf:-inf:+inf:1:1
+CodeWorld:MIAMI:-inf:+inf:-inf:+inf:0:0
+InnovateTech:NASHVILLE:-inf:+inf:-inf:+inf:0:2
+CodeSphere:ETOWAH:-inf:+inf:-inf:+inf:0:0
+TechRevolution:HAMILTON:-inf:+inf:-inf:+inf:1:3
+CodeFusion:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+TechRevolution:ARROYO:-inf:+inf:-inf:+inf:0:0
+InnovationForum:DORAL:-inf:+inf:-inf:+inf:1:1
+ConnectTech:JASPER:-inf:+inf:-inf:+inf:2:4
+CodeCamp:MARSHFIELD:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:RICHMOND:-inf:+inf:-inf:+inf:1:2
+DevSummit:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+CodeWorld:MINNEAPOLIS:-inf:+inf:-inf:+inf:2:3
+TechUnite:THE WOODLANDS:-inf:+inf:-inf:+inf:2:2
+InnovateX:MARION:-inf:+inf:-inf:+inf:0:1
+InnovationForum:NEW YORK:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:MIDLAND:-inf:+inf:-inf:+inf:0:0
+FutureDev:MIAMI:-inf:+inf:-inf:+inf:2:3
+DevSummit:FORT WORTH:-inf:+inf:-inf:+inf:1:1
+TechUnite:CHILLICOTHE:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:MEMPHIS:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:BIRMINGHAM:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:FORT MYERS BEACH:-inf:+inf:-inf:+inf:1:3
+DevX:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+CodeWorld:GOLDSBORO:-inf:+inf:-inf:+inf:2:4
+TechFest:PEORIA:-inf:+inf:-inf:+inf:1:3
+InnovateTech:NEW ALBANY:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:PLAINFIELD:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:PETERSBURG:-inf:+inf:-inf:+inf:1:2
+CodeTech:CORSICANA:-inf:+inf:-inf:+inf:0:2
+TechFest:DALLAS:-inf:+inf:-inf:+inf:2:3
+DevSummit:WEATHERFORD:-inf:+inf:-inf:+inf:0:1
+ConnectTech:LANCASTER:-inf:+inf:-inf:+inf:2:3
+CodeSphere:LAS VEGAS:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:GENEVA:-inf:+inf:-inf:+inf:2:4
+TechSphere:NORTH MIAMI BEACH:-inf:+inf:-inf:+inf:0:2
+TechWave:HONOLULU:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:MILWAUKEE:-inf:+inf:-inf:+inf:2:3
+TechWave:NEWARK:-inf:+inf:-inf:+inf:0:0
+DigitalTech:CHICAGO:-inf:+inf:-inf:+inf:2:4
+CodeFusion:NEWARK:-inf:+inf:-inf:+inf:0:2
+CodeSphere:BOWLING GREEN:-inf:+inf:-inf:+inf:1:1
+DevCon:ELMHURST:-inf:+inf:-inf:+inf:2:3
+InnovateWave:DORAL:-inf:+inf:-inf:+inf:2:2
+CodeSphere:LOGANSPORT:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:PEORIA:-inf:+inf:-inf:+inf:2:3
+DigitalX:COLUMBIA:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:RICHMOND:-inf:+inf:-inf:+inf:0:2
+CodeSphere:GAUTIER:-inf:+inf:-inf:+inf:0:1
+CodeFusion:HARLINGEN:-inf:+inf:-inf:+inf:1:2
+TechX:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:2
+DigitalTech:BOSTON:-inf:+inf:-inf:+inf:1:2
+CodeFusion:NESS CITY:-inf:+inf:-inf:+inf:1:1
+TechUnite:SANTA MARIA:-inf:+inf:-inf:+inf:1:2
+TechX:SHAKER HTS:-inf:+inf:-inf:+inf:2:3
+InnovationForum:MIAMI:-inf:+inf:-inf:+inf:0:0
+CodeFusion:TAMPA:-inf:+inf:-inf:+inf:0:2
+TechX:DENVER:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:GATESVILLE:-inf:+inf:-inf:+inf:2:3
+CodeFusion:MARYVILLE:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:CLANTON:-inf:+inf:-inf:+inf:0:2
+TechX:HOLLYWOOD:-inf:+inf:-inf:+inf:2:4
+FutureTech:WARWICK:-inf:+inf:-inf:+inf:1:3
+CodeWorld:SONORA:-inf:+inf:-inf:+inf:0:2
+InnovateX:SAN DIEGO:-inf:+inf:-inf:+inf:2:4
+DigitalTech:PERRIS:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:SEATTLE:-inf:+inf:-inf:+inf:2:2
+CodeTech:WEST PLAINS:-inf:+inf:-inf:+inf:2:3
+TechX:WILMINGTON:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:JACKSONVILLE:-inf:+inf:-inf:+inf:2:3
+DevX:NEW YORK:-inf:+inf:-inf:+inf:2:3
+CodeFusion:HONOLULU:-inf:+inf:-inf:+inf:1:1
+FutureDev:HENDERSON:-inf:+inf:-inf:+inf:1:3
+CodeCamp:HARVEY:-inf:+inf:-inf:+inf:1:2
+TechFest:SAN ANTONIO:-inf:+inf:-inf:+inf:1:2
+TechFest:SOUTH HILL:-inf:+inf:-inf:+inf:2:4
+TechSphere:JERSEY CITY:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:MOUNTAIN HOME:-inf:+inf:-inf:+inf:2:4
+InnovateTech:ODESSA:-inf:+inf:-inf:+inf:0:1
+DevSummit:WASHINGTON:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:MIAMI:-inf:+inf:-inf:+inf:0:2
+InnovateWave:BREA:-inf:+inf:-inf:+inf:2:2
+CodeSphere:CLAREMORE:-inf:+inf:-inf:+inf:1:3
+InnovateTech:GARDENA:-inf:+inf:-inf:+inf:0:2
+ConnectTech:HOUSTON:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:MACON:-inf:+inf:-inf:+inf:0:0
+DevSummit:KONAWA:-inf:+inf:-inf:+inf:2:2
+InnovateConnect:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+TechRevolution:CLYDE:-inf:+inf:-inf:+inf:2:2
+TechX:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:ALBANY:-inf:+inf:-inf:+inf:1:3
+TechCon:YORK:-inf:+inf:-inf:+inf:2:4
+CodeCamp:SPRINGFIELD:-inf:+inf:-inf:+inf:0:1
+FutureDev:HILLSBOROUGH:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:MIAMI:-inf:+inf:-inf:+inf:2:4
+InnovateX:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+FutureDev:MECHANICSBURG:-inf:+inf:-inf:+inf:2:4
+TechFest:BLAIRSVILLE:-inf:+inf:-inf:+inf:0:1
+TechRevolution:DALLAS:-inf:+inf:-inf:+inf:1:1
+InnovateTech:DETROIT:-inf:+inf:-inf:+inf:2:4
+CodeSphere:WESLEY CHAPEL:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:BOLIVAR:-inf:+inf:-inf:+inf:0:0
+TechRevolution:CINCINNATI:-inf:+inf:-inf:+inf:1:1
+TechRevolution:HIALEAH:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:GREEN BAY:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:YONKERS:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:MONTICELLO:-inf:+inf:-inf:+inf:2:2
+FutureTech:RICHMOND:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+TechFest:JACKSONVILLE:-inf:+inf:-inf:+inf:1:2
+InnovateWave:NASHUA:-inf:+inf:-inf:+inf:1:1
+CodeCamp:PINEVILLE:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:UPLAND:-inf:+inf:-inf:+inf:0:0
+InnovationForum:NORWALK:-inf:+inf:-inf:+inf:0:2
+TechX:HOUSTON:-inf:+inf:-inf:+inf:2:2
+TechFest:NORTH WILKESBORO:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:BEDFORD HEIGHTS:-inf:+inf:-inf:+inf:0:0
+InnovateWave:CHANUTE:-inf:+inf:-inf:+inf:0:2
+TechUnite:STERLING HEIGHTS:-inf:+inf:-inf:+inf:0:2
+TechCon:DORAL:-inf:+inf:-inf:+inf:1:3
+CodeFusion:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+DigitalX:MARION:-inf:+inf:-inf:+inf:1:1
+CodeWorld:MIAMI GARDENS:-inf:+inf:-inf:+inf:2:4
+DevCon:ATLANTA:-inf:+inf:-inf:+inf:0:1
+DigitalX:ORANGEBURG:-inf:+inf:-inf:+inf:2:4
+CodeFusion:FRESNO:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:CIDRA:-inf:+inf:-inf:+inf:2:2
+ConnectTech:HOUSTON:-inf:+inf:-inf:+inf:1:2
+ConnectTech:MOUNT AIRY:-inf:+inf:-inf:+inf:0:1
+CodeWorld:BOTHELL:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:YONKERS:-inf:+inf:-inf:+inf:2:3
+FutureInnovate:PITTSBURGH:-inf:+inf:-inf:+inf:2:2
+DevCon:CARMEL:-inf:+inf:-inf:+inf:0:0
+TechRevolution:SWEETWATER:-inf:+inf:-inf:+inf:1:3
+CodeFusion:EL CAMPO:-inf:+inf:-inf:+inf:2:4
+TechX:PULLMAN:-inf:+inf:-inf:+inf:1:1
+CodeSphere:MIAMI:-inf:+inf:-inf:+inf:2:4
+DigitalTech:NOVATO:-inf:+inf:-inf:+inf:1:2
+InnovateTech:WILLMAR:-inf:+inf:-inf:+inf:0:0
+TechX:DOUGLAS:-inf:+inf:-inf:+inf:2:3
+InnovateTech:CHICAGO:-inf:+inf:-inf:+inf:0:0
+CodeRevolution:MENA:-inf:+inf:-inf:+inf:2:3
+CodeSphere:DELTA:-inf:+inf:-inf:+inf:1:2
+TechSphere:NASHVILLE:-inf:+inf:-inf:+inf:2:2
+TechUnite:KALAMAZOO:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:STRATFORD:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:BRITTON:-inf:+inf:-inf:+inf:1:2
+CodeTech:PHOENIX:-inf:+inf:-inf:+inf:0:2
+TechRevolution:SHREVEPORT:-inf:+inf:-inf:+inf:1:1
+InnovateTech:PITTSBURGH:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:REEDSBURG:-inf:+inf:-inf:+inf:1:3
+DigitalTech:COAL TOWNSHIP:-inf:+inf:-inf:+inf:2:2
+DevCon:ALLENTOWN:-inf:+inf:-inf:+inf:1:1
+FutureTech:DALLAS:-inf:+inf:-inf:+inf:1:2
+FutureTech:CLEVELAND:-inf:+inf:-inf:+inf:2:3
+DevSummit:SALT LAKE CITY:-inf:+inf:-inf:+inf:0:0
+FutureTech:SANDSTONE:-inf:+inf:-inf:+inf:2:2
+DevX:TYLER:-inf:+inf:-inf:+inf:2:2
+InnovateTech:SAN JUAN:-inf:+inf:-inf:+inf:1:1
+CodeTech:PHILADELPHIA:-inf:+inf:-inf:+inf:2:4
+InnovateWave:PITTSBURGH:-inf:+inf:-inf:+inf:0:2
+CodeTech:MONROE:-inf:+inf:-inf:+inf:2:2
+CodeTech:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+FutureDev:HUMACAO:-inf:+inf:-inf:+inf:1:2
+ConnectTech:UNALAKLEET:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:OCONTO FALLS:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:MIAMI:-inf:+inf:-inf:+inf:1:3
+CodeSphere:MADISONVILLE:-inf:+inf:-inf:+inf:1:1
+InnovateTech:HACKETTSTOWN:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:WORCESTER:-inf:+inf:-inf:+inf:0:2
+DigitalTech:MOUNT GILEAD:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:INDIANAPOLIS:-inf:+inf:-inf:+inf:2:3
+TechFest:DALLAS:-inf:+inf:-inf:+inf:1:1
+TechWave:FORT SMITH:-inf:+inf:-inf:+inf:2:3
+InnovateTech:TOLEDO:-inf:+inf:-inf:+inf:2:4
+CodeFusion:CHILDRESS:-inf:+inf:-inf:+inf:0:0
+TechRevolution:KAHUKU:-inf:+inf:-inf:+inf:0:1
+DigitalTech:OKLAHOMA CITY:-inf:+inf:-inf:+inf:1:2
+TechUnite:NORTHFIELD:-inf:+inf:-inf:+inf:1:3
+InnovateTech:PHILADELPHIA:-inf:+inf:-inf:+inf:1:3
+InnovateX:GRAND ISLAND:-inf:+inf:-inf:+inf:1:1
+DevSummit:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+InnovateX:CAPE GIRARDEAU:-inf:+inf:-inf:+inf:1:2
+TechUnite:MIAMI:-inf:+inf:-inf:+inf:0:0
+CodeCamp:ANACORTES:-inf:+inf:-inf:+inf:2:3
+TechFest:COOK:-inf:+inf:-inf:+inf:0:2
+CodeCamp:BAKERSFIELD:-inf:+inf:-inf:+inf:1:3
+ConnectTech:ATLANTA:-inf:+inf:-inf:+inf:0:1
+TechUnite:EL MONTE:-inf:+inf:-inf:+inf:0:0
+DigitalX:BLACKSTONE:-inf:+inf:-inf:+inf:2:4
+TechSphere:WORCESTER:-inf:+inf:-inf:+inf:2:3
+TechCon:MORTON:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:EAST SETAUKET:-inf:+inf:-inf:+inf:0:2
+TechX:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+DevSummit:RAPID CITY:-inf:+inf:-inf:+inf:2:3
+InnovationForum:ANAHEIM:-inf:+inf:-inf:+inf:0:0
+InnovateTech:EVANSVILLE:-inf:+inf:-inf:+inf:2:2
+FutureTech:ALTUS:-inf:+inf:-inf:+inf:0:0
+FutureDev:ROYAL OAK:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:FORT SMITH:-inf:+inf:-inf:+inf:2:2
+CodeWorld:SPRINGFIELD:-inf:+inf:-inf:+inf:1:2
+InnovateWave:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+TechRevolution:NEW HAVEN:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:TECUMSEH:-inf:+inf:-inf:+inf:2:2
+TechWave:NEW ORLEANS:-inf:+inf:-inf:+inf:1:3
+FutureTech:STANTON:-inf:+inf:-inf:+inf:2:3
+ConnectTech:HIALEAH:-inf:+inf:-inf:+inf:2:2
+DigitalTech:MIAMI:-inf:+inf:-inf:+inf:1:1
+CodeCamp:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+TechUnite:READING:-inf:+inf:-inf:+inf:0:2
+TechRevolution:COLUMBUS:-inf:+inf:-inf:+inf:0:2
+DigitalTech:PORT JEFFERSON:-inf:+inf:-inf:+inf:2:3
+CodeTech:LOUISVILLE:-inf:+inf:-inf:+inf:0:2
+TechX:VINITA:-inf:+inf:-inf:+inf:2:3
+DevCon:CHANUTE:-inf:+inf:-inf:+inf:1:1
+DigitalX:SULLIVAN:-inf:+inf:-inf:+inf:0:2
+InnovationForum:CHARLESTON:-inf:+inf:-inf:+inf:0:1
+InnovateWave:ANAHEIM:-inf:+inf:-inf:+inf:2:4
+InnovateConnect:YORK:-inf:+inf:-inf:+inf:0:0
+CodeCamp:WELLINGTON:-inf:+inf:-inf:+inf:2:2
+TechX:EDEN:-inf:+inf:-inf:+inf:0:1
+CodeFusion:WHEELING:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:INTERNATIONAL FALLS:-inf:+inf:-inf:+inf:1:1
+TechX:MIAMI:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:REDLANDS:-inf:+inf:-inf:+inf:0:0
+DevSummit:WASHINGTON:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:MIAMI:-inf:+inf:-inf:+inf:0:2
+CodeWorld:ATLANTA:-inf:+inf:-inf:+inf:0:2
+TechCon:MIAMI:-inf:+inf:-inf:+inf:0:2
+TechRevolution:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:MALVERN:-inf:+inf:-inf:+inf:1:3
+ConnectTech:ARLINGTON:-inf:+inf:-inf:+inf:1:3
+InnovateWave:STORM LAKE:-inf:+inf:-inf:+inf:1:2
+DigitalTech:ENCINO:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:BROOKLYN:-inf:+inf:-inf:+inf:1:1
+InnovateTech:ST CLOUD:-inf:+inf:-inf:+inf:2:4
+DevX:MOUNT VERNON:-inf:+inf:-inf:+inf:2:4
+ConnectTech:LAS VEGAS:-inf:+inf:-inf:+inf:2:3
+TechSphere:RICHMOND:-inf:+inf:-inf:+inf:0:1
+TechFest:TELL CITY:-inf:+inf:-inf:+inf:1:3
+TechRevolution:RANCHO MIRAGE:-inf:+inf:-inf:+inf:2:2
+TechCon:HORN LAKE:-inf:+inf:-inf:+inf:2:3
+DevCon:PLANTATION:-inf:+inf:-inf:+inf:2:2
+TechFest:TIFTON:-inf:+inf:-inf:+inf:2:4
+DevCon:DORAL:-inf:+inf:-inf:+inf:2:4
+TechWave:BEAVER:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:OPELIKA:-inf:+inf:-inf:+inf:2:3
+TechFest:ORANGEBURG:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:NORTH SMITHFIELD:-inf:+inf:-inf:+inf:1:1
+FutureDev:ARGOS:-inf:+inf:-inf:+inf:0:2
+InnovateX:CONWAY:-inf:+inf:-inf:+inf:0:0
+ConnectTech:CHICAGO:-inf:+inf:-inf:+inf:0:0
+CodeFusion:PARIS:-inf:+inf:-inf:+inf:2:3
+CodeWorld:ROCHESTER:-inf:+inf:-inf:+inf:1:3
+CodeFusion:WICHITA FALLS:-inf:+inf:-inf:+inf:1:1
+TechSphere:WINSTON-SALEM:-inf:+inf:-inf:+inf:1:2
+CodeWorld:FLINT:-inf:+inf:-inf:+inf:0:1
+FutureTech:JASPER:-inf:+inf:-inf:+inf:1:1
+TechRevolution:BAY ST LOUIS:-inf:+inf:-inf:+inf:2:4
+TechSphere:NEWBURGH:-inf:+inf:-inf:+inf:1:3
+CodeTech:CARTHAGE:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:MOUNT VERNON:-inf:+inf:-inf:+inf:2:4
+CodeWorld:MOUNTAIN HOME:-inf:+inf:-inf:+inf:2:4
+InnovationForum:DALLAS:-inf:+inf:-inf:+inf:1:2
+CodeFusion:CAMP HILL:-inf:+inf:-inf:+inf:2:2
+TechWave:SAN DIEGO:-inf:+inf:-inf:+inf:2:4
+DigitalX:NEW YORK:-inf:+inf:-inf:+inf:1:1
+TechSphere:CHARLESTOWN:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:GULFPORT:-inf:+inf:-inf:+inf:0:1
+InnovateX:SULLIVAN:-inf:+inf:-inf:+inf:2:4
+DigitalX:LINCOLN:-inf:+inf:-inf:+inf:0:0
+CodeFusion:EVANSTON:-inf:+inf:-inf:+inf:0:1
+InnovateX:HAVERTOWN:-inf:+inf:-inf:+inf:1:3
+TechWave:ROANOKE:-inf:+inf:-inf:+inf:1:1
+CodeTech:PHILADELPHIA:-inf:+inf:-inf:+inf:1:3
+CodeWorld:FORT STOCKTON:-inf:+inf:-inf:+inf:0:0
+CodeCamp:MOUNT AYR:-inf:+inf:-inf:+inf:0:1
+TechSphere:CONWAY:-inf:+inf:-inf:+inf:0:2
+FutureTech:LONG BEACH:-inf:+inf:-inf:+inf:0:0
+TechX:MANISTEE:-inf:+inf:-inf:+inf:1:3
+DigitalX:CINCINNATI:-inf:+inf:-inf:+inf:0:2
+DevSummit:MOUNT VERNON:-inf:+inf:-inf:+inf:2:3
+CodeFusion:CENTER LINE:-inf:+inf:-inf:+inf:0:2
+TechX:ELLWOOD CITY:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:ORLANDO:-inf:+inf:-inf:+inf:1:3
+DevSummit:SENECA:-inf:+inf:-inf:+inf:0:1
+DevCon:KANSAS CITY:-inf:+inf:-inf:+inf:1:3
+DevCon:RICHMOND:-inf:+inf:-inf:+inf:2:3
+DevX:FORT WORTH:-inf:+inf:-inf:+inf:2:2
+DigitalX:STANFORD:-inf:+inf:-inf:+inf:2:2
+InnovateX:FRESNO:-inf:+inf:-inf:+inf:1:1
+TechX:ATLANTA:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:WICHITA:-inf:+inf:-inf:+inf:1:3
+InnovateTech:MELBOURNE:-inf:+inf:-inf:+inf:2:4
+FutureTech:PERHAM:-inf:+inf:-inf:+inf:2:4
+InnovationForum:GRAND ISLAND:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:ORD:-inf:+inf:-inf:+inf:0:2
+FutureTech:VERNON:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:RICHMOND:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:PLAINFIELD:-inf:+inf:-inf:+inf:1:1
+InnovationForum:ATLANTA:-inf:+inf:-inf:+inf:1:3
+InnovateX:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+InnovateX:CHICAGO:-inf:+inf:-inf:+inf:2:4
+TechSphere:DETROIT:-inf:+inf:-inf:+inf:1:1
+ConnectTech:LOUISVILLE:-inf:+inf:-inf:+inf:2:4
+TechWave:WASHINGTON:-inf:+inf:-inf:+inf:1:1
+DigitalTech:OCILLA:-inf:+inf:-inf:+inf:2:3
+InnovateTech:DALTON:-inf:+inf:-inf:+inf:0:2
+DevX:CINCINNATI:-inf:+inf:-inf:+inf:2:3
+TechX:BELOIT:-inf:+inf:-inf:+inf:2:2
+CodeFusion:NORTH CHARLESTON:-inf:+inf:-inf:+inf:1:3
+InnovateConnect:FT CAVAZOS:-inf:+inf:-inf:+inf:2:4
+InnovationForum:BERKELEY SPRINGS:-inf:+inf:-inf:+inf:1:3
+TechWave:CHICAGO:-inf:+inf:-inf:+inf:0:2
+TechRevolution:ALBANY:-inf:+inf:-inf:+inf:0:1
+TechWave:ABERDEEN:-inf:+inf:-inf:+inf:2:4
+DevCon:BIRMINGHAM:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:FARGO:-inf:+inf:-inf:+inf:0:1
+CodeFusion:MIRAMAR:-inf:+inf:-inf:+inf:2:4
+DevX:DEKALB:-inf:+inf:-inf:+inf:0:2
+TechSphere:MORRISVILLE:-inf:+inf:-inf:+inf:2:3
+CodeCamp:CARUTHERSVILLE:-inf:+inf:-inf:+inf:2:4
+InnovateWave:ST LOUIS:-inf:+inf:-inf:+inf:2:4
+TechX:WILLIAMSPORT:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:LLANO:-inf:+inf:-inf:+inf:1:1
+CodeSphere:DU BOIS:-inf:+inf:-inf:+inf:2:3
+CodeFusion:CLEVELAND:-inf:+inf:-inf:+inf:0:0
+DevX:SODUS:-inf:+inf:-inf:+inf:2:2
+TechFest:MYRTLE BEACH:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:SAINT PETERSBURG:-inf:+inf:-inf:+inf:1:2
+TechWave:KIRKLAND:-inf:+inf:-inf:+inf:2:3
+CodeFusion:CHICAGO:-inf:+inf:-inf:+inf:0:1
+DevSummit:LEBANON:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:SEILING:-inf:+inf:-inf:+inf:1:1
+DigitalTech:CLIFTON:-inf:+inf:-inf:+inf:0:1
+TechSphere:JOHNSON CITY:-inf:+inf:-inf:+inf:2:4
+InnovateWave:TURTLE LAKE:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:LEESVILLE:-inf:+inf:-inf:+inf:2:3
+DevSummit:HANSCOM AFB:-inf:+inf:-inf:+inf:1:2
+InnovateX:DULUTH:-inf:+inf:-inf:+inf:0:0
+DevSummit:SAINT PAUL:-inf:+inf:-inf:+inf:1:2
+TechRevolution:KNOXVILLE:-inf:+inf:-inf:+inf:0:1
+CodeTech:NEW CASTLE:-inf:+inf:-inf:+inf:0:0
+InnovateX:PHOENIX:-inf:+inf:-inf:+inf:1:1
+InnovationForum:VIRGINIA BEACH:-inf:+inf:-inf:+inf:2:3
+FutureTech:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+TechFest:ANACONDA:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:LAFAYETTE:-inf:+inf:-inf:+inf:1:2
+TechX:BROOKLYN:-inf:+inf:-inf:+inf:1:2
+InnovateTech:ELKADER:-inf:+inf:-inf:+inf:2:4
+DevCon:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+CodeTech:FORT CAMPBELL:-inf:+inf:-inf:+inf:1:3
+CodeTech:ORANGE:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:MIAMI:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:MC GREGOR:-inf:+inf:-inf:+inf:1:1
+TechRevolution:STAYTON:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:MIAMI SPRINGS:-inf:+inf:-inf:+inf:1:1
+DevCon:LYONS:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:HIALEAH GARDENS:-inf:+inf:-inf:+inf:1:3
+FutureTech:PASADENA:-inf:+inf:-inf:+inf:1:3
+InnovateWave:PHILADELPHIA:-inf:+inf:-inf:+inf:2:2
+ConnectTech:CROWN POINT:-inf:+inf:-inf:+inf:0:2
+TechRevolution:ANTHONY:-inf:+inf:-inf:+inf:2:3
+DevX:TAMPA:-inf:+inf:-inf:+inf:2:3
+DevX:LINVILLE:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:LOMBARD:-inf:+inf:-inf:+inf:2:4
+CodeWorld:CAMDEN:-inf:+inf:-inf:+inf:0:1
+CodeSphere:PENSACOLA:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:BLOOMFIELD:-inf:+inf:-inf:+inf:1:1
+TechX:JEROME:-inf:+inf:-inf:+inf:0:2
+TechWave:BAYAMON:-inf:+inf:-inf:+inf:1:2
+FutureTech:BLOOMINGTON:-inf:+inf:-inf:+inf:1:1
+FutureTech:GARDNER:-inf:+inf:-inf:+inf:0:0
+DevCon:SOUTHFIELD:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:BAY CITY:-inf:+inf:-inf:+inf:1:3
+CodeTech:MIAMI:-inf:+inf:-inf:+inf:2:3
+CodeSphere:NORFOLK:-inf:+inf:-inf:+inf:1:2
+InnovateX:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:MIAMI:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:BROOKLYN:-inf:+inf:-inf:+inf:2:3
+CodeCamp:MESA:-inf:+inf:-inf:+inf:1:1
+CodeWorld:NORWALK:-inf:+inf:-inf:+inf:0:2
+TechWave:ALLEN PARK:-inf:+inf:-inf:+inf:2:2
+InnovateConnect:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:1
+TechUnite:KIOWA:-inf:+inf:-inf:+inf:2:2
+TechCon:SAVANNAH:-inf:+inf:-inf:+inf:0:0
+TechUnite:LANCASTER:-inf:+inf:-inf:+inf:1:2
+InnovationForum:LAGUNA BEACH:-inf:+inf:-inf:+inf:0:0
+InnovateX:FORT SMITH:-inf:+inf:-inf:+inf:0:1
+DigitalTech:FORT BENNING:-inf:+inf:-inf:+inf:0:2
+FutureTech:DOVER:-inf:+inf:-inf:+inf:1:1
+TechUnite:NEW CUMBERLAND:-inf:+inf:-inf:+inf:2:4
+FutureTech:WILMINGTON:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:FRESNO:-inf:+inf:-inf:+inf:0:1
+DigitalX:ROCKVILLE:-inf:+inf:-inf:+inf:1:3
+CodeFusion:PITTSBURGH:-inf:+inf:-inf:+inf:0:2
+CodeFusion:PASADENA:-inf:+inf:-inf:+inf:2:2
+TechX:MINERAL WELLS:-inf:+inf:-inf:+inf:1:2
+ConnectTech:LUMBERTON:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:TUCSON:-inf:+inf:-inf:+inf:2:2
+InnovationForum:WALLA WALLA:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:NEW YORK:-inf:+inf:-inf:+inf:2:2
+InnovationForum:JUANA DIAZ:-inf:+inf:-inf:+inf:2:3
+CodeCamp:WASHINGTON:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:MIAMI:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:CLARKSBURG:-inf:+inf:-inf:+inf:1:3
+ConnectTech:MAYAGUEZ:-inf:+inf:-inf:+inf:0:0
+TechWave:RICHMOND:-inf:+inf:-inf:+inf:2:4
+InnovationForum:IRON RIVER:-inf:+inf:-inf:+inf:2:2
+CodeCamp:PHILADELPHIA:-inf:+inf:-inf:+inf:0:1
+DevX:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:PHILA:-inf:+inf:-inf:+inf:0:2
+ConnectTech:CHANDLER:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:WHITTIER:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:STARKE:-inf:+inf:-inf:+inf:0:0
+InnovationForum:BRIDGEPORT:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:JEANNETTE:-inf:+inf:-inf:+inf:0:1
+DigitalTech:DAVIDSONVILLE:-inf:+inf:-inf:+inf:1:2
+InnovationForum:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+InnovateTech:LOS ANGELES:-inf:+inf:-inf:+inf:1:2
+InnovateX:PATCHOGUE:-inf:+inf:-inf:+inf:2:4
+InnovationForum:HERMANN:-inf:+inf:-inf:+inf:2:4
+InnovationForum:GREEN BAY:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:NEWPORT:-inf:+inf:-inf:+inf:1:1
+TechRevolution:GILBERT:-inf:+inf:-inf:+inf:2:2
+DevCon:WEATHERFORD:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:ARLINGTON:-inf:+inf:-inf:+inf:0:1
+TechSphere:INDIANA:-inf:+inf:-inf:+inf:2:2
+TechUnite:HARRISBURG:-inf:+inf:-inf:+inf:1:2
+TechX:MIDLAND:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:YONKERS:-inf:+inf:-inf:+inf:2:2
+TechX:GREENVILLE:-inf:+inf:-inf:+inf:1:3
+CodeSphere:SUNNYSIDE:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:NEWBERRY:-inf:+inf:-inf:+inf:0:2
+ConnectTech:BROOKLYN:-inf:+inf:-inf:+inf:1:3
+CodeFusion:JEFFERSON CITY:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:FRANKLIN:-inf:+inf:-inf:+inf:2:4
+DigitalTech:MEDLEY:-inf:+inf:-inf:+inf:1:3
+CodeSphere:NEWARK:-inf:+inf:-inf:+inf:2:4
+DigitalX:ORANGE:-inf:+inf:-inf:+inf:1:2
+InnovateX:DETROIT:-inf:+inf:-inf:+inf:2:2
+ConnectTech:MEADE:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:COLEBROOK:-inf:+inf:-inf:+inf:1:1
+InnovationForum:KEMMERER:-inf:+inf:-inf:+inf:0:0
+InnovateTech:BRONX:-inf:+inf:-inf:+inf:0:2
+TechFest:OAKLAND:-inf:+inf:-inf:+inf:0:0
+FutureTech:OMAHA:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:KEOSAUQUA:-inf:+inf:-inf:+inf:1:2
+TechRevolution:GREEN BAY:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:MESQUITE:-inf:+inf:-inf:+inf:2:4
+CodeTech:EL CAMPO:-inf:+inf:-inf:+inf:1:1
+CodeTech:WEISER:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:BOCA RATON:-inf:+inf:-inf:+inf:0:2
+InnovationForum:BELLEVILLE:-inf:+inf:-inf:+inf:2:4
+TechUnite:LOUISVILLE:-inf:+inf:-inf:+inf:0:0
+InnovateWave:ALLEN PARK:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:CAROL STREAM:-inf:+inf:-inf:+inf:0:2
+TechSphere:MONTICELLO:-inf:+inf:-inf:+inf:2:2
+ConnectTech:SAN DIEGO:-inf:+inf:-inf:+inf:2:2
+DevCon:NEW YORK:-inf:+inf:-inf:+inf:1:3
+DevSummit:MANATI:-inf:+inf:-inf:+inf:1:1
+InnovateWave:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+DigitalX:MIAMISBURG:-inf:+inf:-inf:+inf:1:2
+TechSphere:PHOENIX:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:BENNINGTON:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:WHEELING:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:EDISON:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:MINEOLA:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:CHICAGO:-inf:+inf:-inf:+inf:0:1
+DigitalX:SANDSTONE:-inf:+inf:-inf:+inf:1:1
+DigitalTech:CHICAGO:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:JOHNSON CITY:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:HIGH SPRINGS:-inf:+inf:-inf:+inf:0:0
+InnovationForum:ROCK SPRINGS:-inf:+inf:-inf:+inf:0:2
+InnovationForum:MIAMI:-inf:+inf:-inf:+inf:0:1
+FutureInnovate:DULUTH:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:3
+InnovateX:MIAMI:-inf:+inf:-inf:+inf:2:2
+TechFest:CUMBERLAND:-inf:+inf:-inf:+inf:0:2
+InnovationForum:DULUTH:-inf:+inf:-inf:+inf:2:3
+TechFest:JB ANDREWS:-inf:+inf:-inf:+inf:1:3
+FutureTech:HAMILTON:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:LOUISVILLE:-inf:+inf:-inf:+inf:1:2
+TechUnite:CUT OFF:-inf:+inf:-inf:+inf:1:3
+TechWave:LA CROSSE:-inf:+inf:-inf:+inf:0:1
+TechWave:GENESEO:-inf:+inf:-inf:+inf:1:2
+CodeCamp:ALPHARETTA:-inf:+inf:-inf:+inf:0:1
+CodeCamp:LOUISVILLE:-inf:+inf:-inf:+inf:1:2
+TechSphere:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+CodeSphere:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:1
+TechFest:CHICAGO:-inf:+inf:-inf:+inf:1:3
+DigitalSummit:OCALA:-inf:+inf:-inf:+inf:2:4
+InnovateX:MOREHEAD:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:CEIBA:-inf:+inf:-inf:+inf:1:1
+CodeSphere:INDIANAPOLIS:-inf:+inf:-inf:+inf:2:2
+DigitalX:MANSFIELD:-inf:+inf:-inf:+inf:1:1
+TechFest:BELHAVEN:-inf:+inf:-inf:+inf:2:4
+TechSphere:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+CodeSphere:MECHANICSBURG:-inf:+inf:-inf:+inf:2:2
+DevX:LAKEVIEW:-inf:+inf:-inf:+inf:2:2
+TechX:WRIGHT PATTERSON:-inf:+inf:-inf:+inf:2:4
+FutureTech:LAWRENCEVILLE:-inf:+inf:-inf:+inf:2:3
+CodeTech:DUARTE:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:RIFLE:-inf:+inf:-inf:+inf:1:2
+InnovateTech:FRANKLIN:-inf:+inf:-inf:+inf:1:3
+CodeFusion:AYER:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:DETROIT:-inf:+inf:-inf:+inf:1:2
+TechCon:NEW YORK:-inf:+inf:-inf:+inf:1:1
+CodeFusion:SAINT LOUIS:-inf:+inf:-inf:+inf:1:2
+CodeWorld:VAN NUYS:-inf:+inf:-inf:+inf:1:3
+DigitalTech:SAINT LOUIS:-inf:+inf:-inf:+inf:2:3
+TechSphere:AMITE:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:SHELTON:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:MELROSE PARK:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:WENONAH:-inf:+inf:-inf:+inf:1:3
+TechWave:ASHEBORO:-inf:+inf:-inf:+inf:2:4
+DevX:NEW YORK:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:SHENANDOAH:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:AITKIN:-inf:+inf:-inf:+inf:0:2
+TechSphere:CHICO:-inf:+inf:-inf:+inf:0:2
+CodeFusion:BALTIMORE:-inf:+inf:-inf:+inf:2:2
+InnovateX:BUFFALO GROVE:-inf:+inf:-inf:+inf:2:3
+TechCon:SEATTLE:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:KALISPELL:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:0:1
+CodeTech:CRETE:-inf:+inf:-inf:+inf:1:1
+TechFest:MIAMI:-inf:+inf:-inf:+inf:0:1
+DevX:ATLANTA:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:SUNNYSIDE:-inf:+inf:-inf:+inf:2:4
+CodeTech:HIALEAH:-inf:+inf:-inf:+inf:1:3
+DigitalX:FORT MYERS:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:MAHOPAC:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:WEST HOLLYWOOD:-inf:+inf:-inf:+inf:2:2
+FutureTech:HERSHEY:-inf:+inf:-inf:+inf:0:2
+TechCon:CHICAGO:-inf:+inf:-inf:+inf:0:2
+DevX:HONOLULU:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:TULSA:-inf:+inf:-inf:+inf:0:1
+InnovateX:UVALDE:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:BRENTWOOD:-inf:+inf:-inf:+inf:2:3
+TechCon:WHITE SULPHUR SPRINGS:-inf:+inf:-inf:+inf:1:2
+InnovationForum:CHIPPEWA FALLS:-inf:+inf:-inf:+inf:0:0
+TechCon:SAN DIEGO:-inf:+inf:-inf:+inf:1:3
+DigitalTech:YAKIMA:-inf:+inf:-inf:+inf:1:3
+DevCon:OWOSSO:-inf:+inf:-inf:+inf:0:1
+CodeFusion:SOUTHFIELD:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:DEARBORN HEIGHTS:-inf:+inf:-inf:+inf:0:2
+FutureTech:GULFPORT:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:OROVILLE:-inf:+inf:-inf:+inf:2:2
+TechCon:DALLAS:-inf:+inf:-inf:+inf:2:3
+CodeWorld:STAYTON:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:PARSONS:-inf:+inf:-inf:+inf:1:3
+TechCon:BELZONI:-inf:+inf:-inf:+inf:0:1
+TechX:CHARLESTON:-inf:+inf:-inf:+inf:1:3
+TechFest:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:3
+CodeTech:MERIDIAN:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:DELAND:-inf:+inf:-inf:+inf:2:4
+FutureDev:STERLING:-inf:+inf:-inf:+inf:0:2
+FutureDev:CHILLICOTHE:-inf:+inf:-inf:+inf:0:2
+TechRevolution:HOLLISTER:-inf:+inf:-inf:+inf:0:0
+DigitalTech:MIAMI:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:HONOLULU:-inf:+inf:-inf:+inf:0:0
+CodeSphere:MANDEVILLE:-inf:+inf:-inf:+inf:2:4
+CodeCamp:LOUISVILLE:-inf:+inf:-inf:+inf:0:1
+TechCon:NORTH MIAMI:-inf:+inf:-inf:+inf:0:1
+ConnectTech:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+CodeFusion:PITTSBURGH:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:HOUSTON:-inf:+inf:-inf:+inf:1:1
+DigitalX:CHICAGO:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:OSKALOOSA:-inf:+inf:-inf:+inf:2:4
+TechX:IOWA PARK:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:OKLAHOMA CITY:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:INDIANAPOLIS:-inf:+inf:-inf:+inf:1:2
+CodeTech:SAINT PAUL:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:FRANKLIN:-inf:+inf:-inf:+inf:2:3
+TechSphere:MINNEAPOLIS:-inf:+inf:-inf:+inf:0:2
+TechRevolution:MARSHFIELD:-inf:+inf:-inf:+inf:2:3
+DevCon:PITTSBURGH:-inf:+inf:-inf:+inf:2:4
+TechUnite:PERRY:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:ALTAMONTE SPRINGS:-inf:+inf:-inf:+inf:2:2
+DevSummit:LAS VEGAS:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:KITTANNING:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:BIRMINGHAM:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:ABBEVILLE:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:MIAMI:-inf:+inf:-inf:+inf:1:2
+FutureDev:WASHINGTON:-inf:+inf:-inf:+inf:2:2
+TechWave:MARIETTA:-inf:+inf:-inf:+inf:1:3
+FutureDev:LARNED:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:DALLAS:-inf:+inf:-inf:+inf:0:0
+InnovateTech:BALTIMORE:-inf:+inf:-inf:+inf:0:2
+CodeRevolution:MUSKOGEE:-inf:+inf:-inf:+inf:2:3
+InnovationForum:SHELTON:-inf:+inf:-inf:+inf:0:1
+DevCon:MIAMI:-inf:+inf:-inf:+inf:0:0
+DevCon:RICHLAND:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:DODGE CITY:-inf:+inf:-inf:+inf:2:2
+FutureDev:HILO:-inf:+inf:-inf:+inf:2:3
+InnovateSummit:JUANA DIAZ:-inf:+inf:-inf:+inf:1:3
+FutureTech:GARDNERVILLE:-inf:+inf:-inf:+inf:2:2
+DigitalX:INDEPENDENCE:-inf:+inf:-inf:+inf:2:3
+InnovateSummit:PROVIDENCE:-inf:+inf:-inf:+inf:0:2
+TechRevolution:MADISON:-inf:+inf:-inf:+inf:1:2
+FutureTech:BURKESVILLE:-inf:+inf:-inf:+inf:2:2
+InnovationForum:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+CodeCamp:EAST CHICAGO:-inf:+inf:-inf:+inf:0:0
+TechX:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+TechUnite:MIDLAND:-inf:+inf:-inf:+inf:0:1
+TechRevolution:HARRODSBURG:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:DEL MAR:-inf:+inf:-inf:+inf:0:2
+TechSphere:PITTSBURGH:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:HARRISON:-inf:+inf:-inf:+inf:1:1
+TechFest:NATCHITOCHES:-inf:+inf:-inf:+inf:0:0
+TechFest:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+CodeSphere:FORT KENT:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+TechFest:SOUTHFIELD:-inf:+inf:-inf:+inf:2:4
+DevX:KLAMATH FALLS:-inf:+inf:-inf:+inf:1:3
+CodeTech:ROGERS:-inf:+inf:-inf:+inf:1:2
+InnovateTech:PAGO PAGO:-inf:+inf:-inf:+inf:0:1
+DevSummit:LOUISVILLE:-inf:+inf:-inf:+inf:1:2
+FutureTech:CHULA VISTA:-inf:+inf:-inf:+inf:0:2
+TechWave:DETROIT:-inf:+inf:-inf:+inf:1:2
+InnovationForum:MILAN:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:FORT JACKSON:-inf:+inf:-inf:+inf:1:1
+TechFest:SALMON:-inf:+inf:-inf:+inf:1:2
+CodeTech:DORAL:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:PRESCOTT:-inf:+inf:-inf:+inf:0:1
+TechCon:FULLERTON:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:CLINTON TWP:-inf:+inf:-inf:+inf:2:2
+TechWave:BRENTWOOD:-inf:+inf:-inf:+inf:1:3
+TechCon:BARNWELL:-inf:+inf:-inf:+inf:0:0
+TechFest:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+CodeWorld:JACKSONVILLE:-inf:+inf:-inf:+inf:0:2
+CodeSphere:HARRISBURG:-inf:+inf:-inf:+inf:2:4
+TechWave:GARDENA:-inf:+inf:-inf:+inf:0:1
+CodeTech:BOSSIER CITY:-inf:+inf:-inf:+inf:1:2
+FutureTech:COLUMBUS:-inf:+inf:-inf:+inf:1:1
+ConnectTech:FRANKLIN:-inf:+inf:-inf:+inf:0:0
+TechWave:DALLAS:-inf:+inf:-inf:+inf:2:2
+DevSummit:BURKESVILLE:-inf:+inf:-inf:+inf:1:3
+InnovateConnect:HAMPTON:-inf:+inf:-inf:+inf:1:3
+DevSummit:HIALEAH:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:SAVANNAH:-inf:+inf:-inf:+inf:2:3
+TechFest:SHREVEPORT:-inf:+inf:-inf:+inf:2:3
+CodeCamp:JACKSONVILLE:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:BATON ROUGE:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:BATH:-inf:+inf:-inf:+inf:2:4
+CodeFusion:SCOTTSDALE:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:ODESSA:-inf:+inf:-inf:+inf:2:3
+CodeCamp:MANCHESTER:-inf:+inf:-inf:+inf:0:1
+FutureInnovate:SOUTHFIELD:-inf:+inf:-inf:+inf:2:4
+ConnectTech:MIAMI:-inf:+inf:-inf:+inf:0:0
+FutureDev:COUPEVILLE:-inf:+inf:-inf:+inf:1:2
+TechFest:CAMDEN ON GAULEY:-inf:+inf:-inf:+inf:0:1
+CodeFusion:BUFFALO:-inf:+inf:-inf:+inf:1:1
+CodeTech:SEGUIN:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:FREDERICKSBURG:-inf:+inf:-inf:+inf:0:0
+TechX:CLEARWATER:-inf:+inf:-inf:+inf:1:3
+TechWave:PLANO:-inf:+inf:-inf:+inf:2:2
+InnovateTech:GREEN BAY:-inf:+inf:-inf:+inf:1:3
+DevCon:GRAYLING:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:LINCOLN CITY:-inf:+inf:-inf:+inf:2:4
+DevCon:CORYDON:-inf:+inf:-inf:+inf:2:3
+TechSphere:MIAMI:-inf:+inf:-inf:+inf:0:0
+TechUnite:CINCINNATI:-inf:+inf:-inf:+inf:1:3
+TechRevolution:SOUTHFIELD:-inf:+inf:-inf:+inf:0:1
+CodeTech:LUGOFF:-inf:+inf:-inf:+inf:1:2
+InnovateTech:NEWPORT:-inf:+inf:-inf:+inf:1:3
+TechFest:SARASOTA:-inf:+inf:-inf:+inf:0:1
+DevCon:JASPER:-inf:+inf:-inf:+inf:0:0
+TechSphere:NEWPORT BEACH:-inf:+inf:-inf:+inf:0:1
+TechFest:BALTIMORE:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:ANSON:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:LOS ANGELES:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:MIAMI:-inf:+inf:-inf:+inf:1:1
+CodeWorld:PORTLAND:-inf:+inf:-inf:+inf:0:2
+InnovateX:DALLAS:-inf:+inf:-inf:+inf:1:1
+TechUnite:BURKE:-inf:+inf:-inf:+inf:0:1
+CodeTech:MOUNTAIN HOME:-inf:+inf:-inf:+inf:2:4
+TechFest:CARMEL:-inf:+inf:-inf:+inf:0:0
+CodeCamp:CLOQUET:-inf:+inf:-inf:+inf:0:2
+TechFest:PARKERSBURG:-inf:+inf:-inf:+inf:1:2
+FutureTech:KEMMERER:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:HOMESTEAD:-inf:+inf:-inf:+inf:1:3
+CodeWorld:HOUSTON:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:PLANO:-inf:+inf:-inf:+inf:2:3
+ConnectTech:FRESNO:-inf:+inf:-inf:+inf:1:2
+InnovateX:FLINT:-inf:+inf:-inf:+inf:2:3
+TechX:RIPLEY:-inf:+inf:-inf:+inf:1:3
+TechX:DANVILLE:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:ALIQUIPPA:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:SUMMIT:-inf:+inf:-inf:+inf:1:2
+TechX:EL CAMPO:-inf:+inf:-inf:+inf:0:1
+TechRevolution:UNION:-inf:+inf:-inf:+inf:2:4
+TechX:WEST PLAINS:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:ELK CITY:-inf:+inf:-inf:+inf:1:3
+TechRevolution:SEATTLE:-inf:+inf:-inf:+inf:0:2
+TechWave:DALLAS:-inf:+inf:-inf:+inf:0:2
+CodeWorld:LOS ANGELES:-inf:+inf:-inf:+inf:2:3
+TechX:BILOXI:-inf:+inf:-inf:+inf:1:1
+InnovateWave:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+InnovateWave:FORT STOCKTON:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:PEARSALL:-inf:+inf:-inf:+inf:1:3
+DigitalTech:AMARILLO:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:HAYS:-inf:+inf:-inf:+inf:1:1
+TechX:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+FutureTech:SMITHVILLE:-inf:+inf:-inf:+inf:1:1
+DigitalX:WOODBURN:-inf:+inf:-inf:+inf:0:0
+CodeFusion:ALBUQUERQUE:-inf:+inf:-inf:+inf:1:2
+InnovationForum:BLANDING:-inf:+inf:-inf:+inf:2:4
+TechX:BOISE:-inf:+inf:-inf:+inf:2:3
+TechSphere:SAN JUAN:-inf:+inf:-inf:+inf:1:1
+InnovationForum:DULUTH:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:FLUSHING:-inf:+inf:-inf:+inf:1:3
+TechCon:SANTA FE:-inf:+inf:-inf:+inf:0:1
+FutureTech:HOUSTON:-inf:+inf:-inf:+inf:0:1
+DevCon:HARTFORD:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:DALLAS:-inf:+inf:-inf:+inf:2:3
+ConnectTech:CHARLESTON:-inf:+inf:-inf:+inf:2:4
+FutureDev:LOS GATOS:-inf:+inf:-inf:+inf:1:3
+CodeWorld:SUNRISE:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:KINGSTON:-inf:+inf:-inf:+inf:0:1
+DevX:MEMPHIS:-inf:+inf:-inf:+inf:2:4
+CodeTech:NOBLESVILLE:-inf:+inf:-inf:+inf:2:4
+InnovationForum:NEW MARTINSVILLE:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:NEW BRITAIN:-inf:+inf:-inf:+inf:1:3
+CodeWorld:MOUNT AIRY:-inf:+inf:-inf:+inf:0:0
+TechWave:CUMBERLAND:-inf:+inf:-inf:+inf:0:0
+TechCon:HANNIBAL:-inf:+inf:-inf:+inf:1:3
+InnovateX:HIALEAH:-inf:+inf:-inf:+inf:2:4
+CodeCamp:MILFORD:-inf:+inf:-inf:+inf:1:3
+CodeFusion:PEORIA:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:ESTES PARK:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:MARKS:-inf:+inf:-inf:+inf:0:0
+InnovationForum:CLEVELAND:-inf:+inf:-inf:+inf:2:3
+TechWave:DETROIT:-inf:+inf:-inf:+inf:2:2
+DevX:BURLINGTON:-inf:+inf:-inf:+inf:1:1
+FutureDev:CENTERVILLE:-inf:+inf:-inf:+inf:0:0
+TechWave:CAMBRIDGE:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:ALLENTOWN:-inf:+inf:-inf:+inf:0:0
+TechCon:MORRISTOWN:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:RICHMOND:-inf:+inf:-inf:+inf:2:2
+InnovateWave:CASS CITY:-inf:+inf:-inf:+inf:2:2
+FutureDev:ABBEVILLE:-inf:+inf:-inf:+inf:2:3
+DigitalX:PHILADELPHIA:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:COVINGTON:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:FORT WORTH:-inf:+inf:-inf:+inf:1:1
+ConnectTech:RENO:-inf:+inf:-inf:+inf:1:1
+InnovationForum:DENVER:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:CORAL GABLES:-inf:+inf:-inf:+inf:1:3
+InnovateWave:JACKSON:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:SYLVA:-inf:+inf:-inf:+inf:1:1
+InnovateX:LACONIA:-inf:+inf:-inf:+inf:0:1
+TechUnite:CAMERON:-inf:+inf:-inf:+inf:1:3
+InnovateWave:DALLAS:-inf:+inf:-inf:+inf:2:2
+FutureTech:WINTER SPRINGS:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:COLORADO SPRINGS:-inf:+inf:-inf:+inf:2:4
+TechX:OLLA:-inf:+inf:-inf:+inf:1:1
+FutureDev:BROWNWOOD:-inf:+inf:-inf:+inf:0:1
+InnovateX:SPENCER:-inf:+inf:-inf:+inf:2:2
+CodeSphere:INDIANA:-inf:+inf:-inf:+inf:0:2
+TechUnite:DURANT:-inf:+inf:-inf:+inf:0:2
+CodeWorld:READING:-inf:+inf:-inf:+inf:2:3
+ConnectTech:BROAD TOP:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:DOWNEY:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:BALTIMORE:-inf:+inf:-inf:+inf:2:2
+DevX:JEFFERSON:-inf:+inf:-inf:+inf:1:2
+CodeWorld:HAYS:-inf:+inf:-inf:+inf:2:3
+DevCon:SUMMIT:-inf:+inf:-inf:+inf:1:2
+TechFest:ROTAN:-inf:+inf:-inf:+inf:2:4
+InnovateX:ROME:-inf:+inf:-inf:+inf:0:2
+InnovateX:FARMINGTON HILLS:-inf:+inf:-inf:+inf:0:0
+TechCon:DICKINSON:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:GRAND BLANC:-inf:+inf:-inf:+inf:0:2
+InnovateWave:GOUVERNEUR:-inf:+inf:-inf:+inf:2:4
+InnovateTech:BELLAIRE:-inf:+inf:-inf:+inf:1:3
+TechFest:FOLEY:-inf:+inf:-inf:+inf:1:1
+TechX:SEATTLE:-inf:+inf:-inf:+inf:0:0
+TechCon:NASHVILLE:-inf:+inf:-inf:+inf:2:3
+InnovateSummit:MESQUITE:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:SEGUIN:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:BIRMINGHAM:-inf:+inf:-inf:+inf:1:1
+InnovateX:CHARDON:-inf:+inf:-inf:+inf:2:4
+FutureTech:VIRGINIA BEACH:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:MOUNT AIRY:-inf:+inf:-inf:+inf:1:1
+TechRevolution:SALEM:-inf:+inf:-inf:+inf:0:1
+CodeCamp:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+ConnectTech:DALLAS:-inf:+inf:-inf:+inf:1:1
+InnovationForum:MURRAY:-inf:+inf:-inf:+inf:1:3
+TechX:FAIRVIEW:-inf:+inf:-inf:+inf:1:2
+InnovateWave:THE WOODLANDS:-inf:+inf:-inf:+inf:2:3
+TechRevolution:SWAINSBORO:-inf:+inf:-inf:+inf:1:3
+DevCon:SAINT PETERSBURG:-inf:+inf:-inf:+inf:0:1
+FutureDev:RICHMOND:-inf:+inf:-inf:+inf:1:1
+TechUnite:EDEN PRAIRIE:-inf:+inf:-inf:+inf:2:4
+CodeCamp:ARLINGTON:-inf:+inf:-inf:+inf:2:4
+DevX:FORT WORTH:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:TAMPA:-inf:+inf:-inf:+inf:0:2
+DigitalX:CHEROKEE:-inf:+inf:-inf:+inf:2:4
+CodeCamp:SIKESTON:-inf:+inf:-inf:+inf:1:2
+CodeCamp:DALLAS:-inf:+inf:-inf:+inf:2:2
+CodeTech:WYNNE:-inf:+inf:-inf:+inf:1:3
+InnovateConnect:FORT WAYNE:-inf:+inf:-inf:+inf:0:0
+InnovateWave:NORTH MIAMI:-inf:+inf:-inf:+inf:2:3
+TechSphere:ANCHORAGE:-inf:+inf:-inf:+inf:0:0
+InnovateWave:POCAHONTAS:-inf:+inf:-inf:+inf:0:1
+CodeWorld:HOMER:-inf:+inf:-inf:+inf:0:2
+DevSummit:PROSPECT:-inf:+inf:-inf:+inf:2:3
+CodeTech:WASHINGTON:-inf:+inf:-inf:+inf:1:3
+TechX:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:1
+InnovateTech:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+InnovateX:KALISPELL:-inf:+inf:-inf:+inf:1:2
+InnovateWave:DALLAS:-inf:+inf:-inf:+inf:0:2
+DevCon:FRANKLIN:-inf:+inf:-inf:+inf:2:2
+TechX:CHICAGO:-inf:+inf:-inf:+inf:1:2
+CodeTech:JACKSONVILLE:-inf:+inf:-inf:+inf:2:3
+FutureDev:COLUMBUS:-inf:+inf:-inf:+inf:0:0
+InnovateX:PLAINFIELD:-inf:+inf:-inf:+inf:1:1
+DigitalTech:ALLEN:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:THE WOODLANDS:-inf:+inf:-inf:+inf:0:1
+TechCon:DALLAS:-inf:+inf:-inf:+inf:2:4
+TechCon:JACKSON:-inf:+inf:-inf:+inf:0:0
+TechSphere:CHICAGO:-inf:+inf:-inf:+inf:2:4
+DevX:TEMPERANCE:-inf:+inf:-inf:+inf:1:1
+InnovationForum:DURHAM:-inf:+inf:-inf:+inf:2:3
+FutureDev:HEMET:-inf:+inf:-inf:+inf:0:0
+CodeFusion:RENTON:-inf:+inf:-inf:+inf:2:4
+CodeSphere:DALHART:-inf:+inf:-inf:+inf:0:2
+TechRevolution:DU BOIS:-inf:+inf:-inf:+inf:1:1
+TechSphere:VIDALIA:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:FARGO:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:KALISPELL:-inf:+inf:-inf:+inf:0:2
+InnovateWave:VIRGINIA GARDENS:-inf:+inf:-inf:+inf:2:2
+DigitalX:MIAMI:-inf:+inf:-inf:+inf:2:3
+InnovationForum:ROBINSON:-inf:+inf:-inf:+inf:2:4
+InnovateWave:RUCKERSVILLE:-inf:+inf:-inf:+inf:1:1
+DevCon:CHESAPEAKE:-inf:+inf:-inf:+inf:2:2
+CodeWorld:KONAWA:-inf:+inf:-inf:+inf:0:1
+CodeCamp:ZACHARY:-inf:+inf:-inf:+inf:1:2
+TechFest:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+CodeTech:CINCINNATI:-inf:+inf:-inf:+inf:1:2
+ConnectTech:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+TechUnite:GRINNELL:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:BRYAN:-inf:+inf:-inf:+inf:2:3
+DevX:HOUSTON:-inf:+inf:-inf:+inf:2:3
+CodeTech:CHARLESTOWN:-inf:+inf:-inf:+inf:1:2
+FutureDev:MIAMI:-inf:+inf:-inf:+inf:1:1
+ConnectTech:AUBURN:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:DALLAS:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:HUNTERSVILLE:-inf:+inf:-inf:+inf:0:2
+CodeSphere:KONAWA:-inf:+inf:-inf:+inf:0:0
+InnovateX:ASHEVILLE:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:LAVISTA:-inf:+inf:-inf:+inf:0:2
+TechX:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:3
+DevX:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:WESTFIELD:-inf:+inf:-inf:+inf:2:3
+DevCon:JERSEYVILLE:-inf:+inf:-inf:+inf:0:0
+TechSphere:MECHANICSBURG:-inf:+inf:-inf:+inf:2:2
+DigitalTech:LAKE JACKSON:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:1
+FutureTech:MOORESVILLE:-inf:+inf:-inf:+inf:0:2
+TechWave:JACKSON:-inf:+inf:-inf:+inf:0:0
+DevX:LACONIA:-inf:+inf:-inf:+inf:1:3
+TechWave:GREENWOOD:-inf:+inf:-inf:+inf:1:2
+CodeTech:FRESNO:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:DORAL:-inf:+inf:-inf:+inf:1:1
+CodeFusion:MUNISING:-inf:+inf:-inf:+inf:0:0
+CodeWorld:HENDERSONVILLE:-inf:+inf:-inf:+inf:1:1
+TechFest:KIRKLAND:-inf:+inf:-inf:+inf:1:2
+TechRevolution:CHICAGO:-inf:+inf:-inf:+inf:0:0
+InnovateX:SPARKS:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:LAREDO:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:HAMILTON:-inf:+inf:-inf:+inf:2:4
+CodeTech:MORRISVILLE:-inf:+inf:-inf:+inf:2:3
+CodeTech:STOCKTON:-inf:+inf:-inf:+inf:1:2
+CodeWorld:PHOENIX:-inf:+inf:-inf:+inf:2:4
+InnovateX:ANACORTES:-inf:+inf:-inf:+inf:0:2
+CodeSphere:FORT SMITH:-inf:+inf:-inf:+inf:1:2
+TechFest:BINGHAM FARMS:-inf:+inf:-inf:+inf:0:0
+TechCon:RICHWOOD:-inf:+inf:-inf:+inf:2:4
+ConnectTech:ROCKFORD:-inf:+inf:-inf:+inf:2:2
+ConnectTech:MISSOULA:-inf:+inf:-inf:+inf:0:0
+CodeTech:FARMINGTON HILLS:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:ORMOND BEACH:-inf:+inf:-inf:+inf:1:1
+TechUnite:DETROIT:-inf:+inf:-inf:+inf:1:1
+FutureTech:KEWANEE:-inf:+inf:-inf:+inf:1:2
+TechWave:WESLACO:-inf:+inf:-inf:+inf:0:2
+CodeFusion:KOSCIUSKO:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:ORANGEBURG:-inf:+inf:-inf:+inf:1:3
+CodeSphere:NEW YORK:-inf:+inf:-inf:+inf:0:1
+DevCon:STAMFORD:-inf:+inf:-inf:+inf:0:2
+ConnectTech:PITTSBURG:-inf:+inf:-inf:+inf:0:2
+CodeFusion:FT WORTH:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:SCHAUMBURG:-inf:+inf:-inf:+inf:2:3
+DevSummit:CORONA:-inf:+inf:-inf:+inf:0:1
+DevCon:HILO:-inf:+inf:-inf:+inf:0:2
+CodeFusion:MONTPELIER:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:IRON MOUNTAIN:-inf:+inf:-inf:+inf:1:1
+TechRevolution:FT SAM HOUSTON:-inf:+inf:-inf:+inf:1:3
+DevX:DES MOINES:-inf:+inf:-inf:+inf:0:0
+InnovateWave:LIVONIA:-inf:+inf:-inf:+inf:1:1
+DevCon:SOUTH RICHMOND HILL:-inf:+inf:-inf:+inf:2:2
+InnovateTech:LARAMIE:-inf:+inf:-inf:+inf:1:1
+CodeTech:COLUMBUS:-inf:+inf:-inf:+inf:0:1
+TechCon:PROVIDENCE:-inf:+inf:-inf:+inf:0:2
+CodeCamp:BINGHAMTON:-inf:+inf:-inf:+inf:0:2
+TechRevolution:YORK:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:MOUNT VERNON:-inf:+inf:-inf:+inf:0:0
+CodeSphere:FORT WORTH:-inf:+inf:-inf:+inf:2:2
+DevX:MENA:-inf:+inf:-inf:+inf:0:2
+InnovationForum:TURTLE LAKE:-inf:+inf:-inf:+inf:1:1
+DevCon:SAN FRANCISCO:-inf:+inf:-inf:+inf:2:4
+InnovationForum:QUEENSBURY:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:FITZGERALD:-inf:+inf:-inf:+inf:2:4
+InnovateTech:ARLINGTON:-inf:+inf:-inf:+inf:0:0
+FutureDev:KANSAS CITY:-inf:+inf:-inf:+inf:2:2
+ConnectTech:BETHEL:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:DECATUR:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:PITTSFIELD:-inf:+inf:-inf:+inf:2:3
+DevSummit:BRENTWOOD:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:KENEDY:-inf:+inf:-inf:+inf:1:2
+CodeSphere:PHILADELPHIA:-inf:+inf:-inf:+inf:2:2
+CodeCamp:MIAMI:-inf:+inf:-inf:+inf:1:2
+DevX:CHAPMAN:-inf:+inf:-inf:+inf:2:4
+TechFest:LOMPOC:-inf:+inf:-inf:+inf:0:0
+TechSphere:PHILADELPHIA:-inf:+inf:-inf:+inf:0:0
+CodeCamp:MORRISVILLE:-inf:+inf:-inf:+inf:1:3
+CodeCamp:NAPA:-inf:+inf:-inf:+inf:1:2
+InnovateWave:BURLINGTON:-inf:+inf:-inf:+inf:2:2
+CodeFusion:CAMDEN:-inf:+inf:-inf:+inf:0:0
+CodeTech:TERRE HAUTE:-inf:+inf:-inf:+inf:1:1
+TechX:HOMESTEAD:-inf:+inf:-inf:+inf:2:2
+CodeTech:FORT KNOX:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:TOLEDO:-inf:+inf:-inf:+inf:0:2
+InnovationForum:SUPERIOR:-inf:+inf:-inf:+inf:1:2
+TechUnite:MONROE:-inf:+inf:-inf:+inf:2:2
+DigitalTech:YORK:-inf:+inf:-inf:+inf:0:0
+InnovateWave:EDEN PRAIRIE:-inf:+inf:-inf:+inf:2:2
+TechSphere:BROWNWOOD:-inf:+inf:-inf:+inf:0:2
+TechFest:DAYTON:-inf:+inf:-inf:+inf:1:2
+CodeCamp:MIAMI:-inf:+inf:-inf:+inf:2:2
+TechWave:WESTON:-inf:+inf:-inf:+inf:2:4
+TechUnite:TINLEY PARK:-inf:+inf:-inf:+inf:1:2
+CodeWorld:WEST BURLINGTON:-inf:+inf:-inf:+inf:2:4
+FutureDev:DETROIT:-inf:+inf:-inf:+inf:0:2
+CodeSphere:LANCASTER:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:KREMMLING:-inf:+inf:-inf:+inf:2:4
+FutureTech:WEATHERFORD:-inf:+inf:-inf:+inf:0:0
+ConnectTech:GREENSBURG:-inf:+inf:-inf:+inf:0:1
+InnovateTech:SAN JUAN:-inf:+inf:-inf:+inf:1:1
+TechX:OKLAHOMA CITY:-inf:+inf:-inf:+inf:0:1
+InnovateWave:PLANO:-inf:+inf:-inf:+inf:0:0
+InnovateWave:POINT PLEASANT:-inf:+inf:-inf:+inf:0:1
+TechCon:DORAL:-inf:+inf:-inf:+inf:0:2
+CodeFusion:DALLAS:-inf:+inf:-inf:+inf:1:2
+TechCon:SOUTH BEND:-inf:+inf:-inf:+inf:0:0
+DevCon:FAYETTE:-inf:+inf:-inf:+inf:0:2
+CodeRevolution:NEW YORK:-inf:+inf:-inf:+inf:1:3
+TechSphere:ATLANTA:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:PALMDALE:-inf:+inf:-inf:+inf:0:1
+InnovateTech:HORN LAKE:-inf:+inf:-inf:+inf:2:2
+TechWave:ELKTON:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:WASHINGTON:-inf:+inf:-inf:+inf:2:2
+InnovationForum:FARMINGTON:-inf:+inf:-inf:+inf:2:2
+DigitalTech:MIAMI:-inf:+inf:-inf:+inf:1:3
+DevSummit:PONCE:-inf:+inf:-inf:+inf:1:2
+InnovateWave:YREKA:-inf:+inf:-inf:+inf:1:3
+TechFest:ABILENE:-inf:+inf:-inf:+inf:1:2
+TechX:PORTSMOUTH:-inf:+inf:-inf:+inf:2:3
+TechUnite:MERIDIAN:-inf:+inf:-inf:+inf:0:2
+DevSummit:OSKALOOSA:-inf:+inf:-inf:+inf:0:1
+CodeTech:SHERMAN:-inf:+inf:-inf:+inf:0:1
+CodeFusion:WARREN:-inf:+inf:-inf:+inf:1:1
+InnovateX:BIRMINGHAM:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:MECHANICSBURG:-inf:+inf:-inf:+inf:2:3
+DigitalTech:CARTHAGE:-inf:+inf:-inf:+inf:1:3
+CodeWorld:SOUTHFIELD:-inf:+inf:-inf:+inf:0:1
+CodeTech:GREEN BAY:-inf:+inf:-inf:+inf:0:1
+ConnectTech:MOUNT KISCO:-inf:+inf:-inf:+inf:1:2
+TechWave:RICHMOND:-inf:+inf:-inf:+inf:1:1
+DigitalX:LOVELAND:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:HIALEAH:-inf:+inf:-inf:+inf:0:1
+InnovateTech:MEYERSDALE:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:MOULTRIE:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:WINNEMUCCA:-inf:+inf:-inf:+inf:1:3
+TechFest:EDINBURG:-inf:+inf:-inf:+inf:2:2
+TechRevolution:MINNEAPOLIS:-inf:+inf:-inf:+inf:2:2
+CodeWorld:HARTFORD:-inf:+inf:-inf:+inf:0:2
+DevX:SCOTTSDALE:-inf:+inf:-inf:+inf:1:3
+TechCon:SISSETON:-inf:+inf:-inf:+inf:2:2
+CodeFusion:GREENSBURG:-inf:+inf:-inf:+inf:2:3
+CodeCamp:ROSEBUD:-inf:+inf:-inf:+inf:2:3
+CodeWorld:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+TechFest:FORT LAUDERDALE:-inf:+inf:-inf:+inf:2:2
+DevX:COUDERSPORT:-inf:+inf:-inf:+inf:1:3
+TechSphere:NASHVILLE:-inf:+inf:-inf:+inf:2:3
+InnovateX:MIAMI:-inf:+inf:-inf:+inf:1:2
+TechRevolution:IOWA CITY:-inf:+inf:-inf:+inf:1:3
+CodeWorld:KANSAS CITY:-inf:+inf:-inf:+inf:1:1
+TechX:LAKEPORT:-inf:+inf:-inf:+inf:0:1
+DevSummit:ABINGTON:-inf:+inf:-inf:+inf:1:3
+InnovateConnect:POUGHKEEPSIE:-inf:+inf:-inf:+inf:0:1
+DigitalX:HOUSTON:-inf:+inf:-inf:+inf:1:1
+InnovationForum:LAKE MARY:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:HARRISBURG:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:OROVILLE:-inf:+inf:-inf:+inf:2:3
+DigitalX:MALAD:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:SUN CITY CENTER:-inf:+inf:-inf:+inf:1:2
+FutureDev:HOT SPRINGS:-inf:+inf:-inf:+inf:2:4
+FutureTech:FORT CAMPBELL:-inf:+inf:-inf:+inf:0:1
+ConnectTech:BARBOURVILLE:-inf:+inf:-inf:+inf:1:3
+TechWave:DORCHESTER:-inf:+inf:-inf:+inf:1:3
+DevX:BOSSIER CITY:-inf:+inf:-inf:+inf:1:2
+DevX:CLEARWATER:-inf:+inf:-inf:+inf:0:0
+CodeWorld:MIAMI:-inf:+inf:-inf:+inf:0:0
+DevX:LA PORTE:-inf:+inf:-inf:+inf:0:2
+CodeFusion:NASHVILLE:-inf:+inf:-inf:+inf:2:3
+TechRevolution:GLOBE:-inf:+inf:-inf:+inf:0:1
+CodeWorld:MACOMB:-inf:+inf:-inf:+inf:1:3
+DevX:LA PORTE:-inf:+inf:-inf:+inf:0:2
+DevX:DUBLIN:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:SAINT LOUIS:-inf:+inf:-inf:+inf:2:3
+DigitalX:MEADVILLE:-inf:+inf:-inf:+inf:0:1
+CodeFusion:MIAMI:-inf:+inf:-inf:+inf:0:1
+DevX:TRINITY:-inf:+inf:-inf:+inf:0:2
+DevX:HONOLULU:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:LAUDERDALE LAKES:-inf:+inf:-inf:+inf:2:2
+DigitalX:HAYS:-inf:+inf:-inf:+inf:2:4
+TechFest:PICKENS:-inf:+inf:-inf:+inf:1:1
+TechWave:BOISE:-inf:+inf:-inf:+inf:2:3
+DigitalTech:SILVER SPRING:-inf:+inf:-inf:+inf:2:3
+DevCon:GULFPORT:-inf:+inf:-inf:+inf:1:2
+ConnectTech:OAK LAWN:-inf:+inf:-inf:+inf:1:3
+FutureDev:PHILADELPHIA:-inf:+inf:-inf:+inf:2:3
+DigitalTech:MONTICELLO:-inf:+inf:-inf:+inf:2:2
+DigitalTech:EASLEY:-inf:+inf:-inf:+inf:1:2
+CodeTech:COLUMBIA:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:STRATFORD:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:CHANDLER:-inf:+inf:-inf:+inf:0:2
+InnovateWave:POTOSI:-inf:+inf:-inf:+inf:1:1
+CodeTech:LEANDER:-inf:+inf:-inf:+inf:0:1
+FutureInnovate:OLATHE:-inf:+inf:-inf:+inf:1:1
+CodeTech:FISHERS:-inf:+inf:-inf:+inf:1:1
+TechCon:SARATOGA SPRINGS:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:2:4
+TechCon:CANTON:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:HIGH POINT:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:AURORA:-inf:+inf:-inf:+inf:1:1
+FutureDev:FARGO:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:UPPER SANDUSKY:-inf:+inf:-inf:+inf:2:3
+TechUnite:WASHINGTON:-inf:+inf:-inf:+inf:2:4
+TechUnite:AUBURN:-inf:+inf:-inf:+inf:0:2
+InnovateX:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+DevSummit:EDISON:-inf:+inf:-inf:+inf:0:0
+CodeWorld:CHARLOTTE:-inf:+inf:-inf:+inf:0:1
+FutureDev:PARSONS:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:BEDFORD:-inf:+inf:-inf:+inf:1:1
+DevSummit:EUREKA:-inf:+inf:-inf:+inf:2:4
+DigitalTech:RUGBY:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:SEATTLE:-inf:+inf:-inf:+inf:1:3
+DigitalTech:SANDPOINT:-inf:+inf:-inf:+inf:0:0
+InnovationForum:BLOOMINGTON:-inf:+inf:-inf:+inf:1:1
+DigitalX:LAUREL:-inf:+inf:-inf:+inf:1:3
+TechX:CHICAGO:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:PASADENA:-inf:+inf:-inf:+inf:1:1
+InnovateX:ASHEVILLE:-inf:+inf:-inf:+inf:2:3
+InnovateWave:EDINBURG:-inf:+inf:-inf:+inf:0:2
+TechRevolution:HASKELL:-inf:+inf:-inf:+inf:0:0
+ConnectTech:DALLAS:-inf:+inf:-inf:+inf:2:4
+TechUnite:MARINETTE:-inf:+inf:-inf:+inf:1:1
+TechX:CHICAGO:-inf:+inf:-inf:+inf:0:0
+FutureDev:NORTH VERNON:-inf:+inf:-inf:+inf:0:2
+CodeFusion:STERRETT:-inf:+inf:-inf:+inf:0:0
+CodeSphere:MIAMI:-inf:+inf:-inf:+inf:2:2
+TechCon:CANFIELD:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:SNA ANTONIO:-inf:+inf:-inf:+inf:2:3
+InnovateWave:MILWAUKEE:-inf:+inf:-inf:+inf:0:1
+CodeSphere:BOISE:-inf:+inf:-inf:+inf:0:0
+CodeCamp:HIGH POINT:-inf:+inf:-inf:+inf:2:3
+TechRevolution:KANKAKEE:-inf:+inf:-inf:+inf:1:3
+InnovateX:KALAMAZOO:-inf:+inf:-inf:+inf:2:3
+FutureInnovate:WALSENBURG:-inf:+inf:-inf:+inf:2:3
+TechFest:DALLAS:-inf:+inf:-inf:+inf:2:3
+TechX:HOT SPRINGS:-inf:+inf:-inf:+inf:0:0
+CodeSphere:EDEN PRAIRIE:-inf:+inf:-inf:+inf:1:1
+FutureDev:LOVELAND:-inf:+inf:-inf:+inf:0:0
+DevSummit:TOMAH:-inf:+inf:-inf:+inf:1:2
+InnovationForum:SALLISAW:-inf:+inf:-inf:+inf:0:2
+InnovateConnect:BALTIMORE:-inf:+inf:-inf:+inf:0:0
+TechSphere:CAMDEN:-inf:+inf:-inf:+inf:1:1
+InnovateTech:CHARLESTON:-inf:+inf:-inf:+inf:0:0
+DigitalTech:CHICAGO:-inf:+inf:-inf:+inf:2:3
+TechWave:PASADENA:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:ANGOLA:-inf:+inf:-inf:+inf:2:4
+CodeSphere:CRESTWOOD:-inf:+inf:-inf:+inf:2:2
+InnovateConnect:WILLIAMSPORT:-inf:+inf:-inf:+inf:2:2
+InnovateWave:HIALEAH:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:PONTIAC:-inf:+inf:-inf:+inf:0:2
+InnovateTech:LITTLE ROCK:-inf:+inf:-inf:+inf:1:3
+DevSummit:DORAL:-inf:+inf:-inf:+inf:0:1
+FutureDev:CANTON:-inf:+inf:-inf:+inf:2:2
+CodeCamp:ELMA:-inf:+inf:-inf:+inf:0:0
+CodeCamp:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+TechX:PINEVILLE:-inf:+inf:-inf:+inf:0:0
+TechSphere:DANVILLE:-inf:+inf:-inf:+inf:1:1
+DigitalTech:LOS ANGELES:-inf:+inf:-inf:+inf:1:2
+DigitalX:CINCINNATI:-inf:+inf:-inf:+inf:2:2
+InnovationForum:MC KEES ROCKS:-inf:+inf:-inf:+inf:0:2
+DevX:WATER VALLEY:-inf:+inf:-inf:+inf:1:2
+TechCon:CONSHOHOCKEN:-inf:+inf:-inf:+inf:1:3
+InnovateConnect:KANSAS CITY:-inf:+inf:-inf:+inf:0:0
+CodeFusion:DUBLIN:-inf:+inf:-inf:+inf:2:4
+CodeTech:DENVER:-inf:+inf:-inf:+inf:2:3
+DevCon:ANACONDA:-inf:+inf:-inf:+inf:0:0
+CodeFusion:HOWELLS:-inf:+inf:-inf:+inf:1:1
+TechCon:TACOMA:-inf:+inf:-inf:+inf:0:2
+DevCon:CHARLOTTE:-inf:+inf:-inf:+inf:1:2
+DigitalTech:BURKESVILLE:-inf:+inf:-inf:+inf:1:3
+TechSphere:NEW HAVEN:-inf:+inf:-inf:+inf:1:1
+TechWave:MIAMI:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:NEW LONDON:-inf:+inf:-inf:+inf:2:3
+TechSphere:SYLVA:-inf:+inf:-inf:+inf:0:1
+TechSphere:MONTEREY PARK:-inf:+inf:-inf:+inf:2:3
+FutureTech:SANTA ANA:-inf:+inf:-inf:+inf:0:1
+CodeSphere:WHITNEY:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:LANCASTER:-inf:+inf:-inf:+inf:2:3
+FutureDev:NASHVILLE:-inf:+inf:-inf:+inf:0:1
+FutureDev:KERRVILLE:-inf:+inf:-inf:+inf:1:1
+CodeCamp:YUMA:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:ABILENE:-inf:+inf:-inf:+inf:2:4
+FutureDev:TAYLOR:-inf:+inf:-inf:+inf:1:3
+TechCon:PROVIDENCE:-inf:+inf:-inf:+inf:2:2
+InnovateTech:JOHNSTON:-inf:+inf:-inf:+inf:0:1
+CodeTech:PAWHUSKA:-inf:+inf:-inf:+inf:1:1
+CodeCamp:KAPLAN:-inf:+inf:-inf:+inf:2:2
+TechRevolution:ASHLAND:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:PHOENIX:-inf:+inf:-inf:+inf:2:2
+TechFest:ELIZABETHTOWN:-inf:+inf:-inf:+inf:0:1
+DigitalTech:DUNN:-inf:+inf:-inf:+inf:0:1
+CodeFusion:SUSQUEHANNA:-inf:+inf:-inf:+inf:0:1
+FutureDev:ATLANTA:-inf:+inf:-inf:+inf:2:3
+DevSummit:BRENTWOOD:-inf:+inf:-inf:+inf:2:3
+DevCon:CHICO:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:SHREVEPORT:-inf:+inf:-inf:+inf:2:3
+InnovateWave:MIAMI:-inf:+inf:-inf:+inf:1:2
+DigitalX:SATANTA:-inf:+inf:-inf:+inf:0:0
+CodeTech:EATON RAPIDS:-inf:+inf:-inf:+inf:1:2
+InnovateTech:CHICAGO:-inf:+inf:-inf:+inf:0:2
+DevX:MECHANICSBURG:-inf:+inf:-inf:+inf:1:3
+ConnectTech:BIRMINGHAM:-inf:+inf:-inf:+inf:0:2
+InnovateTech:DEARBORN HEIGHTS:-inf:+inf:-inf:+inf:1:1
+DevCon:AURORA:-inf:+inf:-inf:+inf:2:3
+TechFest:MIAMI:-inf:+inf:-inf:+inf:0:1
+CodeWorld:MERRICK:-inf:+inf:-inf:+inf:1:3
+DigitalTech:BRENTWOOD:-inf:+inf:-inf:+inf:1:2
+TechX:WEST BLOOMFIELD:-inf:+inf:-inf:+inf:0:2
+DevSummit:NEW HYDE PARK:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:MILWAUKEE:-inf:+inf:-inf:+inf:0:1
+TechUnite:LOVELAND:-inf:+inf:-inf:+inf:0:1
+FutureDev:COLUMBUS:-inf:+inf:-inf:+inf:1:1
+CodeTech:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:LAKE ZURICH:-inf:+inf:-inf:+inf:1:1
+CodeWorld:SAVANNAH:-inf:+inf:-inf:+inf:1:1
+CodeSphere:NAPOLEONVILLE:-inf:+inf:-inf:+inf:2:2
+ConnectTech:LOUISVILLE:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:ELIZABETH:-inf:+inf:-inf:+inf:2:3
+InnovateX:MIAMI:-inf:+inf:-inf:+inf:0:2
+TechFest:FORT LAUDERDALE:-inf:+inf:-inf:+inf:1:2
+TechX:COMMERCE TOWNSHIP:-inf:+inf:-inf:+inf:1:1
+InnovateX:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+CodeWorld:VALDOSTA:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:NEW LONDON:-inf:+inf:-inf:+inf:0:2
+FutureDev:GILLETTE:-inf:+inf:-inf:+inf:0:0
+CodeCamp:COVINGTON:-inf:+inf:-inf:+inf:2:2
+DigitalTech:BURKESVILLE:-inf:+inf:-inf:+inf:0:0
+TechX:WESTBURY:-inf:+inf:-inf:+inf:1:2
+DevX:KOKOMO:-inf:+inf:-inf:+inf:2:3
+CodeTech:BILOXI:-inf:+inf:-inf:+inf:1:3
+ConnectTech:UVALDE:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:REEDSBURG:-inf:+inf:-inf:+inf:0:1
+InnovateTech:TEMPERANCE:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:FRANKLIN:-inf:+inf:-inf:+inf:2:2
+TechUnite:MARYSVILLE:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:WABASH:-inf:+inf:-inf:+inf:1:3
+CodeFusion:STAYTON:-inf:+inf:-inf:+inf:0:1
+InnovateTech:STOCKTON:-inf:+inf:-inf:+inf:0:0
+CodeTech:ALLENTOWN:-inf:+inf:-inf:+inf:0:1
+TechUnite:ELDERSBURG:-inf:+inf:-inf:+inf:0:1
+CodeWorld:LOMPOC:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:MIAMI:-inf:+inf:-inf:+inf:2:4
+CodeCamp:VAN NUYS:-inf:+inf:-inf:+inf:1:2
+DigitalX:CINCINNATI:-inf:+inf:-inf:+inf:0:0
+TechWave:CHICAGO:-inf:+inf:-inf:+inf:2:3
+CodeCamp:BOCA RATON:-inf:+inf:-inf:+inf:1:1
+CodeTech:STANFORD:-inf:+inf:-inf:+inf:0:1
+InnovateX:SAINT LOUIS:-inf:+inf:-inf:+inf:1:3
+DevSummit:GRINNELL:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:MEMPHIS:-inf:+inf:-inf:+inf:2:2
+InnovationForum:SEBASTIAN:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:WASHINGTON:-inf:+inf:-inf:+inf:1:3
+TechX:GREEN BAY:-inf:+inf:-inf:+inf:2:2
+TechRevolution:TOWANDA:-inf:+inf:-inf:+inf:2:4
+TechRevolution:COLUMBIA:-inf:+inf:-inf:+inf:0:1
+DigitalTech:PEORIA:-inf:+inf:-inf:+inf:2:4
+TechX:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:1:2
+CodeSphere:LOS RANCHOS:-inf:+inf:-inf:+inf:2:4
+TechCon:NEPTUNE:-inf:+inf:-inf:+inf:0:0
+CodeWorld:CHARLOTTE:-inf:+inf:-inf:+inf:2:4
+DigitalX:TEMPERANCE:-inf:+inf:-inf:+inf:0:0
+FutureDev:FORT KNOX:-inf:+inf:-inf:+inf:0:1
+DigitalX:FLINT:-inf:+inf:-inf:+inf:0:2
+CodeFusion:RALEIGH:-inf:+inf:-inf:+inf:2:4
+TechRevolution:CHICAGO:-inf:+inf:-inf:+inf:2:4
+InnovateWave:OGDENSBURG:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:MT ORAB:-inf:+inf:-inf:+inf:0:0
+CodeRevolution:THOUSAND OAKS:-inf:+inf:-inf:+inf:0:0
+TechWave:DALLAS:-inf:+inf:-inf:+inf:1:1
+InnovateX:MOUNT CARMEL:-inf:+inf:-inf:+inf:1:1
+TechRevolution:CLEARFIELD:-inf:+inf:-inf:+inf:1:3
+CodeSphere:VINCENNES:-inf:+inf:-inf:+inf:1:1
+TechWave:ELMHURST:-inf:+inf:-inf:+inf:1:3
+TechX:MILWAUKEE:-inf:+inf:-inf:+inf:1:1
+InnovateX:ATLANTA:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:MONTICELLO:-inf:+inf:-inf:+inf:0:2
+CodeCamp:GREENEVILLE:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:HERSHEY:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:JUNCTION:-inf:+inf:-inf:+inf:0:1
+InnovateWave:GLENMOORE:-inf:+inf:-inf:+inf:1:2
+CodeCamp:PALMDALE:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:BAYAMON:-inf:+inf:-inf:+inf:2:3
+TechFest:GLADE SPRING:-inf:+inf:-inf:+inf:1:3
+TechUnite:DEVILS LAKE:-inf:+inf:-inf:+inf:1:2
+TechX:LA CROSSE:-inf:+inf:-inf:+inf:2:2
+CodeTech:COZAD:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+CodeSphere:LIHUE:-inf:+inf:-inf:+inf:1:2
+DigitalTech:GEORGETOWN:-inf:+inf:-inf:+inf:1:3
+DevSummit:SAGINAW:-inf:+inf:-inf:+inf:2:2
+InnovateX:THOMASVILLE:-inf:+inf:-inf:+inf:2:4
+TechUnite:SPRINGFIELD:-inf:+inf:-inf:+inf:2:3
+InnovateWave:CHICAGO:-inf:+inf:-inf:+inf:2:4
+TechX:GRAND BLANC:-inf:+inf:-inf:+inf:1:1
+CodeSphere:SAN MATEO:-inf:+inf:-inf:+inf:0:0
+InnovateX:SYRACUSE:-inf:+inf:-inf:+inf:0:0
+CodeCamp:NEW YORK:-inf:+inf:-inf:+inf:0:2
+DevCon:FT RILEY:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:ALPENA:-inf:+inf:-inf:+inf:1:1
+TechUnite:SAN MARINO:-inf:+inf:-inf:+inf:0:0
+FutureTech:TRAVERSE CITY:-inf:+inf:-inf:+inf:2:3
+DevSummit:PURCELL:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:BLOOMFIELD:-inf:+inf:-inf:+inf:1:1
+CodeTech:TOLEDO:-inf:+inf:-inf:+inf:1:2
+CodeWorld:SILVER SPRING:-inf:+inf:-inf:+inf:1:1
+InnovateWave:HENNEPIN:-inf:+inf:-inf:+inf:1:2
+DigitalTech:HUNTINGTON:-inf:+inf:-inf:+inf:1:3
+CodeFusion:KANKAKEE:-inf:+inf:-inf:+inf:2:2
+FutureTech:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+DevCon:LEHIGHTON:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:HARRISBURG:-inf:+inf:-inf:+inf:2:4
+DevX:DALLAS:-inf:+inf:-inf:+inf:0:1
+TechSphere:SOUTHFIELD:-inf:+inf:-inf:+inf:0:0
+CodeTech:ADVANCE:-inf:+inf:-inf:+inf:1:2
+TechUnite:DANVERS:-inf:+inf:-inf:+inf:2:2
+TechWave:TARKIO:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:SOUTH MIAMI:-inf:+inf:-inf:+inf:2:4
+FutureDev:BATON ROUGE:-inf:+inf:-inf:+inf:0:2
+TechUnite:PEAPACK:-inf:+inf:-inf:+inf:1:1
+DigitalTech:LAS VEGAS:-inf:+inf:-inf:+inf:2:3
+DataScienceSummit:BRENTWOOD:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:LLANO:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:ANAMOSA:-inf:+inf:-inf:+inf:1:2
+CodeSphere:SALEM:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:CROWN POINT:-inf:+inf:-inf:+inf:2:2
+CodeWorld:DALLAS:-inf:+inf:-inf:+inf:2:4
+FutureInnovate:HENDERSONVILLE:-inf:+inf:-inf:+inf:0:1
+FutureInnovate:HAWKINSVILLE:-inf:+inf:-inf:+inf:2:3
+TechSphere:PORT JEFFERSON:-inf:+inf:-inf:+inf:2:2
+TechFest:COBLESKILL:-inf:+inf:-inf:+inf:0:1
+DevX:BROOKLYN:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:POCATELLO:-inf:+inf:-inf:+inf:1:2
+DigitalTech:SHAWNEE:-inf:+inf:-inf:+inf:0:0
+DevSummit:FORT CAMPBELL:-inf:+inf:-inf:+inf:1:2
+TechSphere:EDISON:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:NORWALK:-inf:+inf:-inf:+inf:1:2
+CodeTech:WEST COLUMBIA:-inf:+inf:-inf:+inf:0:2
+TechFest:BALTIMORE:-inf:+inf:-inf:+inf:1:3
+CodeWorld:GREEN VALLEY:-inf:+inf:-inf:+inf:1:1
+CodeWorld:TRENTON:-inf:+inf:-inf:+inf:0:2
+TechFest:COLUMBUS:-inf:+inf:-inf:+inf:1:2
+InnovationForum:PARSONS:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:COLUMBUS:-inf:+inf:-inf:+inf:1:1
+CodeFusion:STERLING HEIGHTS:-inf:+inf:-inf:+inf:1:1
+CodeTech:ST JOHNSBURY:-inf:+inf:-inf:+inf:0:2
+CodeCamp:FRANKLINTON:-inf:+inf:-inf:+inf:1:1
+TechSphere:LARGO:-inf:+inf:-inf:+inf:1:1
+TechFest:SALT LAKE CITY:-inf:+inf:-inf:+inf:1:2
+TechRevolution:DEQUEEN:-inf:+inf:-inf:+inf:1:2
+InnovateX:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+InnovationForum:MURPHY:-inf:+inf:-inf:+inf:1:3
+FutureDev:DENVER:-inf:+inf:-inf:+inf:1:2
+DevX:LUMBERTON:-inf:+inf:-inf:+inf:0:0
+TechX:SACRAMENTO:-inf:+inf:-inf:+inf:1:1
+CodeCamp:PARIS:-inf:+inf:-inf:+inf:1:2
+DevSummit:FLINT:-inf:+inf:-inf:+inf:0:0
+CodeTech:MIAMI:-inf:+inf:-inf:+inf:1:3
+DigitalTech:NATCHEZ:-inf:+inf:-inf:+inf:2:2
+CodeTech:MEDICINE LODGE:-inf:+inf:-inf:+inf:2:2
+FutureDev:MANCHESTER:-inf:+inf:-inf:+inf:2:2
+InnovateConnect:MORRIS:-inf:+inf:-inf:+inf:1:3
+DigitalTech:CHICAGO:-inf:+inf:-inf:+inf:1:2
+TechCon:MIAMI:-inf:+inf:-inf:+inf:1:3
+DevCon:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:4
+DigitalX:ONEONTA:-inf:+inf:-inf:+inf:1:3
+CodeCamp:CHICAGO:-inf:+inf:-inf:+inf:0:0
+CodeWorld:BELLINGHAM:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:MOUNT VERNON:-inf:+inf:-inf:+inf:1:1
+TechFest:WATONGA:-inf:+inf:-inf:+inf:1:1
+InnovateConnect:SPRINGFIELD:-inf:+inf:-inf:+inf:2:3
+FutureDev:HONOLULU:-inf:+inf:-inf:+inf:2:2
+InnovationForum:NEW YORK:-inf:+inf:-inf:+inf:1:2
+DigitalX:ATLANTA:-inf:+inf:-inf:+inf:2:4
+InnovateConnect:DALLAS:-inf:+inf:-inf:+inf:1:3
+CodeSphere:NORMAN:-inf:+inf:-inf:+inf:0:0
+TechRevolution:KINDER:-inf:+inf:-inf:+inf:1:1
+TechCon:BOISE:-inf:+inf:-inf:+inf:0:2
+CodeRevolution:DENVER:-inf:+inf:-inf:+inf:2:3
+InnovateTech:CHATTANOOGA:-inf:+inf:-inf:+inf:0:1
+TechWave:TIOGA:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:YONKERS:-inf:+inf:-inf:+inf:2:3
+FutureTech:COMANCHE:-inf:+inf:-inf:+inf:0:2
+DevX:OKLAHOMA CITY:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:CHARLOTTE:-inf:+inf:-inf:+inf:2:2
+TechX:MIAMI:-inf:+inf:-inf:+inf:2:2
+ConnectTech:WAUPUN:-inf:+inf:-inf:+inf:0:0
+DigitalX:LUTHERVILLE:-inf:+inf:-inf:+inf:1:2
+InnovateWave:TAMPA:-inf:+inf:-inf:+inf:1:2
+FutureDev:TUCSON:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:LILLINGTON:-inf:+inf:-inf:+inf:2:4
+TechX:RAPID CITY:-inf:+inf:-inf:+inf:2:2
+TechX:MARION:-inf:+inf:-inf:+inf:0:0
+CodeCamp:CINCINNATI:-inf:+inf:-inf:+inf:2:3
+InnovateX:MILWAUKEE:-inf:+inf:-inf:+inf:2:3
+InnovateWave:COLTON:-inf:+inf:-inf:+inf:1:2
+TechX:STREATOR:-inf:+inf:-inf:+inf:0:2
+TechUnite:RICHMOND:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:GRAND RAPIDS:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:ELIZABETHTOWN:-inf:+inf:-inf:+inf:2:2
+DigitalX:BETHLEHEM:-inf:+inf:-inf:+inf:0:2
+TechX:SHENANDOAH:-inf:+inf:-inf:+inf:1:3
+CodeCamp:SAN MATEO:-inf:+inf:-inf:+inf:0:0
+TechX:BOLINGBROOK:-inf:+inf:-inf:+inf:0:0
+TechSphere:YONKERS:-inf:+inf:-inf:+inf:0:1
+DevCon:FALLS CHURCH:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:OROVILLE:-inf:+inf:-inf:+inf:2:2
+DigitalX:BETHLEHEM:-inf:+inf:-inf:+inf:0:2
+InnovateWave:MONTROSE:-inf:+inf:-inf:+inf:0:1
+InnovationForum:MIAMI:-inf:+inf:-inf:+inf:2:4
+InnovationForum:LAMAR:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:SALEM:-inf:+inf:-inf:+inf:1:3
+DevSummit:HAMPTON:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:NASHVILLE:-inf:+inf:-inf:+inf:0:2
+DigitalTech:FRANKLIN:-inf:+inf:-inf:+inf:2:2
+FutureTech:MOUNT PLEASANT:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:PRAIRIE DU CHIEN:-inf:+inf:-inf:+inf:2:2
+FutureTech:EL CAMPO:-inf:+inf:-inf:+inf:2:2
+TechWave:NEENAH:-inf:+inf:-inf:+inf:2:4
+TechCon:TOWANDA:-inf:+inf:-inf:+inf:2:4
+CodeCamp:BOSTON:-inf:+inf:-inf:+inf:1:2
+TechRevolution:MIAMI:-inf:+inf:-inf:+inf:1:2
+CodeCamp:PITTSBURGH:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:MONTCLAIR:-inf:+inf:-inf:+inf:0:2
+InnovateX:MIAMI:-inf:+inf:-inf:+inf:0:2
+TechFest:COLUMBIA:-inf:+inf:-inf:+inf:2:4
+CodeTech:PEORIA:-inf:+inf:-inf:+inf:0:2
+DevCon:UNION:-inf:+inf:-inf:+inf:1:3
+CodeRevolution:RICHLAND CENTER:-inf:+inf:-inf:+inf:1:1
+FutureDev:LANSING:-inf:+inf:-inf:+inf:0:2
+CodeRevolution:NEW IBERIA:-inf:+inf:-inf:+inf:2:2
+TechX:UPPER SANDUSKY:-inf:+inf:-inf:+inf:1:2
+TechFest:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+CodeFusion:OSCEOLA:-inf:+inf:-inf:+inf:2:3
+DevCon:WIGGINS:-inf:+inf:-inf:+inf:2:3
+TechSphere:MORGANTOWN:-inf:+inf:-inf:+inf:2:3
+FutureInnovate:CHEYENNE:-inf:+inf:-inf:+inf:0:0
+TechCon:MACON:-inf:+inf:-inf:+inf:2:2
+DevSummit:JUANA DIAZ:-inf:+inf:-inf:+inf:1:2
+DevCon:SHEBOYGAN:-inf:+inf:-inf:+inf:2:4
+DevSummit:LENOIR:-inf:+inf:-inf:+inf:0:1
+InnovationForum:NEW YORK:-inf:+inf:-inf:+inf:0:2
+TechFest:COLBY:-inf:+inf:-inf:+inf:0:2
+InnovateWave:SAN ANGELO:-inf:+inf:-inf:+inf:1:2
+ConnectTech:WAILUKU:-inf:+inf:-inf:+inf:2:3
+TechRevolution:MINERAL WELLS:-inf:+inf:-inf:+inf:0:2
+TechX:SEATTLE:-inf:+inf:-inf:+inf:1:2
+InnovateSummit:BRONX:-inf:+inf:-inf:+inf:1:1
+TechFest:BUFORD:-inf:+inf:-inf:+inf:0:0
+TechFest:MANCHESTER:-inf:+inf:-inf:+inf:1:2
+DevCon:BOSSIER CITY:-inf:+inf:-inf:+inf:2:2
+TechFest:BOISE:-inf:+inf:-inf:+inf:0:1
+TechWave:PLATTSBURG:-inf:+inf:-inf:+inf:2:2
+TechUnite:PARK RIDGE:-inf:+inf:-inf:+inf:2:4
+InnovateConnect:BELLE GLADE:-inf:+inf:-inf:+inf:0:2
+FutureTech:WAIANAE:-inf:+inf:-inf:+inf:1:2
+DigitalX:GIG HARBOR:-inf:+inf:-inf:+inf:0:2
+ConnectTech:PRIMGHAR:-inf:+inf:-inf:+inf:1:1
+FutureDev:PLAINS:-inf:+inf:-inf:+inf:2:2
+TechCon:ARCADIA:-inf:+inf:-inf:+inf:2:4
+FutureTech:CROWN POINT:-inf:+inf:-inf:+inf:2:3
+FutureDev:WEST MIAMI:-inf:+inf:-inf:+inf:2:2
+CodeCamp:BALTIMORE:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:ALPENA:-inf:+inf:-inf:+inf:1:3
+TechX:MIAMI:-inf:+inf:-inf:+inf:0:2
+InnovationForum:HOUSTON:-inf:+inf:-inf:+inf:2:4
+CodeCamp:MILAN:-inf:+inf:-inf:+inf:2:2
+FutureDev:WENATCHEE:-inf:+inf:-inf:+inf:0:0
+InnovateTech:CLARKSTON:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:DELTONA:-inf:+inf:-inf:+inf:0:0
+CodeSphere:CLEVELAND:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:NEW YORK:-inf:+inf:-inf:+inf:0:0
+TechSphere:MOBILE:-inf:+inf:-inf:+inf:2:4
+CodeTech:BUCYRUS:-inf:+inf:-inf:+inf:2:2
+TechUnite:WINSTON-SALEM:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:WAGNER:-inf:+inf:-inf:+inf:1:2
+CodeWorld:EL CENTRO:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:FORT WORTH:-inf:+inf:-inf:+inf:2:4
+TechRevolution:CROCKETT:-inf:+inf:-inf:+inf:2:4
+FutureDev:SAN FRANCISCO:-inf:+inf:-inf:+inf:2:4
+FutureDev:GREENSBURG:-inf:+inf:-inf:+inf:2:4
+CodeSphere:PHILADELPHIA:-inf:+inf:-inf:+inf:1:3
+DevSummit:BAY CITY:-inf:+inf:-inf:+inf:0:2
+FutureTech:HIGHLAND PARK:-inf:+inf:-inf:+inf:2:3
+DevSummit:BELLEVUE:-inf:+inf:-inf:+inf:0:1
+DevCon:CLINTON:-inf:+inf:-inf:+inf:2:2
+CodeFusion:IRVING:-inf:+inf:-inf:+inf:2:3
+DigitalX:VIDOR:-inf:+inf:-inf:+inf:2:4
+TechSphere:MADISON:-inf:+inf:-inf:+inf:1:3
+TechRevolution:LINDEN:-inf:+inf:-inf:+inf:0:0
+TechX:LAKE BLUFF:-inf:+inf:-inf:+inf:2:2
+DigitalSummit:OXFORD:-inf:+inf:-inf:+inf:1:2
+DevCon:SUNRISE:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:HIALEAH:-inf:+inf:-inf:+inf:1:2
+InnovateWave:FAISON:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:HOUSTON:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:GARFIELD HEIGHTS:-inf:+inf:-inf:+inf:1:2
+FutureInnovate:NORTH ROYALTON:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:THAYER:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:BURKESVILLE:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:MINEOLA:-inf:+inf:-inf:+inf:1:1
+DevSummit:MOREHEAD:-inf:+inf:-inf:+inf:0:1
+ConnectTech:MARION:-inf:+inf:-inf:+inf:2:3
+DevSummit:MIAMI:-inf:+inf:-inf:+inf:0:2
+TechRevolution:MANASSAS:-inf:+inf:-inf:+inf:2:4
+DevCon:FOXBORO:-inf:+inf:-inf:+inf:2:2
+TechCon:PHILADELPHIA:-inf:+inf:-inf:+inf:2:3
+TechFest:STUART:-inf:+inf:-inf:+inf:1:1
+DevCon:CHULA VISTA:-inf:+inf:-inf:+inf:0:2
+TechFest:DANVILLE:-inf:+inf:-inf:+inf:0:1
+DevX:DORAL:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:SANTEE:-inf:+inf:-inf:+inf:1:1
+TechWave:PEORIA:-inf:+inf:-inf:+inf:1:1
+InnovationForum:INDIANAPOLIS:-inf:+inf:-inf:+inf:2:3
+InnovateSummit:CORYDON:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:OCALA:-inf:+inf:-inf:+inf:1:2
+InnovateX:WEST PLAINS:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:BELL:-inf:+inf:-inf:+inf:0:2
+CodeSphere:PHILADELPHIA:-inf:+inf:-inf:+inf:1:2
+DigitalX:POCATELLO:-inf:+inf:-inf:+inf:0:2
+CodeTech:UNIONDALE:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:SATANTA:-inf:+inf:-inf:+inf:1:3
+TechUnite:HOUSTON:-inf:+inf:-inf:+inf:2:2
+CodeCamp:BLUE SPRINGS:-inf:+inf:-inf:+inf:2:2
+InnovateTech:GENESEO:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:1:1
+InnovateTech:PORTLAND:-inf:+inf:-inf:+inf:1:2
+CodeCamp:SAVANNAH:-inf:+inf:-inf:+inf:0:2
+DevCon:EASTSOUND:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:HOT SPRINGS:-inf:+inf:-inf:+inf:0:0
+FutureDev:DENVER:-inf:+inf:-inf:+inf:0:1
+DevX:GARDNER:-inf:+inf:-inf:+inf:2:2
+DevCon:SEATTLE:-inf:+inf:-inf:+inf:1:3
+InnovateTech:CAMERON:-inf:+inf:-inf:+inf:1:1
+FutureTech:LAS VEGAS:-inf:+inf:-inf:+inf:2:3
+CodeCamp:LOS ANGELES:-inf:+inf:-inf:+inf:0:2
+InnovateX:SACRAMENTO:-inf:+inf:-inf:+inf:2:3
+InnovationForum:ASHEVILLE:-inf:+inf:-inf:+inf:2:3
+TechFest:MAYAGUEZ:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:TEMPERANCE:-inf:+inf:-inf:+inf:2:2
+TechRevolution:MARIANNA:-inf:+inf:-inf:+inf:1:3
+CodeTech:SAINT LOUIS:-inf:+inf:-inf:+inf:0:1
+FutureDev:BRYAN:-inf:+inf:-inf:+inf:1:2
+FutureTech:WATCHUNG:-inf:+inf:-inf:+inf:0:1
+TechFest:PALM CITY:-inf:+inf:-inf:+inf:1:3
+DigitalSummit:LAKE CHARLES:-inf:+inf:-inf:+inf:0:1
+DevSummit:EAST ORANGE:-inf:+inf:-inf:+inf:2:3
+DigitalTech:SEBASTIAN:-inf:+inf:-inf:+inf:2:3
+InnovateWave:MESQUITE:-inf:+inf:-inf:+inf:2:3
+DevX:MIAMISBURG:-inf:+inf:-inf:+inf:0:1
+ConnectTech:PERRYTON:-inf:+inf:-inf:+inf:1:3
+FutureTech:LAMAR:-inf:+inf:-inf:+inf:2:3
+FutureDev:GLENDORA:-inf:+inf:-inf:+inf:0:1
+FutureTech:OSHKOSH:-inf:+inf:-inf:+inf:2:3
+CodeCamp:HERSHEY:-inf:+inf:-inf:+inf:1:3
+DevCon:CHICAGO:-inf:+inf:-inf:+inf:1:2
+DevCon:NEW CASTLE:-inf:+inf:-inf:+inf:1:2
+DataScienceSummit:DETROIT:-inf:+inf:-inf:+inf:2:4
+CodeSphere:FRANKLIN:-inf:+inf:-inf:+inf:2:2
+CodeSphere:SYLVA:-inf:+inf:-inf:+inf:0:0
+DevCon:MUSKOGEE:-inf:+inf:-inf:+inf:2:2
+TechUnite:GREAT FALLS:-inf:+inf:-inf:+inf:2:3
+CodeCamp:LOCKNEY:-inf:+inf:-inf:+inf:1:2
+DevCon:FRESNO:-inf:+inf:-inf:+inf:0:2
+InnovateSummit:INDIANAPOLIS:-inf:+inf:-inf:+inf:0:1
+DevCon:BOSTON:-inf:+inf:-inf:+inf:2:3
+DigitalTech:BRENTWOOD:-inf:+inf:-inf:+inf:2:2
+ConnectTech:GREAT FALLS:-inf:+inf:-inf:+inf:2:3
+CodeTech:ST PETERSBURG:-inf:+inf:-inf:+inf:0:0
+TechRevolution:STURGEON BAY:-inf:+inf:-inf:+inf:0:2
+DigitalX:FAIRBANKS:-inf:+inf:-inf:+inf:1:3
+CodeWorld:ATLANTA:-inf:+inf:-inf:+inf:2:4
+DigitalTech:MIAMI:-inf:+inf:-inf:+inf:2:2
+DigitalX:GREENFIELD:-inf:+inf:-inf:+inf:0:1
+FutureInnovate:NORTH WILKESBORO:-inf:+inf:-inf:+inf:0:1
+FutureDev:TRENTON:-inf:+inf:-inf:+inf:1:2
+DevSummit:AVALON:-inf:+inf:-inf:+inf:1:2
+InnovationForum:SIDNEY:-inf:+inf:-inf:+inf:1:3
+ConnectTech:SAINT LOUIS:-inf:+inf:-inf:+inf:1:3
+CodeSphere:IDA GROVE:-inf:+inf:-inf:+inf:0:2
+CodeCamp:CONNERSVILLE:-inf:+inf:-inf:+inf:0:2
+CodeSphere:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+CodeWorld:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+CodeRevolution:YONKERS:-inf:+inf:-inf:+inf:1:1
+TechUnite:CONCORD:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:EAST BOSTON:-inf:+inf:-inf:+inf:2:3
+TechRevolution:BRYAN:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:FRISCO:-inf:+inf:-inf:+inf:1:3
+CodeSphere:EL DORADO SPRINGS:-inf:+inf:-inf:+inf:1:3
+DevX:ALBANY:-inf:+inf:-inf:+inf:1:1
+CodeSphere:EXTON:-inf:+inf:-inf:+inf:0:0
+CodeRevolution:MACON:-inf:+inf:-inf:+inf:1:1
+CodeTech:LANGDON:-inf:+inf:-inf:+inf:2:3
+TechUnite:HOUSTON:-inf:+inf:-inf:+inf:1:2
+InnovationForum:FAYETTEVILLE:-inf:+inf:-inf:+inf:0:1
+CodeRevolution:KANSAS CITY:-inf:+inf:-inf:+inf:1:3
+TechX:BRONX:-inf:+inf:-inf:+inf:2:2
+FutureDev:NEW ROCHELLE:-inf:+inf:-inf:+inf:1:2
+TechCon:SUNNYSIDE:-inf:+inf:-inf:+inf:1:1
+DataScienceSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+TechFest:KETTERING:-inf:+inf:-inf:+inf:0:2
+TechUnite:LIVONIA:-inf:+inf:-inf:+inf:1:1
+CodeSphere:LOS ANGELES:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:NEWARK:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:BILOXI:-inf:+inf:-inf:+inf:1:1
+InnovateX:KITTANNING:-inf:+inf:-inf:+inf:1:3
+TechSphere:ZEPHYRHILLS:-inf:+inf:-inf:+inf:0:2
+ConnectTech:MORRISVILLE:-inf:+inf:-inf:+inf:0:2
+TechWave:KINSLEY:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:FAIRBANKS:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:PLAINFIELD:-inf:+inf:-inf:+inf:1:1
+TechWave:MERRILLVILLE:-inf:+inf:-inf:+inf:2:4
+TechX:MILWAUKEE:-inf:+inf:-inf:+inf:1:1
+FutureTech:HOUSTON:-inf:+inf:-inf:+inf:2:4
+InnovateX:TULSA:-inf:+inf:-inf:+inf:1:3
+TechUnite:WILSON:-inf:+inf:-inf:+inf:0:1
+DigitalTech:RICHMOND:-inf:+inf:-inf:+inf:0:2
+DevCon:NACOGDOCHES:-inf:+inf:-inf:+inf:0:2
+TechFest:HAMPTON:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:LA JOLLA:-inf:+inf:-inf:+inf:1:2
+TechUnite:LEHIGHTON:-inf:+inf:-inf:+inf:2:2
+InnovateWave:MIAMI:-inf:+inf:-inf:+inf:2:4
+TechX:LITTLE ROCK:-inf:+inf:-inf:+inf:0:2
+CodeCamp:SOUTH BEND:-inf:+inf:-inf:+inf:1:3
+InnovateWave:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:0:1
+DigitalX:PEKIN:-inf:+inf:-inf:+inf:1:3
+TechRevolution:ELMHURST:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:LOUISVILLE:-inf:+inf:-inf:+inf:0:0
+InnovateTech:MIAMI:-inf:+inf:-inf:+inf:0:0
+InnovateTech:SANTA FE:-inf:+inf:-inf:+inf:1:3
+DevX:DORAL:-inf:+inf:-inf:+inf:0:0
+TechWave:SALT LAKE CITY:-inf:+inf:-inf:+inf:2:4
+DevCon:SAINT LOUIS:-inf:+inf:-inf:+inf:0:0
+TechX:LEAWOOD:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:PHILIPPI:-inf:+inf:-inf:+inf:2:4
+DevX:EDGERTON:-inf:+inf:-inf:+inf:2:3
+DevSummit:WESTCHESTER:-inf:+inf:-inf:+inf:1:3
+TechRevolution:NEWPORT BEACH:-inf:+inf:-inf:+inf:2:4
+CodeTech:SCHENECTADY:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:MONTGOMERY:-inf:+inf:-inf:+inf:2:3
+TechRevolution:NEW YORK:-inf:+inf:-inf:+inf:1:1
+DevSummit:ALTAMONTE SPRINGS:-inf:+inf:-inf:+inf:2:2
+DevSummit:SANTEE:-inf:+inf:-inf:+inf:0:0
+TechWave:JOHNSON:-inf:+inf:-inf:+inf:1:3
+FutureDev:RICHMOND:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:CHICAGO:-inf:+inf:-inf:+inf:2:2
+FutureTech:SALEM:-inf:+inf:-inf:+inf:2:2
+CodeFusion:RAINELLE:-inf:+inf:-inf:+inf:2:3
+FutureTech:MEBANE:-inf:+inf:-inf:+inf:0:2
+CodeCamp:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:2
+DataScienceSummit:PHILADELPHIA:-inf:+inf:-inf:+inf:0:2
+DigitalTech:OSAGE:-inf:+inf:-inf:+inf:0:2
+TechFest:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+InnovateTech:CINCINNATI:-inf:+inf:-inf:+inf:1:2
+TechCon:GLENWOOD SPRINGS:-inf:+inf:-inf:+inf:0:2
+InnovateWave:BRONX:-inf:+inf:-inf:+inf:0:0
+TechUnite:DALLAS:-inf:+inf:-inf:+inf:1:2
+FutureDev:HOT SPRINGS:-inf:+inf:-inf:+inf:0:2
+FutureDev:BRENTWOOD:-inf:+inf:-inf:+inf:2:2
+CodeTech:TRAVERSE CITY:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:ALBEMARLE:-inf:+inf:-inf:+inf:0:2
+InnovateTech:WEST CHESTER:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:KENMORE:-inf:+inf:-inf:+inf:2:3
+FutureInnovate:DETROIT:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:RAINELLE:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:PHILA:-inf:+inf:-inf:+inf:2:3
+DevSummit:BROOKHAVEN:-inf:+inf:-inf:+inf:0:1
+FutureDev:WARREN:-inf:+inf:-inf:+inf:1:3
+InnovateWave:WINSTON SALEM:-inf:+inf:-inf:+inf:2:2
+TechSphere:HIALEAH:-inf:+inf:-inf:+inf:1:3
+DevX:SITKA:-inf:+inf:-inf:+inf:2:3
+DigitalTech:HOLLYWOOD:-inf:+inf:-inf:+inf:1:2
+CodeTech:CAMDEN ON GAULEY:-inf:+inf:-inf:+inf:1:3
+DigitalSummit:BOSSIER CITY:-inf:+inf:-inf:+inf:0:0
+TechX:BIRMINGHAM:-inf:+inf:-inf:+inf:1:3
+CodeFusion:RENTON:-inf:+inf:-inf:+inf:2:4
+TechCon:GENEVA:-inf:+inf:-inf:+inf:0:2
+InnovateX:BOLINGBROOK:-inf:+inf:-inf:+inf:0:0
+CodeFusion:HARLAN:-inf:+inf:-inf:+inf:1:1
+InnovateTech:MCALLEN:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:CHICAGO:-inf:+inf:-inf:+inf:0:2
+InnovateTech:DUBLIN:-inf:+inf:-inf:+inf:2:2
+FutureTech:ORLANDO:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:PHOENIX:-inf:+inf:-inf:+inf:0:1
+CodeTech:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+TechFest:JEFFERSON:-inf:+inf:-inf:+inf:1:2
+TechUnite:JOHNSTON:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:GREEN BAY:-inf:+inf:-inf:+inf:2:3
+CodeSphere:SHELBY:-inf:+inf:-inf:+inf:2:3
+FutureTech:DALLAS:-inf:+inf:-inf:+inf:0:2
+DigitalTech:ASHEVILLE:-inf:+inf:-inf:+inf:1:2
+FutureDev:LAKE CHARLES:-inf:+inf:-inf:+inf:0:0
+CodeRevolution:PECOS:-inf:+inf:-inf:+inf:1:1
+TechSphere:WARREN:-inf:+inf:-inf:+inf:2:3
+DigitalTech:HARRODSBURG:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:CLEARWATER:-inf:+inf:-inf:+inf:2:3
+CodeFusion:NEW YORK:-inf:+inf:-inf:+inf:2:3
+CodeWorld:WESTFIELD:-inf:+inf:-inf:+inf:1:1
+DevCon:FORT BRAGG:-inf:+inf:-inf:+inf:2:3
+ConnectTech:BURKESVILLE:-inf:+inf:-inf:+inf:2:3
+TechUnite:STARKE:-inf:+inf:-inf:+inf:2:3
+InnovateX:MORTON:-inf:+inf:-inf:+inf:1:2
+InnovateTech:FORT IRWIN:-inf:+inf:-inf:+inf:1:3
+CodeSphere:POMPANO BEACH:-inf:+inf:-inf:+inf:2:2
+CodeFusion:INDEPENDENCE:-inf:+inf:-inf:+inf:0:0
+DigitalX:SAN FRANCISCO:-inf:+inf:-inf:+inf:2:2
+InnovateWave:PEORIA:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:HOUSTON:-inf:+inf:-inf:+inf:0:2
+FutureDev:SPRINGFIELD:-inf:+inf:-inf:+inf:2:4
+TechUnite:ARDMORE:-inf:+inf:-inf:+inf:0:1
+TechSphere:MCCOMB:-inf:+inf:-inf:+inf:0:0
+InnovateWave:TEMECULA:-inf:+inf:-inf:+inf:1:3
+ConnectTech:BEAUFORT:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:KALISPELL:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:ADRIAN:-inf:+inf:-inf:+inf:0:1
+TechFest:PLAINS:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:CORVALLIS:-inf:+inf:-inf:+inf:1:2
+ConnectTech:TEMPE:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:LEVELLAND:-inf:+inf:-inf:+inf:1:3
+DevSummit:BALTIMORE:-inf:+inf:-inf:+inf:1:1
+InnovationForum:BIRMINGHAM:-inf:+inf:-inf:+inf:2:4
+TechCon:EL CAMPO:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:LAUREL:-inf:+inf:-inf:+inf:0:2
+TechFest:DECATUR:-inf:+inf:-inf:+inf:2:4
+DevCon:NEW RICHMOND:-inf:+inf:-inf:+inf:0:2
+TechX:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+ConnectTech:WEST PALM BEACH:-inf:+inf:-inf:+inf:2:2
+CodeRevolution:WASHINGTON:-inf:+inf:-inf:+inf:1:3
+TechUnite:CENTER LINE:-inf:+inf:-inf:+inf:1:2
+CodeTech:BEDFORD PARK:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:PHILADELPHIA:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:BROWNWOOD:-inf:+inf:-inf:+inf:0:0
+TechRevolution:WENATCHEE:-inf:+inf:-inf:+inf:1:2
+CodeSphere:MOUNT KISCO:-inf:+inf:-inf:+inf:2:3
+InnovateConnect:TEMPERANCE:-inf:+inf:-inf:+inf:0:0
+DataScienceSummit:HANOVER:-inf:+inf:-inf:+inf:1:2
+InnovationForum:SUNRISE:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:MARSHALL:-inf:+inf:-inf:+inf:0:2
+FutureDev:BOYNTON BEACH:-inf:+inf:-inf:+inf:1:3
+InnovateSummit:LAREDO:-inf:+inf:-inf:+inf:2:3
+InnovateWave:RICHLAND:-inf:+inf:-inf:+inf:0:2
+TechCon:TALLAHASSEE:-inf:+inf:-inf:+inf:2:4
+TechX:ARLINGTON:-inf:+inf:-inf:+inf:0:2
+CodeCamp:DANVILLE:-inf:+inf:-inf:+inf:0:1
+DataScienceSummit:GURNEE:-inf:+inf:-inf:+inf:1:1
+InnovateWave:SAINT LOUIS:-inf:+inf:-inf:+inf:1:1
+CodeCamp:ELGIN:-inf:+inf:-inf:+inf:2:2
+DevSummit:NEPTUNE:-inf:+inf:-inf:+inf:1:3
+DigitalX:AUDUBON:-inf:+inf:-inf:+inf:2:4
+CodeCamp:PENSACOLA:-inf:+inf:-inf:+inf:0:2
+ConnectTech:MARTINSBURG:-inf:+inf:-inf:+inf:1:2
+TechUnite:HERSHEY:-inf:+inf:-inf:+inf:2:2
+InnovateWave:FAYETTEVILLE:-inf:+inf:-inf:+inf:2:4
+CodeSphere:FORT WORTH:-inf:+inf:-inf:+inf:2:4
+DevCon:BROOKVILLE:-inf:+inf:-inf:+inf:0:1
+FutureTech:COLUMBUS:-inf:+inf:-inf:+inf:1:2
+InnovateTech:BRECKSVILLE:-inf:+inf:-inf:+inf:0:0
+FutureInnovate:SACRAMENTO:-inf:+inf:-inf:+inf:2:4
+TechCon:PAOLA:-inf:+inf:-inf:+inf:2:3
+DevX:COLQUITT:-inf:+inf:-inf:+inf:0:1
+InnovateConnect:JASPER:-inf:+inf:-inf:+inf:0:1
+TechFest:IOWA CITY:-inf:+inf:-inf:+inf:2:3
+DevX:CHARLOTTE:-inf:+inf:-inf:+inf:1:3
+TechCon:MC LEANSVILLE:-inf:+inf:-inf:+inf:0:2
+InnovateTech:MIAMI:-inf:+inf:-inf:+inf:0:0
+DevCon:SCHENECTADY:-inf:+inf:-inf:+inf:0:1
+InnovationForum:CAPE GIRARDEAU:-inf:+inf:-inf:+inf:0:1
+DigitalX:SYKESVILLE:-inf:+inf:-inf:+inf:1:3
+DevCon:FORT CAMPBELL:-inf:+inf:-inf:+inf:2:3
+DigitalSummit:SACRAMENTO:-inf:+inf:-inf:+inf:1:3
+CodeCamp:MONTICELLO:-inf:+inf:-inf:+inf:1:3
+TechX:STREAMWOOD:-inf:+inf:-inf:+inf:2:2
+InnovateSummit:NORMAN:-inf:+inf:-inf:+inf:2:3
+TechWave:ALTAMONTE SPRINGS:-inf:+inf:-inf:+inf:2:3
+DevCon:DETROIT:-inf:+inf:-inf:+inf:0:0
+CodeCamp:BOSTON:-inf:+inf:-inf:+inf:0:1
+TechWave:KILGORE:-inf:+inf:-inf:+inf:1:3
+ConnectTech:ERIE:-inf:+inf:-inf:+inf:1:1
+CodeTech:MEMPHIS:-inf:+inf:-inf:+inf:1:2
+CodeTech:EDISON:-inf:+inf:-inf:+inf:2:2
+FutureDev:WHEATLAND:-inf:+inf:-inf:+inf:1:3
+TechCon:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+CodeWorld:ASHLAND:-inf:+inf:-inf:+inf:1:1
+InnovateConnect:CRESTON:-inf:+inf:-inf:+inf:0:0
+InnovateTech:JUPITER:-inf:+inf:-inf:+inf:2:4
+TechSphere:DANVILLE:-inf:+inf:-inf:+inf:1:2
+DigitalTech:OKLAHOMA CITY:-inf:+inf:-inf:+inf:2:3
+CodeSphere:GRAND RAPIDS:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:CORPUS CHRISTI:-inf:+inf:-inf:+inf:1:2
+CodeRevolution:SANTA CLARA:-inf:+inf:-inf:+inf:0:0
+TechCon:PRAIRIE DU CHIEN:-inf:+inf:-inf:+inf:0:0
+DigitalX:MARSHFIELD:-inf:+inf:-inf:+inf:0:0
+InnovateWave:MERIDIAN:-inf:+inf:-inf:+inf:2:4
+CodeRevolution:SWOYERSVILLE:-inf:+inf:-inf:+inf:1:2
+InnovateX:KINGSTON:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:MARINETTE:-inf:+inf:-inf:+inf:1:1
+DevSummit:SAINT LOUIS:-inf:+inf:-inf:+inf:2:3
+TechSphere:GARDEN CITY:-inf:+inf:-inf:+inf:1:1
+TechFest:LAKE CITY:-inf:+inf:-inf:+inf:0:0
+InnovationForum:SAINT LOUIS:-inf:+inf:-inf:+inf:1:2
+TechUnite:GUNNISON:-inf:+inf:-inf:+inf:2:3
+InnovateTech:TUSCALOOSA:-inf:+inf:-inf:+inf:2:2
+FutureInnovate:OWOSSO:-inf:+inf:-inf:+inf:2:2
+FutureTech:BIG RAPIDS:-inf:+inf:-inf:+inf:2:4
+DigitalTech:CHICAGO:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:OLATHE:-inf:+inf:-inf:+inf:1:1
+TechWave:REEDSBURG:-inf:+inf:-inf:+inf:2:3
+InnovateTech:WESTBURY:-inf:+inf:-inf:+inf:0:0
+TechCon:DES PLAINES:-inf:+inf:-inf:+inf:0:1
+TechCon:ROCKLIN:-inf:+inf:-inf:+inf:2:3
+DevSummit:MIAMI:-inf:+inf:-inf:+inf:2:4
+TechX:TEMPERANCE:-inf:+inf:-inf:+inf:0:0
+TechCon:GALLIPOLIS:-inf:+inf:-inf:+inf:1:2
+DigitalSummit:JASPER:-inf:+inf:-inf:+inf:0:1
+InnovateTech:MIAMI:-inf:+inf:-inf:+inf:0:2
+CodeFusion:SPRINGFIELD:-inf:+inf:-inf:+inf:2:3
+CodeTech:WESTERLY:-inf:+inf:-inf:+inf:2:3
+DevX:KANSAS CITY:-inf:+inf:-inf:+inf:2:2
+TechFest:SCOTTSBURG:-inf:+inf:-inf:+inf:0:2
+InnovateWave:SAN ANTONIO:-inf:+inf:-inf:+inf:0:1
+ConnectTech:MANTECA:-inf:+inf:-inf:+inf:0:2
+CodeFusion:CINCINNATI:-inf:+inf:-inf:+inf:2:2
+CodeWorld:FULLERTON:-inf:+inf:-inf:+inf:1:1
+CodeTech:GARDEN CITY:-inf:+inf:-inf:+inf:1:1
+DevSummit:GRAND RAPIDS:-inf:+inf:-inf:+inf:2:3
+CodeCamp:SAINT LOUIS:-inf:+inf:-inf:+inf:0:2
+CodeSphere:MIAMI:-inf:+inf:-inf:+inf:2:4
+InnovateSummit:SPRINGFIELD:-inf:+inf:-inf:+inf:1:3
+TechX:LYNNVILLE:-inf:+inf:-inf:+inf:2:3
+DigitalX:BROOKLYN:-inf:+inf:-inf:+inf:1:3
+InnovateTech:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+FutureTech:DENVER:-inf:+inf:-inf:+inf:0:1
+InnovationForum:TACOMA:-inf:+inf:-inf:+inf:1:3
+FutureTech:SPRINGFIELD:-inf:+inf:-inf:+inf:0:2
+DevX:PASADENA:-inf:+inf:-inf:+inf:0:1
+FutureDev:COTTONWOOD:-inf:+inf:-inf:+inf:1:2
+InnovateTech:SOUTH MIAMI:-inf:+inf:-inf:+inf:1:2
+InnovateConnect:KEENE:-inf:+inf:-inf:+inf:0:0
+TechSphere:RENTON:-inf:+inf:-inf:+inf:2:4
+CodeTech:HIALEAH:-inf:+inf:-inf:+inf:1:1
+TechUnite:MIAMI:-inf:+inf:-inf:+inf:1:3
+DevSummit:PERRY HALL:-inf:+inf:-inf:+inf:1:3
+CodeWorld:BALTIMORE:-inf:+inf:-inf:+inf:1:2
+FutureTech:LOVINGTON:-inf:+inf:-inf:+inf:0:2
+ConnectTech:MARSHFIELD:-inf:+inf:-inf:+inf:2:2
+DigitalX:HIALEAH:-inf:+inf:-inf:+inf:1:1
+InnovateSummit:KNOXVILLE:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:SPRINGFIELD:-inf:+inf:-inf:+inf:0:0
+FutureTech:GRETNA:-inf:+inf:-inf:+inf:0:1
+ConnectTech:JERSEY CITY:-inf:+inf:-inf:+inf:1:3
+TechUnite:OCALA:-inf:+inf:-inf:+inf:0:1
+FutureTech:HAWKINSVILLE:-inf:+inf:-inf:+inf:2:3
+FutureInnovate:MIAMI:-inf:+inf:-inf:+inf:0:1
+InnovateTech:SUSQUEHANNA:-inf:+inf:-inf:+inf:1:3
+DigitalX:GAITHERSBURG:-inf:+inf:-inf:+inf:1:1
+CodeTech:MCALLEN:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:SALEM:-inf:+inf:-inf:+inf:0:0
+CodeFusion:NATCHEZ:-inf:+inf:-inf:+inf:0:0
+TechX:JERSEY CITY:-inf:+inf:-inf:+inf:0:2
+DataScienceSummit:TROY:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:LANCASTER:-inf:+inf:-inf:+inf:2:4
+FutureTech:BEND:-inf:+inf:-inf:+inf:0:1
+DigitalSummit:HARRIS:-inf:+inf:-inf:+inf:0:2
+CodeTech:BRENTWOOD:-inf:+inf:-inf:+inf:0:0
+InnovateTech:LIBERAL:-inf:+inf:-inf:+inf:1:1
+CodeSphere:WOODSVILLE:-inf:+inf:-inf:+inf:2:4
+DataScienceSummit:QUINCY:-inf:+inf:-inf:+inf:0:1
+DevCon:DALLAS:-inf:+inf:-inf:+inf:2:3
+TechUnite:PEORIA:-inf:+inf:-inf:+inf:2:2
+ConnectTech:FREDERICK:-inf:+inf:-inf:+inf:1:2
+TechUnite:PALO ALTO:-inf:+inf:-inf:+inf:1:1
+DevCon:CLEWISTON:-inf:+inf:-inf:+inf:0:1
+TechCon:RIVER FOREST:-inf:+inf:-inf:+inf:0:2
+CodeTech:CREVE COEUR:-inf:+inf:-inf:+inf:0:2
+FutureInnovate:ATLANTA:-inf:+inf:-inf:+inf:2:3
+InnovationForum:HONOLULU:-inf:+inf:-inf:+inf:0:2
+TechFest:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+ConnectTech:SACRAMENTO:-inf:+inf:-inf:+inf:1:3
+FutureInnovate:FRANKLIN:-inf:+inf:-inf:+inf:1:2
+InnovateX:EL CAMPO:-inf:+inf:-inf:+inf:1:3
+InnovateWave:ABERDEEN:-inf:+inf:-inf:+inf:2:3
+TechRevolution:PEORIA:-inf:+inf:-inf:+inf:2:3
+CodeRevolution:BRECKENRIDGE:-inf:+inf:-inf:+inf:1:1
+TechFest:SHAKER HEIGHTS:-inf:+inf:-inf:+inf:0:0
+DevX:SUMMIT:-inf:+inf:-inf:+inf:1:2
+DigitalTech:MARYVILLE:-inf:+inf:-inf:+inf:1:3
+DataScienceSummit:MIAMI:-inf:+inf:-inf:+inf:1:3
+FutureDev:MIAMI:-inf:+inf:-inf:+inf:0:2
+TechUnite:CLEARWATER:-inf:+inf:-inf:+inf:0:2
+TechUnite:COMPTON:-inf:+inf:-inf:+inf:2:4
+DevX:FORT HOOD:-inf:+inf:-inf:+inf:1:1
+FutureDev:BELLEFONTAINE:-inf:+inf:-inf:+inf:2:3
+FutureDev:LAGRANGEVILLE:-inf:+inf:-inf:+inf:1:1
+DevCon:FAIRFIELD:-inf:+inf:-inf:+inf:0:0
+InnovateSummit:EASLEY:-inf:+inf:-inf:+inf:0:0
+FutureDev:LEDERACH:-inf:+inf:-inf:+inf:1:2
+TechFest:NORTON:-inf:+inf:-inf:+inf:0:0
+ConnectTech:DALLAS:-inf:+inf:-inf:+inf:0:2
+TechWave:DALLAS:-inf:+inf:-inf:+inf:2:2
+CodeCamp:CHICAGO:-inf:+inf:-inf:+inf:2:2
+TechRevolution:RENTON:-inf:+inf:-inf:+inf:2:3
+TechX:CHARLOTTE:-inf:+inf:-inf:+inf:0:0
+FutureTech:MACOMB:-inf:+inf:-inf:+inf:2:4
+DigitalSummit:ENNIS:-inf:+inf:-inf:+inf:1:3
+InnovateWave:MIRAMAR:-inf:+inf:-inf:+inf:1:3
+CodeCamp:LOVELAND:-inf:+inf:-inf:+inf:2:4
+DigitalTech:WESTWOOD:-inf:+inf:-inf:+inf:2:3
+DevSummit:LOS ANGELES:-inf:+inf:-inf:+inf:1:3
+TechUnite:FORT LAUDERDALE:-inf:+inf:-inf:+inf:0:1
+FutureTech:BURKESVILLE:-inf:+inf:-inf:+inf:0:0
+CodeWorld:LITITZ:-inf:+inf:-inf:+inf:1:1
+DigitalX:KNOXVILLE:-inf:+inf:-inf:+inf:0:0
+InnovateConnect:DETROIT:-inf:+inf:-inf:+inf:0:0
+TechRevolution:CHICAGO:-inf:+inf:-inf:+inf:0:1
+TechSphere:BURKESVILLE:-inf:+inf:-inf:+inf:1:2
+InnovateTech:QUINCY:-inf:+inf:-inf:+inf:2:4
+FutureDev:BALTIMORE:-inf:+inf:-inf:+inf:0:1
+CodeCamp:HARTFORD:-inf:+inf:-inf:+inf:1:1
+TechFest:SALEM:-inf:+inf:-inf:+inf:1:1
+InnovateTech:EDISON:-inf:+inf:-inf:+inf:0:1
+CodeTech:YONKERS:-inf:+inf:-inf:+inf:1:1
+FutureInnovate:LOUISVILLE:-inf:+inf:-inf:+inf:0:1
+InnovateSummit:CHANUTE:-inf:+inf:-inf:+inf:0:2
+DigitalSummit:HONOLULU:-inf:+inf:-inf:+inf:2:3
+CodeCamp:BROOKLYN:-inf:+inf:-inf:+inf:0:1
+TechX:FORT DODGE:-inf:+inf:-inf:+inf:2:3
+DevX:COLORADO SPRINGS:-inf:+inf:-inf:+inf:0:1
+FutureDev:KAMUELA:-inf:+inf:-inf:+inf:0:1
+TechCon:BAKERSFIELD:-inf:+inf:-inf:+inf:1:3
+CodeFusion:WEST PALM BEACH:-inf:+inf:-inf:+inf:1:1
+CodeRevolution:NEW YORK:-inf:+inf:-inf:+inf:0:1
+CodeWorld:BEECH GROVE:-inf:+inf:-inf:+inf:1:2
+TechX:FT CARSON:-inf:+inf:-inf:+inf:1:1
+FutureTech:LOUISVILLE:-inf:+inf:-inf:+inf:1:1
+TechSphere:ROSEDALE:-inf:+inf:-inf:+inf:0:2
+TechSphere:CHICAGO:-inf:+inf:-inf:+inf:0:0
+DigitalSummit:DETROIT:-inf:+inf:-inf:+inf:0:2
+TechWave:COLUMBUS:-inf:+inf:-inf:+inf:2:4
+TechX:KEENE:-inf:+inf:-inf:+inf:0:0
+DevSummit:BLOOMINGTON:-inf:+inf:-inf:+inf:2:4
+CodeTech:EAGLE PASS:-inf:+inf:-inf:+inf:1:2
+DigitalX:CHARLESTON:-inf:+inf:-inf:+inf:1:1
+CodeCamp:SAINT JOSEPH:-inf:+inf:-inf:+inf:2:4
+CodeWorld:MILWAUKEE:-inf:+inf:-inf:+inf:1:3
+CodeCamp:DANVILLE:-inf:+inf:-inf:+inf:1:1
+CodeFusion:FAIRBANKS:-inf:+inf:-inf:+inf:0:1
+InnovateWave:MONTOUR FALLS:-inf:+inf:-inf:+inf:0:1
+DevX:QUINCY:-inf:+inf:-inf:+inf:0:0
+TechSphere:PRINCE FREDERICK:-inf:+inf:-inf:+inf:1:2
+InnovateTech:BRONX:-inf:+inf:-inf:+inf:1:1
+DevCon:MURRAY:-inf:+inf:-inf:+inf:1:3
+TechX:COLUSA:-inf:+inf:-inf:+inf:1:1
+DigitalSummit:BIRMINGHAM:-inf:+inf:-inf:+inf:2:4
+TechFest:LIBERAL:-inf:+inf:-inf:+inf:2:4
+InnovateTech:CHARLOTTE:-inf:+inf:-inf:+inf:0:2
+InnovationForum:CHARLESTON:-inf:+inf:-inf:+inf:2:4
+CodeSphere:WASHINGTON:-inf:+inf:-inf:+inf:2:3
+InnovateTech:SAN ANTONIO:-inf:+inf:-inf:+inf:1:2
+FutureDev:MALONE:-inf:+inf:-inf:+inf:2:3
+TechRevolution:LOMPOC:-inf:+inf:-inf:+inf:1:2
+

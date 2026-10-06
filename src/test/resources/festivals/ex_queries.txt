@@ -1,0 +1,5 @@
+Relation r1 = Database.getRelation("tripTo");               	// tripTo
+Relation r2 = Database.query(new NaturalJoin(), r1, r1);    	// tripTo/tripTo
+Relation r3 = Database.getRelation("hosts");			// hosts
+Relation r4 = Database.query(new NaturalJoin(), r1, r3);	// tripTo/hosts
+
